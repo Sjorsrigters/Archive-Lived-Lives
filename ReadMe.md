@@ -21,9 +21,9 @@
 <a name="1"></a>
 ## 1. Artefact
 
-<img align="left" width="360" height="auto" src="Images/Tutankhamon.jpg"> <br>  *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="360" height="auto" src="Images/Tutankhamon.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
 
-[Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
+#### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
 
 |                      |                                |
 |----------------------|:------------------------------:|
