@@ -47,6 +47,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 <img align="left" width="180" height="auto" src="Images/Seine.jpg">
 
+Death mask of L'Inconnue de la Seine
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
 In the following decades, *her death mask was much reproduced, in effect becoming an objet d'art.* Among her 20th century admirers were Giacometti, Man Ray, Vladimir Nabokov and Albert Camus referred to her as the "drowned Mona Lisa."
@@ -60,14 +61,13 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.3"></a>
 ### Death mask of the famous
 
-<img align="left" width="180" height="auto" src="Images/Napoleon.jpg">
-<img align="left" width="180" height="auto" src="Images/Franklin.jpg">
-<img align="left" width="180" height="auto" src="Images/Beethoven.jpg">
+<img width="360" height="auto" src="Images/Napoleon.jpg"> Napoleon
+<img width="360" height="auto" src="Images/Franklin.jpg"> Franklin
+<img width="360" height="auto" src="Images/Beethoven.jpg"> Beethoven
 
 
 <a name="3"></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
-
 
 
 
