@@ -42,7 +42,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-![Tux, the Linux mascot](/assets/images/tux.png "L'Inconnue de la Seine")
+<img align="left" width="120" height="auto" src="Images/Seine.jpg">
 
 ## L'Inconnue de la Seine
 
