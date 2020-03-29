@@ -21,12 +21,12 @@
 <a name="1"></a>
 ## 1. Artefact
 
-<img width="360" height="auto" src="Images/Tutankhamon.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="360" height="auto" src="Images/Artefact.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
 
-#### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
+### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
 
 |                      |                                |
-|----------------------|:------------------------------:|
+|----------------------|--------------------------------|
 | Call Number          | IISG BG K21/155                |
 | Access               | Limited                        |
 | Physical Description | Plaster, 30 cm.                |
