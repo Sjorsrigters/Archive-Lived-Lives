@@ -35,6 +35,8 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
 
+![Deathmask Tutankhamon](Archive-Lived-Lives/images/Tutankhamon.jpg)
+
 
 <a name="2.2"></a>
 ### - What is a death mask?
