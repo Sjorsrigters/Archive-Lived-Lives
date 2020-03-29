@@ -61,11 +61,15 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.3"></a>
 ### Death mask of the famous
 
-![Napoleon Bonaparte](Images/Napoleon.jpg) *Napoleon Bonaparte*
-![Benjamin Franklin](Images/Franklin.jpg) *Benjamin Franklin*
-![Ludwig van Beethoven](Images/Beethoven.jpg) *Ludwig van Beethoven*
+![Napoleon Bonaparte](Images/Napoleon.jpg) <br/> *Napoleon Bonaparte*
+
+![Benjamin Franklin](Images/Franklin.jpg) <br/> *Benjamin Franklin*
+
+![Ludwig van Beethoven](Images/Beethoven.jpg) <br/> *Ludwig van Beethoven*
 
 [SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+
+---
 
 <a name="3"></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
