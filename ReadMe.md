@@ -21,6 +21,19 @@
 <a name="1"></a>
 ## 1. Artefact
 
+<img align="left" width="360" height="auto" src="Images/Tutankhamon.jpg"> <br>  *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
+
+[Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
+
+|                      |                                |
+|----------------------|:------------------------------:|
+| Call Number          | IISG BG K21/155                |
+| Access               | Limited                        |
+| Physical Description | Plaster, 30 cm.                |
+| Genres               | Object                         |
+| Note                 | Death-Mask                     |
+| Subject Person       | Wiardi Beckman, Herman Bernard |
+
 <a name="2"></a>
 ## 2. Death masks
 
@@ -64,11 +77,11 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 ### Death mask of the famous
 
 
-<img align="left" width="180" height="auto" src="Images/Seine.jpg"> <br/> *Napoleon Bonaparte*
+<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
 
-<img align="left" width="180" height="auto" src="Images/Seine.jpg"> <br/> *Benjamin Franklin*
+<img width="360" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
 
-<img align="left" width="180" height="auto" src="Images/Seine.jpg"> <br/> *Ludwig van Beethoven*
+<img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
 
 [SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
 
