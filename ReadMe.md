@@ -1,6 +1,6 @@
 # Archive Lived Lives
 
-## IISG
+## Visits at the IISG
 - [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
 - [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
 
@@ -42,8 +42,9 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
+
 <a name="2.2"></a>
-## L'Inconnue de la Seine
+### L'Inconnue de la Seine
 
 <img align="left" width="180" height="auto" src="Images/Seine.jpg">
 
@@ -58,14 +59,16 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 
 [SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
 
+
 <a name="2.3"></a>
 ### Death mask of the famous
 
-![Napoleon Bonaparte](Images/Napoleon.jpg) <br/> *Napoleon Bonaparte*
 
-![Benjamin Franklin](Images/Franklin.jpg) <br/> *Benjamin Franklin*
+<img align="left" width="180" height="auto" src="Images/Seine.jpg"> <br/> *Napoleon Bonaparte*
 
-![Ludwig van Beethoven](Images/Beethoven.jpg) <br/> *Ludwig van Beethoven*
+<img align="left" width="180" height="auto" src="Images/Seine.jpg"> <br/> *Benjamin Franklin*
+
+<img align="left" width="180" height="auto" src="Images/Seine.jpg"> <br/> *Ludwig van Beethoven*
 
 [SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
 
