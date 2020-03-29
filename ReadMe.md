@@ -18,10 +18,13 @@
 
 ---
 
+<br/>
+
+
 <a name="1"></a>
 ## 1. Artefact
 
-<img width="360" height="auto" src="Images/Artefact.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="420" height="auto" src="Images/Artefact.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
 
 ### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
 
@@ -33,6 +36,8 @@
 | Genres               | Object                         |
 | Note                 | Death-Mask                     |
 | Subject Person       | Wiardi Beckman, Herman Bernard |
+
+<br/>
 
 <a name="2"></a>
 ## 2. Death masks
@@ -55,11 +60,10 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-
 <a name="2.2"></a>
 ### L'Inconnue de la Seine
 
-<img align="left" width="180" height="auto" src="Images/Seine.jpg">
+<imgwidth="180" height="auto" src="Images/Seine.jpg">
 
 Death mask of L'Inconnue de la Seine
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
@@ -72,10 +76,8 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 
 [SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
 
-
 <a name="2.3"></a>
 ### Death mask of the famous
-
 
 <img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
 
@@ -86,6 +88,8 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 [SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
 
 ---
+
+<br/>
 
 <a name="3"></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
