@@ -491,4 +491,16 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 *VIDEO: Unity Process #01*
 </details>
 
+> community or own data,
+
+> how can we create community (like Habbo hotel or
+
+Games:
+> Half Life 2 - gravity gun
+> Gary's Mod
+> Myst
+> Journey
+---
+Shoe box
+
 https://drive.google.com/open?id=1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl
