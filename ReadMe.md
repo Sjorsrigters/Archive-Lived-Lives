@@ -213,18 +213,14 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 #### Letter by Ed Hoornik
 <details>
-   
+
+<br/>
+
 |                      |                                |
 |----------------------|--------------------------------|
 | Date                 | July 07, 1945                  |
 | Writer               | Ed Hoornik                     |
 | Location             | Amsterdam                      |
-
-<br/>
-   
-<img width="430" height="auto" src="Images/Steensma-1.jpg">
-<img width="430" height="auto" src="Images/Steensma-2.jpg">
-
 
 ---
 
@@ -243,4 +239,12 @@ In verband met de vele moeilijkheden, die de teruggekeerde politieke gevangenen 
 Met de meeste hoogachting
 
 [handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Steensma-1.jpg">
+<img width="430" height="auto" src="Images/Steensma-2.jpg">
+
 
