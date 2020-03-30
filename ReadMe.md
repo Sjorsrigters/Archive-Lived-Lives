@@ -136,10 +136,16 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 
 <img width="430" height="auto" src="Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
 
-July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet [Ed. Hoornik](https://www.notion.so/sjorsrigters/Typography-b328ac948180403bb94abeba008fc679?p=9aa7284b534a4d8fb8aec2c5e7e9b2fb) (1910-1970), later wrote in an in memoriam:
+July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
 > “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
 
+After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
+
+
+---
+
+SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie [(verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
 <br/>
 
 [![Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman](Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
