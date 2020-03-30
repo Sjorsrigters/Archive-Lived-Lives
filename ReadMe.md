@@ -25,8 +25,8 @@
    - [ What are the meta topics ](#4.3)
    - [ How to explain meta topics to future generations ](#4.4)
 5. [ Transcodings ](#5)
-   - [ #1 - Virtual Tomb ](#5.1)
-   - [ #2 - Visual Narrative ](#5.2)
+   - [ 01 - Virtual Tomb ](#5.1)
+   - [ 02 - Visual Narrative ](#5.2)
 
 ---
 
@@ -478,7 +478,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 ## Transcodings
 
 <a name="5.1"></a>
-## #1 - Virtual Tomb [Unity]
+## 01 - Virtual Tomb
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
@@ -493,7 +493,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 </details>
 
 <a name="5.2"></a>
-## #2 - Visual Narrative [Cinema 4D]
+## 02 - Visual Narrative
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Cinema 4D                                                                                        |
