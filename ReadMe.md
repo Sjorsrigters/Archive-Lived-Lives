@@ -140,8 +140,14 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 > “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
 
-![Carel Steensma](Videos/Steensma.mp4)
+<br/>
 
-<video src="Videos/Steensma.mp4" width="320" height="200" controls preload></video>
+[![Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman](Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+*Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
+
+<br/>
+
+[![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
+
+*Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
