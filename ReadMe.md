@@ -17,7 +17,8 @@
    - [ Who was Beckman ](#3.1)
    - [ Origins of his death mask ](#3.2)
    - [ Letters to family Beckman ](#3.3)
-4. [ Transcodings ](#4)
+4. [ What should we archive ](#4)
+5. [ Transcodings ](#5)
 
 ---
 
@@ -425,3 +426,9 @@ Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen
 
 </details>
 
+---
+
+<br/>
+
+<a name="4"></a>
+## 4. What should we archive?
