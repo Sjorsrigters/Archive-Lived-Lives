@@ -16,6 +16,7 @@
 3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
    - [ Who was Beckman ](#3.1)
    - [ Origins of his death mask ](#3.2)
+   - [ Letters to family Beckman ](#3.3)
 4. [ Transcodings ](#4)
 
 ---
@@ -152,17 +153,26 @@ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
 
+<a name="3.3"></a>
 ### Letters to family Beckman
 
 #### Letter by Con Broers
+
 <details>
-   
-<img width="430" height="auto" src="Images/Dachau.jpg">
-   
-<br/>
+
 <br/>
 
-   Utrecht 15 Juni 1945
+|                      |                                |
+|----------------------|--------------------------------|
+| Date                 | July 07, 1945                  |
+| Writer               | Ed Hoornik                     |
+| Location             | Amsterdam                      |
+
+---
+
+<br/>
+
+Utrecht 15 Juni 1945
 
 Hooggeachte mevrouw Wiardi Beckman,
 
@@ -205,4 +215,48 @@ Utrecht.
 tel. 18328 (momenteel nog niet weer aangesloten!)
 
 <br/>
+
+---
+
+<img width="430" height="auto" src="Images/Steensma-1.jpg">
+<img width="430" height="auto" src="Images/Steensma-2.jpg">
+
 </details>
+
+#### Letter by Ed Hoornik
+<details>
+
+<br/>
+
+|                      |                                |
+|----------------------|--------------------------------|
+| Date                 | July 07, 1945                  |
+| Writer               | Ed Hoornik                     |
+| Location             | Amsterdam                      |
+
+---
+
+<br/>
+
+7 Juli '45
+
+Geachte Mevrouw Wiardi Beckman,
+
+Eerst heden, teruggekeerd uit Belgie en Frankrijk, ben ik in staat Uw brief en briefkaart te beantwoorden. Beter dan ik wat betreft zijn Natzweiler-periode heeft Oscar Mohr Uw man gekend; dr. Drost uit Rotterdam zou U meer dan ik kunnen vertellen over het verblijf van Uw echtgenoot in Dachau. Heden heb ik mij telefonisch met de beide heren in verbinding gesteld, met de vraag U zoo spoedig mogelijk te bezoeken. Zoals U weet bezit dr. Drost in handschrift het gedicht "Voor Suze", dat hij U persoonlijk wil overhandigen.
+
+In verband met de vele moeilijkheden, die de teruggekeerde politieke gevangenen ondervinden, ben ik helaas voorlopig niet in staat U zelf op te zoeken. Bovengenoemde vrienden zullen, zodra zich daar een gelegenheid toe voordoet, zeker naar Overveen komen. Het spijt mij, dat de woorden, die ik in Het Vrij Volk aan de nagedachtenis van Stuf wijdde ontoereikend waren. Zijn vriendschap, zijn kennis en cultuur zullen voor mij onvergetelijk blijven.
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Steensma-1.jpg">
+<img width="430" height="auto" src="Images/Steensma-2.jpg">
+
+</details>
+
+
