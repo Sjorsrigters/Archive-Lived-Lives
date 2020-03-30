@@ -27,6 +27,7 @@
 5. [ Transcodings ](#5)
    - [ 01 - Virtual Tomb ](#5.1)
    - [ 02 - Visual Narrative ](#5.2)
+6. [ Notes ](#6)
 
 ---
 
