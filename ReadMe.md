@@ -523,6 +523,7 @@ Games to look at (by Martijn):
    - Half Life 2 (gravity gun)
    - Gary's Mod
    - Myst
+     - https://www.youtube.com/watch?v=E9ZtXtFXE84
    - Journey
 
 A good metaphor (by Ralph:
