@@ -15,12 +15,12 @@
    - [ Death masks of the famous ](#2.3)
 3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
    - [ Who was Beckman ](#3.1)
+   - [ Origins of his death mask ](#3.2)
 4. [ Transcodings ](#4)
 
 ---
 
 <br/>
-
 
 <a name="1"></a>
 ## 1. Artefact
@@ -79,6 +79,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 
 <a name="2.3"></a>
 ### Death mask of the famous
+<details>
 
 <img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
 
@@ -87,6 +88,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
 
 [SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+</details>
 
 ---
 
@@ -98,7 +100,44 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="3.1"></a>
 ### Who was Beckman?
 
-<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+<img width="360" height="auto" src="Images/Stuuf.jpg"> <br/> *Herman (Stuuf) Bernard Wiardi Beckman*
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
+<a name="3.2"></a>
+### Origins of his death mask
+
+<img width="420" height="auto" src="Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
+
+On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen.
+
+[SOURCE: Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+
+<img width="420" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
+
+Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
+
+> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ”
+
+[SOURCE: Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+
+### Prisons and camps where Beckman was detained
+- Strafgevangenis ‘Oranjehotel’ Scheveningen (18 januari 1942),
+- Polizeiliches Durchgangslager Amersfoort (6 november 1942),
+- Concentratiekamp Vught (januari 1943),
+- Gevangenis Haaren (11 maart 1943),
+- Polizeiliches Durchgangslager Amersfoort (september 1943),
+- Concentratiekamp Natzweiler-Struthof (26 oktober 1943),
+- Concentratiekamp Dachau (6 september 1944).
+- Omgekomen in Dachau op 15 maart 1945.
+   
+[SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
+</details>
+
+<img width="430" height="auto" src="Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
+
+July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet [Ed. Hoornik](https://www.notion.so/sjorsrigters/Typography-b328ac948180403bb94abeba008fc679?p=9aa7284b534a4d8fb8aec2c5e7e9b2fb) (1910-1970), later wrote in an in memoriam:
+
+> “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
+
+![Carel Steensme](Videos/Steensma.mp4)
