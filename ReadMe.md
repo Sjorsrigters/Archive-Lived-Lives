@@ -140,4 +140,6 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 > “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
 
-![Carel Steensme](Videos/Steensma.mp4)
+![Carel Steensma](Videos/Steensma.mp4)
+
+<video src="Videos/Steensma.mp4" width="320" height="200" controls preload></video>
