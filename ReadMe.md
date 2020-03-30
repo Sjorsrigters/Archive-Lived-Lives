@@ -164,9 +164,9 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 
 |                      |                                |
 |----------------------|--------------------------------|
-| Date                 | July 07, 1945                  |
-| Writer               | Ed Hoornik                     |
-| Location             | Amsterdam                      |
+| Date                 | June 15, 1945                  |
+| Writer               | Con Broers                     |
+| Location             | Utrecht, NL                    |
 
 ---
 
@@ -232,7 +232,7 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 |----------------------|--------------------------------|
 | Date                 | July 07, 1945                  |
 | Writer               | Ed Hoornik                     |
-| Location             | Amsterdam                      |
+| Location             | Amsterdam, NL                  |
 
 ---
 
@@ -254,9 +254,173 @@ Met de meeste hoogachting
 
 ---
 
-<img width="430" height="auto" src="Images/Steensma-1.jpg">
-<img width="430" height="auto" src="Images/Steensma-2.jpg">
+<img width="430" height="auto" src="Images/Hoornik-1.jpg">
+<img width="430" height="auto" src="Images/Hoornik-2.jpg">
 
 </details>
 
+
+#### Letter by Oscar Mohr
+<details>
+
+<br/>
+
+|                      |                        |
+|----------------------|------------------------|
+| Date                 | November 12, 1945      |
+| Writer               | Oscar Mohr             |
+| Location             | The Hague, NL          |
+
+---
+
+<br/>
+
+Den Haag, 12 Nov 1945
+
+Laan van Meerdervoort 12
+
+Zeer geachte mevrouw Wiardi Beckman,
+
+Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
+
+Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
+
+We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
+
+We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
+
+Oscar Mohr.
+
+Mijn telefoon is 110229
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Hoornik-1.jpg">
+<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+
+</details>
+
+#### Letter by queen Wilhelmina
+<details>
+
+<br/>
+
+|                      |                                |
+|----------------------|--------------------------------|
+| Date                 | May 09, 1947                   |
+| Writer               | Wilhelmina der Nederlanden     |
+| Location             | Het Loo, The Hague, NL         |
+
+---
+
+<br/>
+
+Het Loo, 9 Mei 1947.
+
+Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
+
+Pernambucolaan 55, Overveen
+
+Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
+
+Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
+
+Moge zijn nagedachtenis U een steun in het verdere leven blijven.
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Hoornik-1.jpg">
+<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+
+</details>
+
+#### Letter from Vardåsen
+<details>
+
+<br/>
+
+|                      |                                |
+|----------------------|--------------------------------|
+| Date                 | May 09, 1947                   |
+| Writer               | Wilhelmina der Nederlanden     |
+| Location             | Vardåsen, NO             |
+
+---
+
+<br/>
+
+Het Loo, 9 Mei 1947.
+
+Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
+
+Pernambucolaan 55, Overveen
+
+Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
+
+Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
+
+Moge zijn nagedachtenis U een steun in het verdere leven blijven.
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Hoornik-1.jpg">
+<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+
+</details>
+
+#### Letter by Carel Steensma
+
+<br/>
+
+|                      |                           |
+|----------------------|---------------------------|
+| Date                 | May 09, 1947              |
+| Writer               | Carel Steensma            |
+| Location             | Soest, NL                 |
+
+---
+
+<br/>
+Soest 25/7 '45.
+
+Zeer geachte domineé Wiardi Beckman.
+
+Alhoewel mijn vrouw (Fineke de Veen) voor U geen onbekende is, ben ik dit tot nu toe wel geweest. Ik hoop dat er binnen niet al te lagen tijd gelegenheid zal zijn deze onbekendheid op te heffen en met U kennis te maken gezien de groote vriendschap die ik ... voor ... ... Stuuf.  Alhoewel hij ons ontvallen is, is de herinnering aan hem voor mij zoo'n groot bezit en zoo levende , dat ik ... kan schrijven koesterde.
+
+Ik zal U niet onnodig lastig vallen met de bijzonderheden die een leiding waren dat ik in het ... kamp Natzweiler belandde. Hoofdzaak is ik was er,, en daar maakte ik kennis Stuuf. (ik weet niet hoe zijn officiële naam luide. Wij hebben hem slechts als Stuuf gekend.)
+
+'t Was op een zondagmiddag in April van 't vorige jaar dat Stuuf naast me kwam zitten op een bankje, in in het zonnetje. Echt een bescheiden Stuuf, "of 't niet te lastig was" en "hij bleef maar een oogenblikje". Ik herinner 't me zoo goed, want tijdens 't gesprek heb ik voortdurend in ... gezeten dat hij op zou staan en verdwijnen en elke minuut dat we langer praatten hoopte ik dat hij zou blijven. We hebben toen gepraat over ... in krijgen. Regelmatig ... ... , ... luizen door m v controle ... tot een minimum te beperken.
+
+'t Duurde niet lang of Stuuf werd met hooge koorts zelf in ''t ... opgenomen. Elke ... hielp onder de gegeven omstandigheden mogelijk heeft Stuuf ontvangen. t Heeft niet mogen baten. Samen met Bekkie de Loos en ... ... ..., beiden vrienden van Stuuf, hebben we Stuuf in de kist gelegd.
+
+In Dachau zag ik Stuuf maar enkele malen. Hij werd dan door Nico Rost in 't ... gesmokkeld, kon een baat nemen. Kreeg dubbele porties eten. Zat de ... ... op 't puntje van m'n bed (soms al om 05.45 's morgens) en we konden echt weer een uitpraten. Vooral de gesprekken van Stuuf met Nico Rost die communist is zullen onvergetelijk blijven. Dit verfijnde ... , die klaarheid, die rechte lijn, 't was een voorrecht daarbij te hebben mogen luisteren.
+
+In Natzweiler zowel als in Dachau is Stuuf steeds zeer geliefd geweest. Hij behoorde echt tot één van de lichtpunten. Niet allen bij Hollanders. Ook bij Franschen stond Stuuf in hoog aanzien.
+
+Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Hoornik-1.jpg">
+<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+
+</details>
 
