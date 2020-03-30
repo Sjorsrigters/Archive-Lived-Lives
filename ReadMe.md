@@ -140,11 +140,6 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 > “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
 
-After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
-
-
----
-
 SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie [(verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
 <br/>
 
@@ -157,3 +152,5 @@ SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie [(verzetsmuseum.org)](https:/
 [![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
 
 *Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
+
+After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
