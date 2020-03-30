@@ -157,12 +157,19 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 ### Letters to family Beckman
 
 #### Letter by Con Broers
+
 <details>
-   
-<img width="430" height="auto" src="Images/Steensma-1.jpg">
-<img width="430" height="auto" src="Images/Steensma-2.jpg">
-   
+
 <br/>
+
+|                      |                                |
+|----------------------|--------------------------------|
+| Date                 | July 07, 1945                  |
+| Writer               | Ed Hoornik                     |
+| Location             | Amsterdam                      |
+
+---
+
 <br/>
 
 Utrecht 15 Juni 1945
@@ -209,6 +216,11 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 <br/>
 
+---
+
+<img width="430" height="auto" src="Images/Steensma-1.jpg">
+<img width="430" height="auto" src="Images/Steensma-2.jpg">
+
 </details>
 
 #### Letter by Ed Hoornik
@@ -225,8 +237,6 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 ---
 
 <br/>
-
-
 
 7 Juli '45
 
@@ -246,5 +256,7 @@ Met de meeste hoogachting
 
 <img width="430" height="auto" src="Images/Steensma-1.jpg">
 <img width="430" height="auto" src="Images/Steensma-2.jpg">
+
+</details>
 
 
