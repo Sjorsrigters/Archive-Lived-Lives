@@ -383,6 +383,7 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 </details>
 
 #### Letter by Carel Steensma
+<details>
 
 <br/>
 
