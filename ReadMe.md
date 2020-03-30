@@ -20,6 +20,10 @@
    - [ Origins of his death mask ](#3.2)
    - [ Letters to family Beckman ](#3.3)
 4. [ What should we archive ](#4)
+   - [ What is important to tell future generations ](#4.1)
+   - [ Why is it important to tell? ](#4.2)
+   - [ What are the meta topics ](#4.3)
+   - [ How to explain meta topics to future generations ](#4.4)
 5. [ Transcodings ](#5)
 
 ---
