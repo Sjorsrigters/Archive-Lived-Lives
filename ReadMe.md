@@ -16,6 +16,7 @@
 3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
    - [ Who was Beckman ](#3.1)
    - [ Origins of his death mask ](#3.2)
+   - [ Letters to family Beckman ](#3.3)
 4. [ Transcodings ](#4)
 
 ---
@@ -152,12 +153,14 @@ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
 
+<a name="3.3"></a>
 ### Letters to family Beckman
 
 #### Letter by Con Broers
 <details>
    
-<img width="430" height="auto" src="Images/Dachau.jpg">
+<img width="430" height="auto" src="Images/Steensma-1.jpg">
+<img width="430" height="auto" src="Images/Steensma-2.jpg">
    
 <br/>
 <br/>
