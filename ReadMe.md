@@ -523,8 +523,10 @@ Games to look at (by Martijn):
    - Half Life 2 (gravity gun)
    - Gary's Mod
    - Myst
-     - https://www.youtube.com/watch?v=E9ZtXtFXE84
+     - [What is Myst?](https://www.youtube.com/watch?v=E9ZtXtFXE84)
    - Journey
+     - [What is Journey?](https://www.youtube.com/watch?v=bKqeD7ojynw)
+     - [Beautiful and peaceful soundtrack](https://www.youtube.com/watch?v=M3hFN8UrBPw)
 
 A good metaphor (by Ralph:
   - Seeing the tombs as personal sight boxes
