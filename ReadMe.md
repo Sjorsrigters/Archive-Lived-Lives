@@ -25,8 +25,8 @@
    - [ What are the meta topics ](#4.3)
    - [ How to explain meta topics to future generations ](#4.4)
 5. [ Transcodings ](#5)
-   - [ #1 - Visual Narrative ](#5.1)
-   - [ #2 - Virtual Tomb ](#5.2)
+   - [ #1 - Virtual Tomb ](#5.1)
+   - [ #2 - Visual Narrative ](#5.2)
 
 ---
 
@@ -477,13 +477,13 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <a name="5"></a>
 ## Transcodings
 
-<a name="5.2"></a>
+<a name="5.1"></a>
 ## #1 - Virtual Tomb [Unity]
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
 | Why this transcoding? | To research the new possibilities for mourning and archiving lived lifes in the digital age.     |
-| What to achieve?      | Creating a virtual tombs in which people can be their own curator post-mortem |
+| What to achieve?      | Creating an online space where people can be the curator of their own virtual tomb               | 
 
 <details>
 
@@ -492,7 +492,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 </details>
 
-<a name="5.1"></a>
+<a name="5.2"></a>
 ## #2 - Visual Narrative [Cinema 4D]
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
@@ -508,21 +508,23 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 </details>
 
 
-
 <a name="6"></a>
 ## Notes
 <details>
 
+### 30-03-20
 
-> Aprroacommunity or own data,
+#### How to work with this virtual space?
+   - Working with my own online data, by transcoding this data into my own virtual tomb.
+   - Making a platform that provides a public space for people to curate their own virtual tomb.
 
-> how can we create community (like Habbo hotel or
+#### References:
+Games to look at (by Martijn):
+   - Half Life 2 (gravity gun)
+   - Gary's Mod
+   - Myst
+   - Journey
 
-Games:
-> Half Life 2 - gravity gun
-> Gary's Mod
-> Myst
-> Journey
----
-Shoe box
+A good metaphor (by Ralph:
+  - Seeing the tombs as personal sight boxes
 
