@@ -14,25 +14,31 @@
    - [ L'Inconnue de la Seine ](#2.2)
    - [ Death masks of the famous ](#2.3)
 3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
+   - [ Who was Beckman ](#3.1)
 4. [ Transcodings ](#4)
 
 ---
 
+<br/>
+
+
 <a name="1"></a>
 ## 1. Artefact
 
-<img width="360" height="auto" src="Images/Tutankhamon.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="420" height="auto" src="Images/Artefact.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
 
-#### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
+### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
 
 |                      |                                |
-|----------------------|:------------------------------:|
+|----------------------|--------------------------------|
 | Call Number          | IISG BG K21/155                |
 | Access               | Limited                        |
 | Physical Description | Plaster, 30 cm.                |
 | Genres               | Object                         |
 | Note                 | Death-Mask                     |
 | Subject Person       | Wiardi Beckman, Herman Bernard |
+
+<br/>
 
 <a name="2"></a>
 ## 2. Death masks
@@ -49,17 +55,16 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
 
-<img align="left" width="180" height="auto" src="Images/Tutankhamon.jpg">
+<img width="180" height="auto" src="Images/Tutankhamon.jpg">
 
 [...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun.](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun) Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens.
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-
 <a name="2.2"></a>
 ### L'Inconnue de la Seine
 
-<img align="left" width="180" height="auto" src="Images/Seine.jpg">
+<img width="180" height="auto" src="Images/Seine.jpg">
 
 Death mask of L'Inconnue de la Seine
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
@@ -72,10 +77,8 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 
 [SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
 
-
 <a name="2.3"></a>
 ### Death mask of the famous
-
 
 <img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
 
@@ -87,8 +90,15 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 
 ---
 
+<br/>
+
 <a name="3"></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
 
+<a name="3.1"></a>
+### Who was Beckman?
 
+<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+
+Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
