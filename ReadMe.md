@@ -25,6 +25,8 @@
    - [ What are the meta topics ](#4.3)
    - [ How to explain meta topics to future generations ](#4.4)
 5. [ Transcodings ](#5)
+   - [ #1 ](#5.1)
+   - [ #2 ](#5.2)
 
 ---
 
@@ -153,10 +155,10 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 <br/>
 
 [![Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman](Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
-Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
+*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
 
 [![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
-*Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
+*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.*
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
 
@@ -438,3 +440,49 @@ Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen
 
 <a name="4"></a>
 ## 4. What should we archive?
+
+<a name="4.1"></a>
+### What is important to tell future generations?
+- What are the meta topics?
+- To what extent should the background information be provided?
+- What is the hierarchy, if there is any, between the material or the information of the object?
+- How important is the relation between the material and information of the object and how do you explain this?
+
+<a name="4.2"></a>
+### Why is it important to tell?
+- Which criteria must be considered to determine what is important?
+- Who decides what's important? Me, family, historians, scientist or politicians?
+
+<a name="4.2"></a>
+### What are the meta topics?
+- Death
+- Identity (face)
+- Fame (Stuuf was a known politician)
+- Politics (politician)
+- War (world war II)
+- Imprisonment (concentration camp)
+- Respect (how the mask originated)
+
+<a name="4.4"></a>
+### How to explain meta topics to future generations?
+Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
+
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)
+*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?*
+
+---
+
+<br/>
+
+<a name="5"></a>
+## Transcodings
+
+<a name="5.1"></a>
+## #1
+
+<a name="5.2"></a>
+## #2
+
+[![Unity Process #01](Images/Unity-1.png)](https://drive.google.com/drive/folders/1iH0rSntHVqOm67unLR-bd-Gc_NdocZfP)
+*VIDEO: Unity Process #01*
+
