@@ -143,3 +143,5 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 ![Carel Steensma](Videos/Steensma.mp4)
 
 <video src="Videos/Steensma.mp4" width="320" height="200" controls preload></video>
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
