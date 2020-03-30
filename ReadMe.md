@@ -482,7 +482,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
-| Why this transcoding? | To research the new possibilities for mourning and archiving lived lifes in the digital age.     |
+| Why this transcoding? | To research the new possibilities for mourning and archiving lived lifes in the digital age      |
 | What to achieve?      | Creating an online space where people can be the curator of their own virtual tomb               | 
 
 <details>
@@ -497,8 +497,8 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Cinema 4D                                                                                        |
-| Why this transcoding? | To research how to explain the context of the death mask.                                        |
-| What to achieve?      | Making a visual narrative by using the mask as a 3D "screen" for content related to the context. |
+| Why this transcoding? | To research how to explain the context of the death mask                                         |
+| What to achieve?      | Making a visual narrative by using the mask as a 3D "screen" for content related to the context  |
 
 <details>
    
@@ -519,7 +519,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
    - Making a platform that provides a public space for people to curate their own virtual tomb.
 
 #### References:
-Games to look at (by Martijn):
+Games to look at [by Martijn]:
    - Half Life 2 (gravity gun)
    - Gary's Mod
    - Myst
@@ -528,6 +528,6 @@ Games to look at (by Martijn):
      - [What is Journey?](https://www.youtube.com/watch?v=bKqeD7ojynw)
      - [Beautiful and peaceful soundtrack](https://www.youtube.com/watch?v=M3hFN8UrBPw)
 
-A good metaphor (by Ralph:
+A good metaphor [by Ralph]:
   - Seeing the tombs as personal sight boxes
 
