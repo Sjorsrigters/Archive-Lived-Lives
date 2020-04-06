@@ -28,6 +28,7 @@
    - [ 01 - Virtual Tomb ](#5.1)
    - [ 02 - Visual Narrative ](#5.2)
    - [ 03 - Interactive Dialogue ](#5.3)
+   - [ 04 - Archiving Physical Objects ](#5.4)
 6. [ Notes ](#6)
 
 ---
@@ -521,6 +522,21 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
    
 [![Visual Narrative #01](Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
 *VIDEO: Interactive Dialogue #01*
+
+</details>
+
+
+<a name="5.4"></a>
+## 03=4 - Archiving Physical Objects
+|                       |                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | jpeg                                                                                             |
+| Why this transcoding? | Searching for new possibilities to archive information about physical objects                    |
+| What to achieve?      | Making multiple experiments by transcoding the death mask from object to 'flat' information      |
+
+<details>
+   
+
 
 </details>
 
