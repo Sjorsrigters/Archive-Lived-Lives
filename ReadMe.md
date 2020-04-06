@@ -351,8 +351,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 ---
 
-<img width="430" height="auto" src="Images/Hoornik-1.jpg">
-<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+<img width="430" height="auto" src="Images/Wilhelmina-1.jpg">
+<img width="430" height="auto" src="Images/Wilhelmina-2.jpg">
 
 </details>
 
@@ -408,6 +408,7 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 ---
 
 <br/>
+
 Soest 25/7 '45.
 
 Zeer geachte domineé Wiardi Beckman.
@@ -416,7 +417,19 @@ Alhoewel mijn vrouw (Fineke de Veen) voor U geen onbekende is, ben ik dit tot nu
 
 Ik zal U niet onnodig lastig vallen met de bijzonderheden die een leiding waren dat ik in het ... kamp Natzweiler belandde. Hoofdzaak is ik was er,, en daar maakte ik kennis Stuuf. (ik weet niet hoe zijn officiële naam luide. Wij hebben hem slechts als Stuuf gekend.)
 
-'t Was op een zondagmiddag in April van 't vorige jaar dat Stuuf naast me kwam zitten op een bankje, in in het zonnetje. Echt een bescheiden Stuuf, "of 't niet te lastig was" en "hij bleef maar een oogenblikje". Ik herinner 't me zoo goed, want tijdens 't gesprek heb ik voortdurend in ... gezeten dat hij op zou staan en verdwijnen en elke minuut dat we langer praatten hoopte ik dat hij zou blijven. We hebben toen gepraat over ... in krijgen. Regelmatig ... ... , ... luizen door m v controle ... tot een minimum te beperken.
+'t Was op een zondagmiddag in April van 't vorige jaar dat Stuuf naast me kwam zitten op een bankje, in in het zonnetje. Echt een bescheiden Stuuf, "of 't niet te lastig was" en "hij bleef maar een oogenblikje". Ik herinner 't me zoo goed, want tijdens 't gesprek heb ik voortdurend in ... gezeten dat hij op zou staan en verdwijnen en elke minuut dat we langer praatten hoopte ik dat hij zou blijven. We hebben toen gepraat over de ... van verzet in 't algemeen, en zijn tenslotte in zulke diepe wateren verzeild geraakt, dat Stuuf drie uur later opstond dan oorspronkelijk in de bedoeling lag.
+
+Niet lang daarna brak ik m'n been (dat bij de gevangenname in sept '41 al was beschadigd) en Stuuf kreeg 't plaatsje dat ik enkele weken had gehad - n.l. in t bureau'tje van 't ... (hospitaaltje). Hij had 't daar echt goed en kikkerde heelemaal op. Kreeg betere kleeren en meer eten.
+
+Vanaf dien dag is Stuuf praktisch elken dag bij mij geweest. Soms twee minuten, soms een uur. Altijd een prettig ..., altijd een gesprek dat de moeite waard was. Ik maakte toen een moeilijke tijd mee - verloor in Juli m'n been en was lichamelijk vrijwel uitgeput (± 36 K.G.). Wat 't dan betekent om iemand te hebben waarvan je 't gevoel hebt dat hij alles begrijpt maar ook aanvoelt. Stuuf was zoo door en door humanist, had zoo'n groot respect voor het individu, had zoo'n weloverwogen oordeel, kon zoo ... en logisch denken en had daarbij zoo'n fantastisch weten, dat menig een die hem kenden met recht: "zoo iemand kom je maar éénmaal in je leven tegen". Stuuf was een man van formaat, groot formaat en daarbij vond mijn gevoel zoo echt Hollandsch.
+
+Ik bedoel dit niet in engeren zin, daar is m'n ... (K.I.M. ...) en m'n denken te internationaal voor. Maar onder èchte Hollander versta ik de nuchtere Hollander, daarbij wetenschapsmensch, daarbij een onuitroeibaar Calvinistische inslag. Ik ben niet lid van de Remonstrantsche Gemeente zooals Stuuf - maar er waren weinig punten waar we 't niet over eens waren.
+
+Toen het kamp Natzweiler naar Dachau werd overgebracht kwam ik daar in 't Ziekenhuis terecht. Waar bezoek niet was toegestaan. Stuuf kwam meen ik op  Block 29 - maar dat weet ik niet zeker. 
+
+Er zijn direct ... aan 't werk gegaan om Stuuf een behoorlijk plaatsje te bezorgen. Hij zat op een overvol blok - slecht gekleed en slecht eten. Dr. J. Drost uit R'dam - Nico Rost (... in ...) een Hollandsch litterator hebben al 't mogelijke gedaan ... en ... te bezorgen. Dit is ten slotte gelukt - en hij kwam als schrijver in de schoenmakerij. Helaas duurde dit niet lang toen er een ... tegen ...'ers werd uitgevaardigd. Hij kwam weer op 't blok terug en werd aangezocht als kamer-oudste op een blok waar Fleck ... (Typhus exanthematicus) heerschte en vele slachtoffer maakte.
+
+Echt Stuuf! Hier was een gelegenheid goed werk te doen, menschen te helpen, te proberen de zieken en 't ... opgenomen te krijgen - de kamer zindelijk te krijgen. Regelmatig de zieken, ... luizen door m v controle ... tot een minimum te beperken.
 
 't Duurde niet lang of Stuuf werd met hooge koorts zelf in ''t ... opgenomen. Elke ... hielp onder de gegeven omstandigheden mogelijk heeft Stuuf ontvangen. t Heeft niet mogen baten. Samen met Bekkie de Loos en ... ... ..., beiden vrienden van Stuuf, hebben we Stuuf in de kist gelegd.
 
@@ -424,7 +437,27 @@ In Dachau zag ik Stuuf maar enkele malen. Hij werd dan door Nico Rost in 't ... 
 
 In Natzweiler zowel als in Dachau is Stuuf steeds zeer geliefd geweest. Hij behoorde echt tot één van de lichtpunten. Niet allen bij Hollanders. Ook bij Franschen stond Stuuf in hoog aanzien.
 
-Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen
+Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen Franschen kennissen hebben ... mij hun  grote bewondering geuit over Stuuf.
+
+.. of er ook met hem wou spreken. Waarover 't ook was - Stuuf was bereid - en 't was altijd de moeite waard en meestal iets bijzonders. 
+
+Bij mijn terugkeer uit Dachau, waren wij enkele dagen te Nijmegen in quarantaine. Een dokter wiens naam ik ben vergeten heeft ons daar opgezocht en een afspraak gemaakt om de Hr. de Loos (Bekkie) en mijzelf bij uw moeder te introduceren. Daar ik de ... ... 't eventueel bezoekje onverwacht verdween (n.l. naar huis!) is de Hr. de Loos alleen gegaan. Ik zal u dan ook weinig nieuws hebben kunnen vertellen. Ongetwijfeld heeft Bekkie ook over 't dodenmasker van Stuuf gesproken.
+
+Ik hoop niet dat u mij erg onbescheiden zult vinden wanneer ik mijn briefje met een verzoek beëindig. Ik zou zoo graag een photo van Stuuf willen hebben. Wanneer het niet te veel gevraagd is ... U mij er een groot genoegen mee. Hoe klein, hoe groot, hoe oud, hoe jong is niet van belang.
+
+Zeer ... dominee Wiardi Beckman, het is weinig ... ik u schrijven kan over Stuuf waarvan zoo veel is te vertellen. Ik kan eenigszins 't verlies beseffen dat u hebt moeten aanvaarden bij 't heengaan van Stuuf. Moge u de kracht gegeven zijn dit verlies te dragen.
+
+Ontvangt u mede namens mijn vrouw en ... ... mijn mevrouw de ... onze oprechte gevoelens van medeleven
+
+Steeds gaarne uw 
+
+[handtekening]
+
+CC. Steensma
+
+54 Oude Utrechtsscheweg
+
+Soest
 
 [handtekening]
 
@@ -536,11 +569,15 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <details>
    
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/> *Texture 1*
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/> *Texture 2*
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/> *Texture 3*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/>
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/>
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/>
 
 </details>
+
+---
+
+<br/>
 
 <a name="6"></a>
 ## Notes
