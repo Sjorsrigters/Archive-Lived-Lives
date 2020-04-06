@@ -510,7 +510,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 </details>
 
 <a name="5.3"></a>
-## 02 - Interactive Dialogue
+## 03 - Interactive Dialogue
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
@@ -526,7 +526,6 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <a name="6"></a>
 ## Notes
-<details>
 
 ### 30-03-20
 <details>
@@ -548,4 +547,11 @@ Games to look at [by Martijn]:
 A good metaphor [by Ralph]:
   - Seeing the tombs as personal sight boxes
 </details>
+
+
+### 06-04-20
+<details>
+
+fill in text
+
 </details>
