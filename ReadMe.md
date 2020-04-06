@@ -364,24 +364,36 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 |                      |                                |
 |----------------------|--------------------------------|
 | Date                 | May 09, 1947                   |
-| Writer               | Wilhelmina der Nederlanden     |
-| Location             | Vardåsen, NO             |
+| Writer               | -                              |
+| Location             | Vardåsen, NO                   |
 
 ---
 
 <br/>
 
-Het Loo, 9 Mei 1947.
+Vardåsen, 12/10-45.
 
-Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
+Beste mevrouw Beckman!
 
-Pernambucolaan 55, Overveen
+Heel erg bedankt voor je brief. Het spijt me heel erg om te horen dat uw man niet meer leeft.
 
-Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
+Ik had niet echt veel met je man te maken, maar we hadden veel discussies en deelden nachtlampjes met elkaar. Hierdoor leerden we elkaar goed kennen en kreeg ik al snel de indruk dat hij altijd vast overtuigd was van de juistheid van zijn idee. Bij hem bestond er geen enkele twijfel dat de strijd voor de vrijheid van zijn volk zou slagen.
 
-Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
+Toen ik in november 1943 naar het kamp in Natzweiler kwam, was de beruchte Kramer van het Belsen-proces de commandant in het kamp en de omstandigheden waren behoorlijk slecht. Beckman had toen al een baan voor het kantoor en kwam bij ons in het blok om onze persoonlijke gegevens op te schrijven. Destijds waarschuwde hij me om tuberculose op te geven en zei dat het me mijn leven zou kunnen kosten. Later kwam ik erachter dat het juist was.
 
-Moge zijn nagedachtenis U een steun in het verdere leven blijven.
+In de maanden maart - april werkten we samen in de nachtploeg in de "weverij" - zat hij naast me. De Nederlanders zongen veel van hun nationale liederen en de oude vrijheidsliederen en lofzangen uit de Boerenoorlogen en van vroeger (17e eeuw?). Hij vertelde me ook veel over de Oud Hollandse cultuur en over Rembrandt van Rijn en Vlaamse kunstenaars en over de Renaissance en ook kleine historische lezingen. Hij vertelde het me altijd graag en het was altijd zijn trots dat zijn land en volk een oude en hoge cultuur vertegenwoordigen. Hij zong de liedjes altijd heel hard en met veel enthousiasme, want de SS kwam nooit 's nachts.
+
+Hij zei ook vaak dat hij bang was voor zijn familie omdat je in een gebied woonde dat waarschijnlijk zou worden geëvacueerd. Net als wij allemaal zei hij weinig over zijn familie, maar ik begreep dat jij en de kinderen belichaamden waar hij voor had gewerkt en voor gevochten. Misschien begreep ik het op die manier omdat hij mijn vrouw zelf in het kamp had - maar waar?
+
+Begin juli 1944 had ik vreselijke pijn in mijn benen. Ik vond het erg moeilijk om heen en weer te gaan van mijn werk in de steengroeve. De goede kameraad had me meteen te pakken en hij schreef met een briefje dat ik me de volgende dag bij de SS-arts moest melden. Hij schreef me dit een paar dagen totdat ik via een andere verbinding een betere baan kreeg. Zonder de hulp van Beckman zou ik nauwelijks uit de groeve zijn gekomen.
+
+Hieruit zult u, mevrouw Beckman, ook begrijpen dat hij opkwam voor de gevangenen in het kamp. Ik kan zonder overdrijving zeggen dat hij mijn leven heeft gered. Voor mij was hij een goede kameraad, een echte patriot, en hoe groot zijn haat tegen de vijanden van zijn volk ook was, zo was zijn liefde en zorg voor alle onderdrukten en kwellingen. Een hoog ontwikkeld persoon en een goede kameraad, ook voor ons communisten
+
+Ik deel deze beoordeling van uw man ook met de kameraden die bij mij zijn hier in het sanatorium en die in Natzweiler waren. Je kunt je kinderen ook vertellen dat hun vader iemand was die ik zou willen zijn.
+
+Heel erg bedankt voor uw goede wensen voor mijn gezondheid en ik hoop dat u en uw kinderen in de toekomst gezond zullen worden.
+
+Met vriendelijke groet
 
 [handtekening]
 
