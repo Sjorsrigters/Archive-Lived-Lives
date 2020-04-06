@@ -230,8 +230,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
-<img width="430" height="auto" src="Images/Steensma-1.jpg">
-<img width="430" height="auto" src="Images/Steensma-2.jpg">
+<img width="430" height="auto" src="Images/Broers-1.jpg">
+<img width="430" height="auto" src="Images/Broers-2.jpg">
 
 </details>
 
@@ -313,8 +313,8 @@ Met de meeste hoogachting
 
 ---
 
-<img width="430" height="auto" src="Images/Hoornik-1.jpg">
-<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+<img width="430" height="auto" src="Images/Mohr-1.jpg">
+<img width="430" height="auto" src="Images/Mohr-2.jpg">
 
 </details>
 
@@ -389,8 +389,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 ---
 
-<img width="430" height="auto" src="Images/Hoornik-1.jpg">
-<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+<img width="430" height="auto" src="Images/Vardåsen-1.jpg">
+<img width="430" height="auto" src="Images/Vardåsen-2.jpg">
 
 </details>
 
@@ -465,8 +465,12 @@ Soest
 
 ---
 
-<img width="430" height="auto" src="Images/Hoornik-1.jpg">
-<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+<img width="430" height="auto" src="Images/Steensma-1.jpg">
+<img width="430" height="auto" src="Images/Steensma-2.jpg">
+<img width="430" height="auto" src="Images/Steensma-3.jpg">
+<img width="430" height="auto" src="Images/Steensma-4.jpg">
+<img width="430" height="auto" src="Images/Steensma-5.jpg">
+<img width="430" height="auto" src="Images/Steensma-6.jpg">
 
 </details>
 
