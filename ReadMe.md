@@ -530,15 +530,15 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 ## 04 - Archiving Physical Objects
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
-| Medium                | jpeg                                                                                             |
+| Medium                | Image                                                                                            |
 | Why this transcoding? | Searching for new possibilities to archive information about physical objects                    |
 | What to achieve?      | Making multiple experiments by transcoding the death mask from object to 'flat' information      |
 
 <details>
    
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/> *The entrance to Natzweiler camp*
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/> *The entrance to Natzweiler camp*
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/> *The entrance to Natzweiler camp*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/> *Texture 1*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/> *Texture 2*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/> *Texture 3*
 
 </details>
 
