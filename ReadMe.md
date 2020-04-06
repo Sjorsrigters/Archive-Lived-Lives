@@ -569,9 +569,9 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <details>
    
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/> *Texture 1*
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/> *Texture 2*
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/> *Texture 3*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/>
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/>
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/>
 
 </details>
 
