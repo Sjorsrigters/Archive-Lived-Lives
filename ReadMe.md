@@ -527,7 +527,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 
 <a name="5.4"></a>
-## 03=4 - Archiving Physical Objects
+## 04 - Archiving Physical Objects
 |                       |                                                                                                  |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | jpeg                                                                                             |
@@ -536,7 +536,9 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <details>
    
-
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/> *The entrance to Natzweiler camp*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/> *The entrance to Natzweiler camp*
+<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/> *The entrance to Natzweiler camp*
 
 </details>
 
