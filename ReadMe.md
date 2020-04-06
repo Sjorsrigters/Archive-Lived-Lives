@@ -1,4 +1,4 @@
-# Archive Lived Lives
+# Archiving Lived Lives
 
 ## Visits at the IISG
 - [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
