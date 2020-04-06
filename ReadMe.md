@@ -489,7 +489,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <details>
 
-[![Unity Process #01](Images/Unity-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)
+[![Unity Process #01](Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)
 *VIDEO: Unity Process #01*
 
 </details>
@@ -519,7 +519,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <details>
    
-[![Visual Narrative #01](Images/Unity-2.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
+[![Visual Narrative #01](Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
 *VIDEO: Interactive Dialogue #01*
 
 </details>
