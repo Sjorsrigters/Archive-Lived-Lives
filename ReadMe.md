@@ -27,6 +27,7 @@
 5. [ Transcodings ](#5)
    - [ 01 - Virtual Tomb ](#5.1)
    - [ 02 - Visual Narrative ](#5.2)
+   - [ 03 - Interactive Dialogue ](#5.3)
 6. [ Notes ](#6)
 
 ---
@@ -508,12 +509,27 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 </details>
 
+<a name="5.3"></a>
+## 02 - Interactive Dialogue
+|                       |                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Unity                                                                                            |
+| Why this transcoding? | To explore the possibilities of communicating written information                                |
+| What to achieve?      | Making an interactive dialogue in which the user can learn more about Beckman by speaking to the writers of the letters  |
+
+<details>
+   
+[![Visual Narrative #01](Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)
+*VIDEO: Visual Narrative #01*
+
+</details>
 
 <a name="6"></a>
 ## Notes
 <details>
 
 ### 30-03-20
+<details>
 
 #### How to work with this virtual space?
    - Working with my own online data, by transcoding this data into my own virtual tomb.
@@ -531,4 +547,5 @@ Games to look at [by Martijn]:
 
 A good metaphor [by Ralph]:
   - Seeing the tombs as personal sight boxes
-
+</details>
+</details>
