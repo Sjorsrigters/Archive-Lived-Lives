@@ -623,6 +623,12 @@ A good metaphor [by Ralph]:
 ### 06-04-20
 <details>
 
-fill in text
+- Maybe good to combine transcoding 2 & 3
+- 1, 2 & 3 all in 3D spaces
+- transcoding 4, baking is interesting
+
+Chinese whispering (idea for interaction)
+Monkey Island (based on the interaction of having options in the dialogue)
+Fantasmagoria (solution for combining transcoding 2 & 3)
 
 </details>
