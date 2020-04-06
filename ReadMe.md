@@ -25,8 +25,11 @@
    - [ What are the meta topics ](#4.3)
    - [ How to explain meta topics to future generations ](#4.4)
 5. [ Transcodings ](#5)
-   - [ #1 ](#5.1)
-   - [ #2 ](#5.2)
+   - [ 01 - Virtual Tomb ](#5.1)
+   - [ 02 - Visual Narrative ](#5.2)
+   - [ 03 - Interactive Dialogue ](#5.3)
+   - [ 04 - Archiving Physical Objects ](#5.4)
+6. [ Notes ](#6)
 
 ---
 
@@ -478,11 +481,93 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 ## Transcodings
 
 <a name="5.1"></a>
-## #1
+## 01 - Virtual Tomb
+|                       |                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Unity                                                                                            |
+| Why this transcoding? | To research the new possibilities for mourning and archiving lived lifes in the digital age      |
+| What to achieve?      | Creating an online space where people can be the curator of their own virtual tomb               | 
 
-<a name="5.2"></a>
-## #2
+<details>
 
-[![Unity Process #01](Images/Unity-1.png)](https://drive.google.com/drive/folders/1iH0rSntHVqOm67unLR-bd-Gc_NdocZfP)
+[![Unity Process #01](Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)
 *VIDEO: Unity Process #01*
 
+</details>
+
+<a name="5.2"></a>
+## 02 - Visual Narrative
+|                       |                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Cinema 4D                                                                                        |
+| Why this transcoding? | To research how to explain the context of the death mask                                         |
+| What to achieve?      | Making a visual narrative by using the mask as a 3D "screen" for content related to the context  |
+
+<details>
+   
+[![Visual Narrative #01](Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)
+*VIDEO: Visual Narrative #01*
+
+</details>
+
+<a name="5.3"></a>
+## 03 - Interactive Dialogue
+|                       |                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Unity                                                                                            |
+| Why this transcoding? | To explore the possibilities of communicating written information                                |
+| What to achieve?      | Making an interactive dialogue in which the user can learn more about Beckman by speaking to the writers of the letters  |
+
+<details>
+   
+[![Visual Narrative #01](Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
+*VIDEO: Interactive Dialogue #01*
+
+</details>
+
+
+<a name="5.4"></a>
+## 03=4 - Archiving Physical Objects
+|                       |                                                                                                  |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | jpeg                                                                                             |
+| Why this transcoding? | Searching for new possibilities to archive information about physical objects                    |
+| What to achieve?      | Making multiple experiments by transcoding the death mask from object to 'flat' information      |
+
+<details>
+   
+
+
+</details>
+
+<a name="6"></a>
+## Notes
+
+### 30-03-20
+<details>
+
+#### How to work with this virtual space?
+   - Working with my own online data, by transcoding this data into my own virtual tomb.
+   - Making a platform that provides a public space for people to curate their own virtual tomb.
+
+#### References:
+Games to look at [by Martijn]:
+   - Half Life 2 (gravity gun)
+   - Gary's Mod
+   - Myst
+     - [What is Myst?](https://www.youtube.com/watch?v=E9ZtXtFXE84)
+   - Journey
+     - [What is Journey?](https://www.youtube.com/watch?v=bKqeD7ojynw)
+     - [Beautiful and peaceful soundtrack](https://www.youtube.com/watch?v=M3hFN8UrBPw)
+
+A good metaphor [by Ralph]:
+  - Seeing the tombs as personal sight boxes
+</details>
+
+
+### 06-04-20
+<details>
+
+fill in text
+
+</details>
