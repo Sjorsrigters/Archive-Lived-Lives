@@ -637,4 +637,11 @@ Chinese whispering (idea for interaction)
 Monkey Island (based on the interaction of having options in the dialogue)
 Fantasmagoria (solution for combining transcoding 2 & 3)
 
+### 24-04-20
+<details>
+
+- Link the Narrative Death mask <---> Concentration camp
+- Things dont have to be obivious (Concentration camp can also be a box --> find it the dialog)
+- 
+
 </details>
