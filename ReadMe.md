@@ -2,6 +2,28 @@
 
 # Archiving Lived Lives
 
+<img width="1920" height="auto" src="Images/Cover.jpg">
+
+# Archiving Lived Lives
+
+### Table of Content
+
+1. [ Artefact ](#1)
+   i. Metadata (#1.1)
+2. [ Artefact ](#2)
+   i. [ Death Masks ] (#2.1)
+      - [ What is a death mask? ](#2.1.1)
+      - [ L'Inconnue de la Seine ](#2.1.2)
+      - [ Death masks of the famous ](#2.1.3)
+   ii. [ Herman (Stuuf) Bernard Wiardi Beckman ] (#2.2)
+
+
+
+
+
+
+
+
 ---
 
 ## Visits at the IISG
@@ -14,10 +36,10 @@
 
 ## Table of Content
 
-1. [ Artefact ](#1)
-2. [ Death masks ](#2)
-   - [ What is a death mask? ](#2.1)
-   - [ L'Inconnue de la Seine ](#2.2)
+1. [ Artefact ]
+2. [ Death masks ]
+   - [ What is a death mask? ]
+   - [ L'Inconnue de la Seine ](
    - [ Death masks of the famous ](#2.3)
 3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
    - [ Who was Beckman ](#3.1)
