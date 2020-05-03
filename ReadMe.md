@@ -16,11 +16,30 @@
      - [ Who was Stuuf? ](#2.2.4)
      - [ Origins of Stuuf's death mask ](#2.2.5)
      - [ Letters to family Beckman ](#2.2.6)
-   - [ What should we archive ](#2.3)
+   - [ What should we archive? ](#2.3)
      - [ What is important to tell future generations ](#2.3.1)
      - [ Why is it important to tell? ](#2.3.2)
      - [ What are the meta topics ](#2.3.3)
      - [ How to explain meta topics to future generations ](#2.3.4)
+5. [ Transcodings ](#5)
+   - [ 01 - Virtual Tomb ](#5.1)
+   - [ 02 - Visual Narrative ](#5.2)
+   - [ 03 - Interactive Dialogue ](#5.3)
+   - [ 04 - Archiving Physical Objects ](#5.4)
+6. [ Reflection ](#6)
+7. [ Bibliography ](#7)
+
+
+#
+
+|                      |                                |
+|----------------------|--------------------------------|
+| Call Number          | IISG BG K21/155                |
+| Access               | Limited                        |
+| Physical Description | Plaster, 30 cm.                |
+| Genres               | Object                         |
+| Note                 | Death-Mask                     |
+| Subject Person       | Wiardi Beckman, Herman Bernard |
 
 
 
@@ -28,6 +47,10 @@
 
 
 
+
+
+---
+---
 ---
 
 ## Visits at the IISG
@@ -72,14 +95,15 @@
 
 ### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
 
-|                      |                                |
-|----------------------|--------------------------------|
-| Call Number          | IISG BG K21/155                |
-| Access               | Limited                        |
-| Physical Description | Plaster, 30 cm.                |
-| Genres               | Object                         |
-| Note                 | Death-Mask                     |
-| Subject Person       | Wiardi Beckman, Herman Bernard |
+| Tag                  | Data                                                                       |
+|----------------------|----------------------------------------------------------------------------|
+| Call Number          | IISG BG K21/155(https://search.iisg.amsterdam/Record/1013777)              |
+| Access               | Limited                                                                    |
+| Physical Description | Plaster, 30 cm.                                                            |
+| Genres               | Object                                                                     |
+| Note                 | Death-Mask                                                                 |
+| Subject Person       | Wiardi Beckman, Herman Bernard                                             |
+| <img width="420" height="auto" src="Images/Artefact.jpg"> | 
 
 <br/>
 
