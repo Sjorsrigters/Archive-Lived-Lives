@@ -6,14 +6,15 @@
 ### Table of Content
 
 1. [ Artefact ](#1)
-     1. [ Metadata ](#1.1)
+     - [ Metadata ](#1.1)
 2. [ Research ](#2)
-     1. [ What is a death mask? ](#2.1)
-     2. [ L'Inconnue de la Seine ](#2.2)
-     3. [ Death masks of the famous ](#2.3)
-     4. [ Who was Stuuf? ](#2.4)
-     5. [ Origins of Stuuf's death mask ](#2.5)
-     6. [ Letters to family Beckman ](#2.6)
+   - [ Death masks ]
+     - [ What is a death mask? ](#2.1)
+     - [ L'Inconnue de la Seine ](#2.2)
+     - [ Death masks of the famous ](#2.3)
+     - [ Who was Stuuf? ](#2.4)
+     - [ Origins of Stuuf's death mask ](#2.5)
+     - [ Letters to family Beckman ](#2.6)
 
 
 
@@ -34,10 +35,10 @@
 
 ## Table of Content
 
-1. [ Artefact ]
-2. [ Death masks ]
-   - [ What is a death mask? ]
-   - [ L'Inconnue de la Seine ]
+1. [ Artefact ](#1)
+2. [ Death masks ](#2)
+   - [ What is a death mask? ](#2.1)
+   - [ L'Inconnue de la Seine ](#2.2)
    - [ Death masks of the famous ](#2.3)
 3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
    - [ Who was Beckman ](#3.1)
