@@ -33,6 +33,9 @@
 <a name="1"></a>
 # 1. Artefact
 
+The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow inmates the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.
+
+
 |                      |                                    |
 |----------------------|------------------------------------|
 | Call Number          | IISG BG K21/155                    |
