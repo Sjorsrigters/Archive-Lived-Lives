@@ -32,15 +32,15 @@
 
 #
 
-|                      |                                |
-|----------------------|--------------------------------|
-| Call Number          | IISG BG K21/155                |
-| Access               | Limited                        |
-| Physical Description | Plaster, 30 cm.                |
-| Genres               | Object                         |
-| Note                 | Death-Mask                     |
-| Subject Person       | Wiardi Beckman, Herman Bernard |
-| <img width="420" height="auto" src="Images/Artefact.jpg"> | 
+|                      |                                    |
+|----------------------|------------------------------------|
+| Call Number          | IISG BG K21/155                    |
+| Access               | Limited                            |
+| Physical Description | Plaster, 30 cm.                    |
+| Genres               | Object                             |
+| Note                 | Death-Mask                         |
+| Subject Person       | Wiardi Beckman, Herman Bernard     |
+| <img width="420" height="auto" src="Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but only a small part of the neck can be seen. |
 
 
 
