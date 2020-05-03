@@ -40,7 +40,7 @@
 | Genres               | Object                         |
 | Note                 | Death-Mask                     |
 | Subject Person       | Wiardi Beckman, Herman Bernard |
-
+| <img width="420" height="auto" src="Images/Artefact.jpg"> | 
 
 
 
@@ -103,7 +103,6 @@
 | Genres               | Object                                                                     |
 | Note                 | Death-Mask                                                                 |
 | Subject Person       | Wiardi Beckman, Herman Bernard                                             |
-| <img width="420" height="auto" src="Images/Artefact.jpg"> | 
 
 <br/>
 
