@@ -1,3 +1,5 @@
+<img width="180" height="auto" src="Images/Cover.jpg">
+
 # Archiving Lived Lives
 
 ## Visits at the IISG
