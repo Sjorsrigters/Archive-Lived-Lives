@@ -5,9 +5,9 @@
 ### Table of Content
 
 1. [ Artefact ](#1)
-   I. Metadata
+   1.1 Metadata (#1.1)
 2. [ Artefact ](#2)
-   I. [ Death Masks ] (#2.1)
+   2.1 [ Death Masks ] (#2.1)
       -
    II. [ Herman (Stuuf) Bernard Wiardi Beckman ] (#2.2)
 
