@@ -2,6 +2,23 @@
 
 # Archiving Lived Lives
 
+## Table of Content
+
+1. [ Artefact ](#1)
+   I. Metadata
+2. [ Artefact ](#2)
+   I. [ Death Masks ] (#2.1)
+      -
+   II. [ Herman (Stuuf) Bernard Wiardi Beckman ] (#2.2)
+
+
+
+
+
+
+
+---
+
 ## Visits at the IISG
 - [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
 - [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
