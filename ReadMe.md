@@ -6,7 +6,7 @@
 ### Table of Content
 
 1. [ Artefact ](#1)
-  1. [ Metadata ](#1.1)
+     1. [ Metadata ](#1.1)
 2. [ Research ](#2)
      1. [ What is a death mask? ](#2.1)
      2. [ L'Inconnue de la Seine ](#2.2)
