@@ -133,6 +133,8 @@ Fill in text.
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
+---
+
 <a name="2.2.2"></a>
 ### Origins of his death mask
 
@@ -142,12 +144,12 @@ On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beck
 
 <img width="420" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
 
-Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
+Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this <sub>[[6]](#footnote-6)</sup>:
 
-> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ” <sub>[[6]](#footnote-6)</sup>
+> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ”
 
 
-### Prisons and camps where Beckman was detained <sub>[[7]](#footnote-7)</sup>
+*Prisons and camps where Beckman was detained:* <sub>[[7]](#footnote-7)</sup>
 - Strafgevangenis ‘Oranjehotel’ Scheveningen (18 januari 1942),
 - Polizeiliches Durchgangslager Amersfoort (6 november 1942),
 - Concentratiekamp Vught (januari 1943),
