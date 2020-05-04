@@ -184,17 +184,15 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 <a name="2.2.3"></a>
 ### Letters to Mrs. Beckman
 
-#### June 15, 1945 - letter from Con Broers
-
-<details>
-
-<br/>
+#### Letter 01
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
 | Date                 | June 15, 1945                  |
 | Writer               | Con Broers                     |
 | Location             | Utrecht, NL                    |
+
+<details>
 
 <br/>
 
@@ -249,12 +247,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
----
 
-#### July 07, 1945 - letter from Ed Hoornik
-<details>
-
-<br/>
+#### Letter 02
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -262,7 +256,7 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 | Writer               | Ed Hoornik                     |
 | Location             | Amsterdam, NL                  |
 
----
+<details>
 
 <br/>
 
