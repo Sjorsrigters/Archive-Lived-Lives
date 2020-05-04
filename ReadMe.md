@@ -123,7 +123,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.2."></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
 
-Fill in text.
+**Fill in text.**
 
 ---
 
@@ -251,7 +251,7 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
-| Date                 | July 07, 1945                  |
+| Date                 | July 7, 1945                   |
 | Writer               | Ed Hoornik                     |
 | Location             | Amsterdam, NL                  |
 
@@ -284,7 +284,7 @@ Met de meeste hoogachting
 
 | Tag                  | Data                      |
 |----------------------|---------------------------|
-| Date                 | May 09, 1947              |
+| Date                 | July 25, 1945.            |
 | Writer               | Carel Steensma            |
 | Location             | Soest, NL                 |
 
@@ -361,7 +361,7 @@ Soest
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
-| Date                 | 12 October, 1945               |
+| Date                 | 29 July, 1945.                 |
 | Writer               | Kurt Willich                   |
 | Location             | Vardåsen, NO                   |
 
@@ -402,7 +402,7 @@ Beste groet van je vriend
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
-| Date                 | 12 October, 1945               |
+| Date                 | October 12, 1945               |
 | Writer               | Kurt Willich                   |
 | Location             | Vardåsen, NO                   |
 
@@ -489,7 +489,7 @@ Met de meeste hoogachting
 
 </details>
 
-#### 07
+#### Letter 07
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -524,7 +524,7 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 </details>
 
-#### 08
+#### Letter 08
 
 | Tag                  | Data                               |
 |----------------------|------------------------------------|
@@ -554,7 +554,7 @@ Uw. dw. dr.
 
 </details>
 
-#### 09
+#### Letter 09
 
 | Tag                  | Data                               |
 |----------------------|------------------------------------|
@@ -578,73 +578,26 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 
 </details>
 
----
-
-<br/>
-
-<a name="7"></a>
-# Bibliography
-
-<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
-
-<a name="footnote-2">[2]</a>: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-<a name="footnote-3">[3]</a>: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-
-<a name="footnote-4">[4]</a>: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
-
-<a name="footnote-6">[6]</a>: [Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
-
-<a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
-
-<a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
-
-<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
-
-
-
-
-
-
-
-
-
-
-
----
----
----
-
-## Visits at the IISG
-- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
-- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
-
-
-
-
-
----
-
-<br/>
-
-<a name="4"></a>
+<a name="2.3"></a>
 ## 4. What should we archive?
 
-<a name="4.1"></a>
+**Fill in text.**
+
+---
+
+<a name="2.3.1"></a>
 ### What is important to tell future generations?
 - What are the meta topics?
 - To what extent should the background information be provided?
 - What is the hierarchy, if there is any, between the material or the information of the object?
 - How important is the relation between the material and information of the object and how do you explain this?
 
-<a name="4.2"></a>
+<a name="2.3.2"></a>
 ### Why is it important to tell?
 - Which criteria must be considered to determine what is important?
 - Who decides what's important? Me, family, historians, scientist or politicians?
 
-<a name="4.2"></a>
+<a name="2.3.3"></a>
 ### What are the meta topics?
 - Death
 - Identity (face)
@@ -654,7 +607,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 - Imprisonment (concentration camp)
 - Respect (how the mask originated)
 
-<a name="4.4"></a>
+<a name="2.3.4"></a>
 ### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
@@ -735,6 +688,69 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/>
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+<br/>
+
+<a name="7"></a>
+# Bibliography
+
+<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
+
+<a name="footnote-2">[2]</a>: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+<a name="footnote-3">[3]</a>: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+
+<a name="footnote-4">[4]</a>: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
+
+<a name="footnote-6">[6]</a>: [Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+
+<a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
+
+<a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
+
+<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+## Visits at the IISG
+- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
+- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
+
+
+
+
+
+---
+
+<br/>
 
 ---
 
