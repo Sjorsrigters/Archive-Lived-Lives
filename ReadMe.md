@@ -107,7 +107,7 @@ As already mentioned, death masks were made for a range of famous and notable pe
 <a name="2.1.3"></a>
 ### L'Inconnue de la Seine
 
-<img width="180" height="auto" src="Images/Seine.jpg">
+<img width="480" height="auto" src="Images/Seine.jpg">
 
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
@@ -203,7 +203,7 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 
 <a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
 
-<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
+<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
 
 
 
