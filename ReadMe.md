@@ -639,7 +639,7 @@ Is changing a profile image after death a form of digital homicide?
 <a name="2.4.1"></a>
 ###  Death and mourning in the Digital Era
 
-####I am become digital death, the destroyer of worlds
+#### I am become digital death, the destroyer of worlds
 
 As the structure of families and local networks changes, the structure of death and mourning will necessarily shift too. The cemetery model of memorialisation has always provided a uniform and systematic means of public acknowledgement of the life and death of an individual, where a psychical location for the dead within a town or village meant a stable place of mourning and recognition for mostly stable communities. Today, changes in networks and families mean that the traditional physical cemetery model is beginning to outgrow its use. With families and social contacts often now geographically disparate, a single physical resting place for the remainder of eternity is an untenable prospect for future visitors to deceased.
 
@@ -652,6 +652,7 @@ Post-mortem photographs may also take the form of blingee gif files on blogging 
 The intersection of social media and image can be fraught after death. Somewhere, saved on a server is the last conscious image representation chosen by an individual in life, but what constitutes a true digital memento mori image? Is changing a profile image after death a form of digital homicide? Is the act of digging through old photographs for a new representation the same as digital gravedigging?<sup>[[11]](#footnote-11)</sup>
 
 <img width="480" height="auto" src="Images/Digital-death.jpg">
+*I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer*
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
