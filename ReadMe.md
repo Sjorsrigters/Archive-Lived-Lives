@@ -73,7 +73,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 *In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-<img width="180" height="auto" src="Images/Tutankhamon.jpg">
+<img width="480" height="auto" src="Images/Tutankhamon.jpg">
 
 [...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens. <sup>[[2]](#footnote-2)</sup>
 
@@ -84,23 +84,23 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<img width="360" height="auto" src="Images/Henry-VII.jpg"> <br/> *Henry VII*
+<img width="480" height="auto" src="Images/Henry-VII.jpg"> <br/> *Henry VII*
 
-<img width="360" height="auto" src="Images/Luther.jpg"> <br/> *Martin Luther*
+<img width="480" height="auto" src="Images/Luther.jpg"> <br/> *Martin Luther*
 
-<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+<img width="480" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
 
-<img width="360" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
+<img width="480" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
 
-<img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
+<img width="480" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
 
-<img width="360" height="auto" src="Images/Himmler.jpg"> <br/> *Heinrich Himmler*
+<img width="480" height="auto" src="Images/Himmler.jpg"> <br/> *Heinrich Himmler*
 
-<img width="360" height="auto" src="Images/Lenin.jpg"> <br/> *Vladimir Lenin*
+<img width="480" height="auto" src="Images/Lenin.jpg"> <br/> *Vladimir Lenin*
 
-<img width="360" height="auto" src="Images/Newton.jpg"> <br/> *Isaac Newton*
+<img width="480" height="auto" src="Images/Newton.jpg"> <br/> *Isaac Newton*
 
-<img width="360" height="auto" src="Images/Roosevelt.jpg"> <br/> *Theodore Roosevelt*
+<img width="480" height="auto" src="Images/Roosevelt.jpg"> <br/> *Theodore Roosevelt*
 
 ---
 
@@ -129,7 +129,7 @@ Fill in text.
 <a name="2.2.1"></a>
 ### Who was Beckman?
 
-<img width="360" height="auto" src="Images/Stuuf.jpg"> <br/> *Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="480" height="auto" src="Images/Stuuf.jpg"> <br/> *Herman (Stuuf) Bernard Wiardi Beckman*
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
@@ -138,16 +138,17 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 <a name="2.2.2"></a>
 ### Origins of his death mask
 
-<img width="420" height="auto" src="Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
+<img width="720" height="auto" src="Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
-<img width="420" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
+<img width="720" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
-> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ” <sup>[[6]](#footnote-6)</sup>
+> "I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister." <sup>[[6]](#footnote-6)</sup>
 
+<br/>
 
 *Prisons and camps where Beckman was detained:* <sup>[[7]](#footnote-7)</sup>
 - Strafgevangenis ‘Oranjehotel’ Scheveningen (18 januari 1942),
@@ -159,24 +160,23 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 - Concentratiekamp Dachau (6 september 1944).
 - Omgekomen in Dachau op 15 maart 1945.
 
+<br/>
 
-<img width="430" height="auto" src="Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
+<img width="720" height="auto" src="Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
 
 July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
-> “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
-
-[SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
+> "Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong." <sup>[[7]](#footnote-7)</sup>
 
 <br/>
 
 [![Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman](Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
-*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
+*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
 [![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
-*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.*
+*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
-After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
+After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow inmates, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
 
 
 
@@ -201,6 +201,9 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 
 <a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
 
+<a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
+
+<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
 
 
 
