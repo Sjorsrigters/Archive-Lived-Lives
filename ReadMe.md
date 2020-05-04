@@ -1,4 +1,4 @@
-<img width="1920" height="auto" src="Images/Cover-1.jpg">
+<img width="1920" height="auto" src="/Images/Cover-1.jpg">
 
 # Archiving Lived Lives
 
@@ -184,7 +184,7 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 <a name="2.2.3"></a>
 ### Letters to Mrs. Beckman
 
-#### June 15, 1945 - letter by Con Broers
+#### June 15, 1945 - letter from Con Broers
 
 <details>
 
@@ -195,14 +195,6 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 | Date                 | June 15, 1945                  |
 | Writer               | Con Broers                     |
 | Location             | Utrecht, NL                    |
-
-<br>
-
-**Summary**
-
-Fill in text
-
----
 
 <br/>
 
@@ -257,7 +249,90 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
+---
 
+#### July 07, 1945 - letter from Ed Hoornik
+<details>
+
+<br/>
+
+| Tag                  | Data                           |
+|----------------------|--------------------------------|
+| Date                 | July 07, 1945                  |
+| Writer               | Ed Hoornik                     |
+| Location             | Amsterdam, NL                  |
+
+---
+
+<br/>
+
+7 Juli '45
+
+Geachte Mevrouw Wiardi Beckman,
+
+Eerst heden, teruggekeerd uit Belgie en Frankrijk, ben ik in staat Uw brief en briefkaart te beantwoorden. Beter dan ik wat betreft zijn Natzweiler-periode heeft Oscar Mohr Uw man gekend; dr. Drost uit Rotterdam zou U meer dan ik kunnen vertellen over het verblijf van Uw echtgenoot in Dachau. Heden heb ik mij telefonisch met de beide heren in verbinding gesteld, met de vraag U zoo spoedig mogelijk te bezoeken. Zoals U weet bezit dr. Drost in handschrift het gedicht "Voor Suze", dat hij U persoonlijk wil overhandigen.
+
+In verband met de vele moeilijkheden, die de teruggekeerde politieke gevangenen ondervinden, ben ik helaas voorlopig niet in staat U zelf op te zoeken. Bovengenoemde vrienden zullen, zodra zich daar een gelegenheid toe voordoet, zeker naar Overveen komen. Het spijt mij, dat de woorden, die ik in Het Vrij Volk aan de nagedachtenis van Stuf wijdde ontoereikend waren. Zijn vriendschap, zijn kennis en cultuur zullen voor mij onvergetelijk blijven.
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Hoornik-1.jpg">
+<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+
+</details>
+
+
+#### November 12, 1945 - letter from Oscar Mohr
+<details>
+
+<br/>
+
+| Tag                  | Data                   |
+|----------------------|------------------------|
+| Date                 | November 12, 1945      |
+| Writer               | Oscar Mohr             |
+| Location             | The Hague, NL          |
+
+---
+
+<br/>
+
+Den Haag, 12 Nov 1945
+
+Laan van Meerdervoort 12
+
+Zeer geachte mevrouw Wiardi Beckman,
+
+Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
+
+Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
+
+We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
+
+We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
+
+Oscar Mohr.
+
+Mijn telefoon is 110229
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Mohr-1.jpg">
+<img width="430" height="auto" src="Images/Mohr-2.jpg">
+
+</details>
 
 
 
