@@ -71,7 +71,7 @@ In the late Middle Ages, ambitious princes and ecclesiastical leaders had their 
 
 From the seventeenth century, when the bourgeoisie became more powerful and self-aware, death masks by scientists, artists and writers were introduced. *More than through painted portraits, they live on after their death*. A well-known example is the death mask of Isaac Newton (1643-1727).
 
-*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sub><a name="footnote-1">[1]</a></sub>
+*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[1](#footnote-1)</sup>
 
 <img width="180" height="auto" src="Images/Tutankhamon.jpg">
 
@@ -123,7 +123,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="7"></a>
 # Bibliography
 
-<sup>[1]: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
+<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
 
 [^2]: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
