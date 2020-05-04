@@ -78,7 +78,11 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 <a name="2.1.3"></a>
 ### Death mask of the famous
 
-<details>
+As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get.
+
+<img width="360" height="auto" src="Images/Henry-VII.jpg"> <br/> *Henry VII*
+
+<img width="360" height="auto" src="Images/Luther.jpg"> <br/> *Martin Luther*
 
 <img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
 
@@ -86,10 +90,17 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 <img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
 
-[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-</details>
+<img width="360" height="auto" src="Images/Himmler.jpg"> <br/> *Heinrich Himmler*
 
-As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get.
+<img width="360" height="auto" src="Images/Lenin.jpg"> <br/> *Vladimir Lenin*
+
+<img width="360" height="auto" src="Images/Newton.jpg"> <br/> *Isaac Newton*
+
+<img width="360" height="auto" src="Images/Roosevelt.jpg"> <br/> *Theodore Roosevelt*
+
+
+[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+
 
 <a name="2.1.2"></a>
 ### L'Inconnue de la Seine
