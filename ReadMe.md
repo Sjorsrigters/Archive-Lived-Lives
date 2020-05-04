@@ -396,8 +396,6 @@ Beste groet van je vriend
 
 <br/>
 
-<details>
-
 #### Letter 05
 
 | Tag                  | Data                           |
