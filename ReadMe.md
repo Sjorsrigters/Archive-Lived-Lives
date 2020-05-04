@@ -1,4 +1,4 @@
-<img width="1920" height="auto" src="Images/Cover-1.jpg">
+<img width="1920" height="auto" src="/Images/Cover-1.jpg">
 
 # Archiving Lived Lives
 
@@ -13,9 +13,9 @@
       - [  L'Inconnue de la Seine ](#2.1.2)
       - [  Death masks of the famous ](#2.1.3)
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
-      - [  Who was Stuuf? ](#2.2.4)
-      - [  Origins of Stuuf's death mask ](#2.2.5)
-      - [  Letters to family Beckman ](#2.2.6)
+      - [  Who was Beckman? ](#2.2.4)
+      - [  Origins of Beckman's death mask ](#2.2.5)
+      - [  Letters to Mrs. Beckman ](#2.2.6)
     - [ What should we archive? ](#2.3)
       - [ What is important to tell future generations ](#2.3.1)
       - [ Why is it important to tell? ](#2.3.2)
@@ -29,16 +29,17 @@
 6. [ Reflection ](#6)
 7. [ Bibliography ](#7)
 
+<br/>
 
 <a name="1"></a>
 # Artefact
 
-The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow inmates the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.
+**The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow prisoners the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.**
 
 <a name="1.1"></a>
 ## Metadata
 
-|                      |                                    |
+| Tag                  | Data                               |
 |----------------------|------------------------------------|
 | Call Number          | IISG BG K21/155                    |
 | Access               | Limited                            |
@@ -48,6 +49,10 @@ The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
 | <img width="420" height="auto" src="Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
 
+---
+
+<br/>
+
 <a name="2"></a>
 # Research
 
@@ -56,6 +61,7 @@ The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was
 
 **My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main question was: why did people make such masks of the deceased?**
 
+---
 
 <a name="2.1.1"></a>
 ### What is a death mask?
@@ -65,198 +71,87 @@ In the late Middle Ages, ambitious princes and ecclesiastical leaders had their 
 
 From the seventeenth century, when the bourgeoisie became more powerful and self-aware, death masks by scientists, artists and writers were introduced. *More than through painted portraits, they live on after their death*. A well-known example is the death mask of Isaac Newton (1643-1727).
 
-*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created.
+*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-[SOURCE: Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
+<img width="480" height="auto" src="Images/Tutankhamon.jpg"> <br/> *Mask of Tutankhamun*
 
-<img width="180" height="auto" src="Images/Tutankhamon.jpg">
 
-[...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens.
+[...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens. <sup>[[2]](#footnote-2)</sup>
 
-[SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-<a name="2.1.3"></a>
-### Death mask of the famous
-
-<details>
-
-<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
-
-<img width="360" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
-
-<img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
-
-[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-</details>
-
-As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get.
+---
 
 <a name="2.1.2"></a>
-### L'Inconnue de la Seine
-
-<img width="180" height="auto" src="Images/Seine.jpg">
-
-Death mask of L'Inconnue de la Seine
-She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
-
-In the following decades, *her death mask was much reproduced, in effect becoming an objet d'art.* Among her 20th century admirers were Giacometti, Man Ray, Vladimir Nabokov and Albert Camus referred to her as the "drowned Mona Lisa."
-
-[SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-[...] Laerdal kept the name of his Anne doll, but gave the new mannequin L'Inconnue's face, along with a body of full sized adult dimensions – *including a collapsible chest for practising compressions, and open lips to simulate mouth-to-mouth resuscitation.*
-
-[SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
-
----
-
-<br/>
-
-
-
-
-
-
-
-
----
----
----
-
-## Visits at the IISG
-- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
-- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
-
----
-
-<br/>
-
-## Table of Content
-
-1. [ Artefact ](#1)
-2. [ Death masks ](#2)
-   - [ What is a death mask? ](#2.1)
-   - [ L'Inconnue de la Seine ](#2.2)
-   - [ Death masks of the famous ](#2.3)
-3. [ Herman (Stuuf) Bernard Wiardi Beckman ](#3)
-   - [ Who was Beckman ](#3.1)
-   - [ Origins of his death mask ](#3.2)
-   - [ Letters to family Beckman ](#3.3)
-4. [ What should we archive ](#4)
-   - [ What is important to tell future generations ](#4.1)
-   - [ Why is it important to tell? ](#4.2)
-   - [ What are the meta topics ](#4.3)
-   - [ How to explain meta topics to future generations ](#4.4)
-5. [ Transcodings ](#5)
-   - [ 01 - Virtual Tomb ](#5.1)
-   - [ 02 - Visual Narrative ](#5.2)
-   - [ 03 - Interactive Dialogue ](#5.3)
-   - [ 04 - Archiving Physical Objects ](#5.4)
-6. [ Notes ](#6)
-
----
-
-<br/>
-
-<a name="1"></a>
-## 1. Artefact
-
-<img width="420" height="auto" src="Images/Artefact.jpg"> <br/> *Death mask of Herman (Stuuf) Bernard Wiardi Beckman*
-
-### [Object information of the IISG](https://search.iisg.amsterdam/Record/1013777)
-
-| Tag                  | Data                                                                       |
-|----------------------|----------------------------------------------------------------------------|
-| Call Number          | IISG BG K21/155(https://search.iisg.amsterdam/Record/1013777)              |
-| Access               | Limited                                                                    |
-| Physical Description | Plaster, 30 cm.                                                            |
-| Genres               | Object                                                                     |
-| Note                 | Death-Mask                                                                 |
-| Subject Person       | Wiardi Beckman, Herman Bernard                                             |
-
-<br/>
-
-<a name="2"></a>
-## 2. Death masks
-
-<a name="2.1"></a>
-### What is a death mask?
-*A death mask is a cast of a dead person*, usually made of wax or plaster. Death masks used to preserve the identity of a person, so that, for example, portraits could be made later.
-
-In the late Middle Ages, ambitious princes and ecclesiastical leaders had their portraits spread throughout their empire. It was advertising for themselves, and it legitimized their rule. *A cast of their lifeless face showed that their power, the power of the dynasty, was unbroken even after death*.
-
-From the seventeenth century, when the bourgeoisie became more powerful and self-aware, death masks by scientists, artists and writers were introduced. *More than through painted portraits, they live on after their death*. A well-known example is the death mask of Isaac Newton (1643-1727).
-
-*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created.
-
-[SOURCE: Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
-
-<img width="180" height="auto" src="Images/Tutankhamon.jpg">
-
-[...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun.](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun) Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens.
-
-[SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-<a name="2.2"></a>
-### L'Inconnue de la Seine
-
-<img width="180" height="auto" src="Images/Seine.jpg">
-
-Death mask of L'Inconnue de la Seine
-She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
-
-In the following decades, *her death mask was much reproduced, in effect becoming an objet d'art.* Among her 20th century admirers were Giacometti, Man Ray, Vladimir Nabokov and Albert Camus referred to her as the "drowned Mona Lisa."
-
-[SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-[...] Laerdal kept the name of his Anne doll, but gave the new mannequin L'Inconnue's face, along with a body of full sized adult dimensions – *including a collapsible chest for practising compressions, and open lips to simulate mouth-to-mouth resuscitation.*
-
-[SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
-
-<a name="2.3"></a>
 ### Death mask of the famous
-<details>
 
-<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<img width="360" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
+<img width="480" height="auto" src="Images/Henry-VII.jpg"> <br/> *Henry VII*
 
-<img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
+<img width="480" height="auto" src="Images/Luther.jpg"> <br/> *Martin Luther*
 
-[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-</details>
+<img width="480" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+
+<img width="480" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
+
+<img width="480" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
+
+<img width="480" height="auto" src="Images/Himmler.jpg"> <br/> *Heinrich Himmler*
+
+<img width="480" height="auto" src="Images/Lenin.jpg"> <br/> *Vladimir Lenin*
+
+<img width="480" height="auto" src="Images/Newton.jpg"> <br/> *Isaac Newton*
+
+<img width="480" height="auto" src="Images/Roosevelt.jpg"> <br/> *Theodore Roosevelt*
+
+---
+
+<a name="2.1.3"></a>
+### L'Inconnue de la Seine
+
+<img width="480" height="auto" src="Images/Seine.jpg"> <br/> *Mask of 'L'Inconnue de la Seine'*
+
+She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
+
+In the following decades, *her death mask was much reproduced, in effect becoming an objet d'art.* Among her 20th century admirers were Giacometti, Man Ray, Vladimir Nabokov and Albert Camus referred to her as the "drowned Mona Lisa." <sup>[[4]](#footnote-4)</sup>
+
+[...] Laerdal kept the name of his Anne doll, but gave the new mannequin L'Inconnue's face, along with a body of full sized adult dimensions – *including a collapsible chest for practising compressions, and open lips to simulate mouth-to-mouth resuscitation.* <sup>[[5]](#footnote-5)</sup>
 
 ---
 
 <br/>
 
-<a name="3"></a>
+<a name="2.2."></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
 
-<a name="3.1"></a>
+Fill in text.
+
+---
+
+<a name="2.2.1"></a>
 ### Who was Beckman?
 
-<img width="360" height="auto" src="Images/Stuuf.jpg"> <br/> *Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="480" height="auto" src="Images/Stuuf.jpg"> <br/> *Herman (Stuuf) Bernard Wiardi Beckman*
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
-<a name="3.2"></a>
-### Origins of his death mask
+---
 
-<img width="420" height="auto" src="Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
+<a name="2.2.2"></a>
+### Origins of Beckman's death mask
 
-On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen.
+<img width="720" height="auto" src="Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
-[SOURCE: Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
-<img width="420" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
+<img width="720" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
-> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ”
+> "I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister." <sup>[[6]](#footnote-6)</sup>
 
-[SOURCE: Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+<br/>
 
-### Prisons and camps where Beckman was detained
+*Prisons and camps where Beckman was detained:* <sup>[[7]](#footnote-7)</sup>
 - Strafgevangenis ‘Oranjehotel’ Scheveningen (18 januari 1942),
 - Polizeiliches Durchgangslager Amersfoort (6 november 1942),
 - Concentratiekamp Vught (januari 1943),
@@ -265,44 +160,39 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 - Concentratiekamp Natzweiler-Struthof (26 oktober 1943),
 - Concentratiekamp Dachau (6 september 1944).
 - Omgekomen in Dachau op 15 maart 1945.
-   
-[SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
-</details>
 
-<img width="430" height="auto" src="Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
+<br/>
+
+<img width="720" height="auto" src="Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
 
 July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
-> “Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong. "
-
-[SOURCE: Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
+> "Then he slid his arm gently under mine. Tell me - his voice became warm - to whom I belong." <sup>[[7]](#footnote-7)</sup>
 
 <br/>
 
 [![Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman](Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
-*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman*
+*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
 [![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
-*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.*
+*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
-After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold.
+After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
-<a name="3.3"></a>
-### Letters to family Beckman
+---
 
-#### Letter by Con Broers
+<a name="2.2.3"></a>
+### Letters to Mrs. Beckman
 
-<details>
+#### Letter 01
 
-<br/>
-
-|                      |                                |
+| Tag                  | Data                           |
 |----------------------|--------------------------------|
 | Date                 | June 15, 1945                  |
 | Writer               | Con Broers                     |
 | Location             | Utrecht, NL                    |
 
----
+<details>
 
 <br/>
 
@@ -310,9 +200,9 @@ Utrecht 15 Juni 1945
 
 Hooggeachte mevrouw Wiardi Beckman,
 
-Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Poellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken. 
+Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Pooellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken. 
 
-Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de personificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
+Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de perso @nificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
 
 Maar reeds spoedig kregen we in Dachau leidende porties. Ik kwam in het hospitaal in het klinisch laboratorium waar ik als bioloog werken kon en hij werd Stube-älteste, had het bewind over een kwart blok en ... 400 menschen.
 
@@ -357,18 +247,16 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
-#### Letter by Ed Hoornik
-<details>
 
-<br/>
+#### Letter 02
 
-|                      |                                |
+| Tag                  | Data                           |
 |----------------------|--------------------------------|
 | Date                 | July 07, 1945                  |
 | Writer               | Ed Hoornik                     |
 | Location             | Amsterdam, NL                  |
 
----
+<details>
 
 <br/>
 
@@ -392,6 +280,107 @@ Met de meeste hoogachting
 <img width="430" height="auto" src="Images/Hoornik-2.jpg">
 
 </details>
+
+
+#### November 12, 1945 - letter from Oscar Mohr
+<details>
+
+<br/>
+
+| Tag                  | Data                   |
+|----------------------|------------------------|
+| Date                 | November 12, 1945      |
+| Writer               | Oscar Mohr             |
+| Location             | The Hague, NL          |
+
+---
+
+<br/>
+
+Den Haag, 12 Nov 1945
+
+Laan van Meerdervoort 12
+
+Zeer geachte mevrouw Wiardi Beckman,
+
+Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
+
+Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
+
+We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
+
+We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
+
+Oscar Mohr.
+
+Mijn telefoon is 110229
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Mohr-1.jpg">
+<img width="430" height="auto" src="Images/Mohr-2.jpg">
+
+</details>
+
+
+
+
+
+---
+
+<br/>
+
+<a name="7"></a>
+# Bibliography
+
+<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
+
+<a name="footnote-2">[2]</a>: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+<a name="footnote-3">[3]</a>: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+
+<a name="footnote-4">[4]</a>: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
+
+<a name="footnote-6">[6]</a>: [Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+
+<a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
+
+<a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
+
+<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+## Visits at the IISG
+- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
+- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
+
+
+<a name="3.3"></a>
+### Letters to family Beckman
+
+
+
 
 
 #### Letter by Oscar Mohr
