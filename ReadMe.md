@@ -144,12 +144,12 @@ On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beck
 
 <img width="420" height="auto" src="Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
 
-Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this <sub>[[6]](#footnote-6)</sup>:
+Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
-> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ”
+> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ” <sup>[[6]](#footnote-6)</sup>
 
 
-*Prisons and camps where Beckman was detained:* <sub>[[7]](#footnote-7)</sup>
+*Prisons and camps where Beckman was detained:* <sup>[[7]](#footnote-7)</sup>
 - Strafgevangenis ‘Oranjehotel’ Scheveningen (18 januari 1942),
 - Polizeiliches Durchgangslager Amersfoort (6 november 1942),
 - Concentratiekamp Vught (januari 1943),
