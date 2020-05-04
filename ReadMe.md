@@ -29,16 +29,17 @@
 6. [ Reflection ](#6)
 7. [ Bibliography ](#7)
 
+<br/>
 
 <a name="1"></a>
 # Artefact
 
-The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow inmates the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.
+**The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow inmates the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.**
 
 <a name="1.1"></a>
 ## Metadata
 
-|                      |                                    |
+| Tag                  | Data                               |
 |----------------------|------------------------------------|
 | Call Number          | IISG BG K21/155                    |
 | Access               | Limited                            |
@@ -48,6 +49,10 @@ The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
 | <img width="420" height="auto" src="Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
 
+---
+
+<br/>
+
 <a name="2"></a>
 # Research
 
@@ -56,6 +61,7 @@ The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was
 
 **My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main question was: why did people make such masks of the deceased?**
 
+---
 
 <a name="2.1.1"></a>
 ### What is a death mask?
@@ -65,20 +71,18 @@ In the late Middle Ages, ambitious princes and ecclesiastical leaders had their 
 
 From the seventeenth century, when the bourgeoisie became more powerful and self-aware, death masks by scientists, artists and writers were introduced. *More than through painted portraits, they live on after their death*. A well-known example is the death mask of Isaac Newton (1643-1727).
 
-*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created.
-
-[SOURCE: Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
+*In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created.[^1]
 
 <img width="180" height="auto" src="Images/Tutankhamon.jpg">
 
-[...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens.
+[...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens.[^2]
 
-[SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+---
 
-<a name="2.1.3"></a>
+<a name="2.1.2"></a>
 ### Death mask of the famous
 
-As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get.
+As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get.[^3]
 
 <img width="360" height="auto" src="Images/Henry-VII.jpg"> <br/> *Henry VII*
 
@@ -98,11 +102,9 @@ As already mentioned, death masks were made for a range of famous and notable pe
 
 <img width="360" height="auto" src="Images/Roosevelt.jpg"> <br/> *Theodore Roosevelt*
 
+---
 
-[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-
-
-<a name="2.1.2"></a>
+<a name="2.1.3"></a>
 ### L'Inconnue de la Seine
 
 <img width="180" height="auto" src="Images/Seine.jpg">
@@ -110,17 +112,37 @@ As already mentioned, death masks were made for a range of famous and notable pe
 Death mask of L'Inconnue de la Seine
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
-In the following decades, *her death mask was much reproduced, in effect becoming an objet d'art.* Among her 20th century admirers were Giacometti, Man Ray, Vladimir Nabokov and Albert Camus referred to her as the "drowned Mona Lisa."
+In the following decades, *her death mask was much reproduced, in effect becoming an objet d'art.* Among her 20th century admirers were Giacometti, Man Ray, Vladimir Nabokov and Albert Camus referred to her as the "drowned Mona Lisa."[^4]
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-[...] Laerdal kept the name of his Anne doll, but gave the new mannequin L'Inconnue's face, along with a body of full sized adult dimensions – *including a collapsible chest for practising compressions, and open lips to simulate mouth-to-mouth resuscitation.*
+[...] Laerdal kept the name of his Anne doll, but gave the new mannequin L'Inconnue's face, along with a body of full sized adult dimensions – *including a collapsible chest for practising compressions, and open lips to simulate mouth-to-mouth resuscitation.*[^5]
 
 [SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
 
 ---
 
 <br/>
+
+<a name="7"></a>
+# Bibliography
+
+[^1]: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
+
+[^2]: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+[^3]: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+
+[^4]: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+[^5]: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
+
+
+
+
+
+
+
 
 
 
@@ -207,7 +229,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-<a name="2.2"></a>
+<a name="2.3"></a>
 ### L'Inconnue de la Seine
 
 <img width="180" height="auto" src="Images/Seine.jpg">
