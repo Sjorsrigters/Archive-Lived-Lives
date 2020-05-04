@@ -13,9 +13,9 @@
       - [  L'Inconnue de la Seine ](#2.1.2)
       - [  Death masks of the famous ](#2.1.3)
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
-      - [  Who was Beckman? ](#2.2.4)
-      - [  Origins of Beckman's death mask ](#2.2.5)
-      - [  Letters to Mrs. Beckman ](#2.2.6)
+      - [  Who was Beckman? ](#2.2.1)
+      - [  Origins of Beckman's death mask ](#2.2.2)
+      - [  Letters to Mrs. Beckman ](#2.2.3)
     - [ What should we archive? ](#2.3)
       - [ What is important to tell future generations ](#2.3.1)
       - [ Why is it important to tell? ](#2.3.2)
@@ -171,10 +171,10 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-[![Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman](Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
+[img width="720" height="auto" (Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
 *VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
-[![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
+[img width="720" height="auto" (Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
 *VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
@@ -247,8 +247,6 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
-<br/>
-
 #### Letter 02
 
 | Tag                  | Data                           |
@@ -281,8 +279,6 @@ Met de meeste hoogachting
 <img width="430" height="auto" src="Images/Hoornik-2.jpg">
 
 </details>
-
-<br>
 
 #### Letter 03
 
@@ -361,8 +357,6 @@ Soest
 
 </details>
 
-<br>
-
 #### Letter 04
 
 | Tag                  | Data                   |
@@ -405,8 +399,6 @@ Met de meeste hoogachting
 <img width="430" height="auto" src="Images/Mohr-2.jpg">
 
 </details>
-
-
 
 #### Letter 05
 
@@ -455,6 +447,16 @@ Met vriendelijke groet
 <img width="480" height="auto" src="Images/Willoch-5.jpg">
 
 </details>
+
+
+
+
+
+
+
+
+
+
 
 ---
 
