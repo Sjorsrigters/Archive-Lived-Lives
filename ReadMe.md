@@ -171,7 +171,7 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-<img width="720" height="auto" src="Images/Geen-Nummers-Maar-Namen.png" (https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)>
+[![](src="Images/Geen-Nummers-Maar-Namen.png")](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
 *VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
 <img width="720" height="auto" src="Images/Steensma.png" (https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)>
