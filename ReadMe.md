@@ -15,7 +15,7 @@
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
       - [  Who was Stuuf? ](#2.2.4)
       - [  Origins of Stuuf's death mask ](#2.2.5)
-      - [  Letters to family Beckman ](#2.2.6)
+      - [  Letters to Mrs. Beckman ](#2.2.6)
     - [ What should we archive? ](#2.3)
       - [ What is important to tell future generations ](#2.3.1)
       - [ Why is it important to tell? ](#2.3.2)
@@ -34,7 +34,7 @@
 <a name="1"></a>
 # Artefact
 
-**The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow inmates the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.**
+**The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow prisoners the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.**
 
 <a name="1.1"></a>
 ## Metadata
@@ -177,12 +177,12 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 [![DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.](Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
 *VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
-After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow inmates, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
+After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
 ---
 
 <a name="2.2.3"></a>
-### Letters to family Beckman
+### Letters to Mrs. Beckman
 
 #### Letter by Con Broers
 
@@ -196,6 +196,12 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 | Writer               | Con Broers                     |
 | Location             | Utrecht, NL                    |
 
+<br>
+
+**Summary**
+
+Fill in text
+
 ---
 
 <br/>
@@ -204,9 +210,9 @@ Utrecht 15 Juni 1945
 
 Hooggeachte mevrouw Wiardi Beckman,
 
-Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Poellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken. 
+Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Pooellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken. 
 
-Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de personificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
+Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de perso @nificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
 
 Maar reeds spoedig kregen we in Dachau leidende porties. Ik kwam in het hospitaal in het klinisch laboratorium waar ik als bioloog werken kon en hij werd Stube-älteste, had het bewind over een kwart blok en ... 400 menschen.
 
@@ -250,6 +256,12 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 <img width="430" height="auto" src="Images/Broers-2.jpg">
 
 </details>
+
+
+
+
+
+
 
 ---
 
