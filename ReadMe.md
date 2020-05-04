@@ -8,15 +8,15 @@
 1. [ Artefact ](#1)
     - [ Metadata ](#1.1)
 2. [ Research ](#2)
-  - [ Death masks ](#2.1)
+    - [ Death masks ](#2.1)
      - [  What is a death mask? ](#2.1.1)
      - [  L'Inconnue de la Seine ](#2.1.2)
      - [  Death masks of the famous ](#2.1.3)
-  - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
+    - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
      - [  Who was Stuuf? ](#2.2.4)
      - [  Origins of Stuuf's death mask ](#2.2.5)
      - [  Letters to family Beckman ](#2.2.6)
-  - [ What should we archive? ](#2.3)
+    - [ What should we archive? ](#2.3)
      - [ What is important to tell future generations ](#2.3.1)
      - [ Why is it important to tell? ](#2.3.2)
      - [ What are the meta topics ](#2.3.3)
@@ -35,6 +35,7 @@
 
 The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow inmates the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.
 
+<a name="1.1"></a>
 ## Metadata
 
 |                      |                                    |
@@ -50,12 +51,13 @@ The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was
 <a name="2"></a>
 # Research
 
-<a name="2"></a>
-## 2. Death masks
-My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main question was: why did people make such masks of the deceased?
-
-
 <a name="2.1"></a>
+## 2. Death masks
+
+**My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main question was: why did people make such masks of the deceased?**
+
+
+<a name="2.1.1"></a>
 ### What is a death mask?
 *A death mask is a cast of a dead person*, usually made of wax or plaster. Death masks are true portraits, although changes are occasionally made in the eyes of the mask to make it appear as though the subject were alive. *From the time of ancient Egypt they have served as aids to portrait sculptors*, and for the last few centuries they have been kept as mementos of the dead.
 
@@ -73,7 +75,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-<a name="2.2"></a>
+<a name="2.1.2"></a>
 ### L'Inconnue de la Seine
 
 <img width="180" height="auto" src="Images/Seine.jpg">
@@ -89,7 +91,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 
 [SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
 
-<a name="2.3"></a>
+<a name="2.1.3"></a>
 ### Death mask of the famous
 <details>
 
