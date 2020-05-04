@@ -247,6 +247,7 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
+<br/>
 
 #### Letter 02
 
@@ -281,254 +282,17 @@ Met de meeste hoogachting
 
 </details>
 
+<br>
 
-#### November 12, 1945 - letter from Oscar Mohr
-<details>
+#### Letter 03
 
-<br/>
-
-| Tag                  | Data                   |
-|----------------------|------------------------|
-| Date                 | November 12, 1945      |
-| Writer               | Oscar Mohr             |
-| Location             | The Hague, NL          |
-
----
-
-<br/>
-
-Den Haag, 12 Nov 1945
-
-Laan van Meerdervoort 12
-
-Zeer geachte mevrouw Wiardi Beckman,
-
-Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
-
-Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
-
-We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
-
-We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
-
-Oscar Mohr.
-
-Mijn telefoon is 110229
-
-Met de meeste hoogachting
-
-[handtekening]
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Mohr-1.jpg">
-<img width="430" height="auto" src="Images/Mohr-2.jpg">
-
-</details>
-
-
-
-
-
----
-
-<br/>
-
-<a name="7"></a>
-# Bibliography
-
-<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
-
-<a name="footnote-2">[2]</a>: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-<a name="footnote-3">[3]</a>: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-
-<a name="footnote-4">[4]</a>: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
-
-<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
-
-<a name="footnote-6">[6]</a>: [Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
-
-<a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
-
-<a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
-
-<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
-
-
-
-
-
-
-
-
-
-
-
----
----
----
-
-## Visits at the IISG
-- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
-- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
-
-
-<a name="3.3"></a>
-### Letters to family Beckman
-
-
-
-
-
-#### Letter by Oscar Mohr
-<details>
-
-<br/>
-
-|                      |                        |
-|----------------------|------------------------|
-| Date                 | November 12, 1945      |
-| Writer               | Oscar Mohr             |
-| Location             | The Hague, NL          |
-
----
-
-<br/>
-
-Den Haag, 12 Nov 1945
-
-Laan van Meerdervoort 12
-
-Zeer geachte mevrouw Wiardi Beckman,
-
-Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
-
-Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
-
-We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
-
-We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
-
-Oscar Mohr.
-
-Mijn telefoon is 110229
-
-Met de meeste hoogachting
-
-[handtekening]
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Mohr-1.jpg">
-<img width="430" height="auto" src="Images/Mohr-2.jpg">
-
-</details>
-
-#### Letter by queen Wilhelmina
-<details>
-
-<br/>
-
-|                      |                                |
-|----------------------|--------------------------------|
-| Date                 | May 09, 1947                   |
-| Writer               | Wilhelmina der Nederlanden     |
-| Location             | Het Loo, The Hague, NL         |
-
----
-
-<br/>
-
-Het Loo, 9 Mei 1947.
-
-Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
-
-Pernambucolaan 55, Overveen
-
-Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
-
-Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
-
-Moge zijn nagedachtenis U een steun in het verdere leven blijven.
-
-[handtekening]
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Wilhelmina-1.jpg">
-<img width="430" height="auto" src="Images/Wilhelmina-2.jpg">
-
-</details>
-
-#### Letter from Vardåsen
-<details>
-
-<br/>
-
-|                      |                                |
-|----------------------|--------------------------------|
-| Date                 | May 09, 1947                   |
-| Writer               | -                              |
-| Location             | Vardåsen, NO                   |
-
----
-
-<br/>
-
-Vardåsen, 12/10-45.
-
-Beste mevrouw Beckman!
-
-Heel erg bedankt voor je brief. Het spijt me heel erg om te horen dat uw man niet meer leeft.
-
-Ik had niet echt veel met je man te maken, maar we hadden veel discussies en deelden nachtlampjes met elkaar. Hierdoor leerden we elkaar goed kennen en kreeg ik al snel de indruk dat hij altijd vast overtuigd was van de juistheid van zijn idee. Bij hem bestond er geen enkele twijfel dat de strijd voor de vrijheid van zijn volk zou slagen.
-
-Toen ik in november 1943 naar het kamp in Natzweiler kwam, was de beruchte Kramer van het Belsen-proces de commandant in het kamp en de omstandigheden waren behoorlijk slecht. Beckman had toen al een baan voor het kantoor en kwam bij ons in het blok om onze persoonlijke gegevens op te schrijven. Destijds waarschuwde hij me om tuberculose op te geven en zei dat het me mijn leven zou kunnen kosten. Later kwam ik erachter dat het juist was.
-
-In de maanden maart - april werkten we samen in de nachtploeg in de "weverij" - zat hij naast me. De Nederlanders zongen veel van hun nationale liederen en de oude vrijheidsliederen en lofzangen uit de Boerenoorlogen en van vroeger (17e eeuw?). Hij vertelde me ook veel over de Oud Hollandse cultuur en over Rembrandt van Rijn en Vlaamse kunstenaars en over de Renaissance en ook kleine historische lezingen. Hij vertelde het me altijd graag en het was altijd zijn trots dat zijn land en volk een oude en hoge cultuur vertegenwoordigen. Hij zong de liedjes altijd heel hard en met veel enthousiasme, want de SS kwam nooit 's nachts.
-
-Hij zei ook vaak dat hij bang was voor zijn familie omdat je in een gebied woonde dat waarschijnlijk zou worden geëvacueerd. Net als wij allemaal zei hij weinig over zijn familie, maar ik begreep dat jij en de kinderen belichaamden waar hij voor had gewerkt en voor gevochten. Misschien begreep ik het op die manier omdat hij mijn vrouw zelf in het kamp had - maar waar?
-
-Begin juli 1944 had ik vreselijke pijn in mijn benen. Ik vond het erg moeilijk om heen en weer te gaan van mijn werk in de steengroeve. De goede kameraad had me meteen te pakken en hij schreef met een briefje dat ik me de volgende dag bij de SS-arts moest melden. Hij schreef me dit een paar dagen totdat ik via een andere verbinding een betere baan kreeg. Zonder de hulp van Beckman zou ik nauwelijks uit de groeve zijn gekomen.
-
-Hieruit zult u, mevrouw Beckman, ook begrijpen dat hij opkwam voor de gevangenen in het kamp. Ik kan zonder overdrijving zeggen dat hij mijn leven heeft gered. Voor mij was hij een goede kameraad, een echte patriot, en hoe groot zijn haat tegen de vijanden van zijn volk ook was, zo was zijn liefde en zorg voor alle onderdrukten en kwellingen. Een hoog ontwikkeld persoon en een goede kameraad, ook voor ons communisten
-
-Ik deel deze beoordeling van uw man ook met de kameraden die bij mij zijn hier in het sanatorium en die in Natzweiler waren. Je kunt je kinderen ook vertellen dat hun vader iemand was die ik zou willen zijn.
-
-Heel erg bedankt voor uw goede wensen voor mijn gezondheid en ik hoop dat u en uw kinderen in de toekomst gezond zullen worden.
-
-Met vriendelijke groet
-
-[handtekening]
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Vardåsen-1.jpg">
-<img width="430" height="auto" src="Images/Vardåsen-2.jpg">
-
-</details>
-
-#### Letter by Carel Steensma
-<details>
-
-<br/>
-
-|                      |                           |
+| Tag                  | Data                      |
 |----------------------|---------------------------|
 | Date                 | May 09, 1947              |
 | Writer               | Carel Steensma            |
 | Location             | Soest, NL                 |
 
----
+<details>
 
 <br/>
 
@@ -596,6 +360,189 @@ Soest
 <img width="430" height="auto" src="Images/Steensma-6.jpg">
 
 </details>
+
+<br>
+
+#### Letter 04
+
+| Tag                  | Data                   |
+|----------------------|------------------------|
+| Date                 | November 12, 1945      |
+| Writer               | Oscar Mohr             |
+| Location             | The Hague, NL          |
+
+<details>
+
+<br/>
+
+Den Haag, 12 Nov 1945
+
+Laan van Meerdervoort 12
+
+Zeer geachte mevrouw Wiardi Beckman,
+
+Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
+
+Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
+
+We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
+
+We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
+
+Oscar Mohr.
+
+Mijn telefoon is 110229
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Mohr-1.jpg">
+<img width="430" height="auto" src="Images/Mohr-2.jpg">
+
+</details>
+
+
+
+#### Letter 05
+
+| Tag                  | Data                           |
+|----------------------|--------------------------------|
+| Date                 | 12 October, 1945               |
+| Writer               | Kurt Willich                   |
+| Location             | Vardåsen, NO                   |
+
+<details>
+
+<br/>
+
+Vardåsen, 12/10-45.
+
+Beste mevrouw Beckman!
+
+Heel erg bedankt voor je brief. Het spijt me heel erg om te horen dat uw man niet meer leeft.
+
+Ik had niet echt veel met je man te maken, maar we hadden veel discussies en deelden nachtlampjes met elkaar. Hierdoor leerden we elkaar goed kennen en kreeg ik al snel de indruk dat hij altijd vast overtuigd was van de juistheid van zijn idee. Bij hem bestond er geen enkele twijfel dat de strijd voor de vrijheid van zijn volk zou slagen.
+
+Toen ik in november 1943 naar het kamp in Natzweiler kwam, was de beruchte Kramer van het Belsen-proces de commandant in het kamp en de omstandigheden waren behoorlijk slecht. Beckman had toen al een baan voor het kantoor en kwam bij ons in het blok om onze persoonlijke gegevens op te schrijven. Destijds waarschuwde hij me om tuberculose op te geven en zei dat het me mijn leven zou kunnen kosten. Later kwam ik erachter dat het juist was.
+
+In de maanden maart - april werkten we samen in de nachtploeg in de "weverij" - zat hij naast me. De Nederlanders zongen veel van hun nationale liederen en de oude vrijheidsliederen en lofzangen uit de Boerenoorlogen en van vroeger (17e eeuw?). Hij vertelde me ook veel over de Oud Hollandse cultuur en over Rembrandt van Rijn en Vlaamse kunstenaars en over de Renaissance en ook kleine historische lezingen. Hij vertelde het me altijd graag en het was altijd zijn trots dat zijn land en volk een oude en hoge cultuur vertegenwoordigen. Hij zong de liedjes altijd heel hard en met veel enthousiasme, want de SS kwam nooit 's nachts.
+
+Hij zei ook vaak dat hij bang was voor zijn familie omdat je in een gebied woonde dat waarschijnlijk zou worden geëvacueerd. Net als wij allemaal zei hij weinig over zijn familie, maar ik begreep dat jij en de kinderen belichaamden waar hij voor had gewerkt en voor gevochten. Misschien begreep ik het op die manier omdat hij mijn vrouw zelf in het kamp had - maar waar?
+
+Begin juli 1944 had ik vreselijke pijn in mijn benen. Ik vond het erg moeilijk om heen en weer te gaan van mijn werk in de steengroeve. De goede kameraad had me meteen te pakken en hij schreef met een briefje dat ik me de volgende dag bij de SS-arts moest melden. Hij schreef me dit een paar dagen totdat ik via een andere verbinding een betere baan kreeg. Zonder de hulp van Beckman zou ik nauwelijks uit de groeve zijn gekomen.
+
+Hieruit zult u, mevrouw Beckman, ook begrijpen dat hij opkwam voor de gevangenen in het kamp. Ik kan zonder overdrijving zeggen dat hij mijn leven heeft gered. Voor mij was hij een goede kameraad, een echte patriot, en hoe groot zijn haat tegen de vijanden van zijn volk ook was, zo was zijn liefde en zorg voor alle onderdrukten en kwellingen. Een hoog ontwikkeld persoon en een goede kameraad, ook voor ons communisten
+
+Ik deel deze beoordeling van uw man ook met de kameraden die bij mij zijn hier in het sanatorium en die in Natzweiler waren. Je kunt je kinderen ook vertellen dat hun vader iemand was die ik zou willen zijn.
+
+Heel erg bedankt voor uw goede wensen voor mijn gezondheid en ik hoop dat u en uw kinderen in de toekomst gezond zullen worden.
+
+Met vriendelijke groet
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="480" height="auto" src="Images/Willoch-3.jpg">
+<img width="480" height="auto" src="Images/Willoch-4.jpg">
+<img width="480" height="auto" src="Images/Willoch-5.jpg">
+
+</details>
+
+---
+
+<br/>
+
+<a name="7"></a>
+# Bibliography
+
+<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
+
+<a name="footnote-2">[2]</a>: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+<a name="footnote-3">[3]</a>: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+
+<a name="footnote-4">[4]</a>: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+
+<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
+
+<a name="footnote-6">[6]</a>: [Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+
+<a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
+
+<a name="footnote-8">[8]</a>: [ Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman ](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
+
+<a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+## Visits at the IISG
+- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
+- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
+
+
+
+
+
+#### Letter by queen Wilhelmina
+<details>
+
+<br/>
+
+| Tag                  | Data                           |
+|----------------------|--------------------------------|
+| Date                 | May 09, 1947                   |
+| Writer               | Wilhelmina der Nederlanden     |
+| Location             | Het Loo, The Hague, NL         |
+
+---
+
+<br/>
+
+Het Loo, 9 Mei 1947.
+
+Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
+
+Pernambucolaan 55, Overveen
+
+Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
+
+Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
+
+Moge zijn nagedachtenis U een steun in het verdere leven blijven.
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Wilhelmina-1.jpg">
+<img width="430" height="auto" src="Images/Wilhelmina-2.jpg">
+
+</details>
+
+
+
 
 ---
 
