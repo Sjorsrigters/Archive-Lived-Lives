@@ -359,46 +359,44 @@ Soest
 
 #### Letter 04
 
-| Tag                  | Data                   |
-|----------------------|------------------------|
-| Date                 | November 12, 1945      |
-| Writer               | Oscar Mohr             |
-| Location             | The Hague, NL          |
+| Tag                  | Data                           |
+|----------------------|--------------------------------|
+| Date                 | 12 October, 1945               |
+| Writer               | Kurt Willich                   |
+| Location             | Vardåsen, NO                   |
 
 <details>
 
 <br/>
 
-Den Haag, 12 Nov 1945
+Vardåsen 29/7/45
 
-Laan van Meerdervoort 12
+Beste kameraad Beckmann!
 
-Zeer geachte mevrouw Wiardi Beckman,
+Het is lang geleden dat we samen kampeerden in het kamp Natzweiler. Ik werd op 25 oktober 1944 vanuit Dachau overgebracht naar Neuengamme bij Hamburg. Het was een slecht kamp en ik kreeg er een longontsteking en diarree en was er bijna ingebleven. In dezelfde zaal ontmoette ik een Brusselaar die ik al sinds 1934 uit Brussel kende en die me hielp om in leven te blijven.
 
-Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
+Begin april dit jaar ben ik door het Zweedse Rode Kruis overgebracht naar Zweden. Daar vond ik mijn vrouw terug, die 5 dagen ervoor uit het vrouwenconcentratiekamp Ravensbrück was gekomen! Nu lig ik in het Vardåsen-sanatorium in Asker bij Oslo. Beide longen zijn aangetast en het duurt in een eerste instantie een half jaar om beter te worden, misschien zelfs meer.
 
-Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
+Nu wil ik weten hoe het met jou is gegaan en of je eigenlijk nog wel in leven bent. Schrijf me alsjeblieft en vertel me hoe het met jou is gegaan.
 
-We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
+Hier in Noorwegen vinden er belangrijke gebeurtenissen plaats en ik denk dat die ook voor jullie in Nederland van het grootste belang zijn. De gemeenschappelijke politieke lijn van de communisten en de sociaaldemocraten en hun politieke en organisatorische eenwording staat voor de deur. Het eenwordingscongres vond plaats op 2 september. Vandaag beginnen de eenwordingsonderhandelingen voor de jongerenorganisaties. De gemeenschappelijke lijn van de partij is ook opmerkelijk.
 
-We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
+Naast al deze vragen wil ik je graag informeren en eventueel ook voor je krant schrijven. Maar eerst moet ik iets van je horen en weten dat dit allemaal niet voor niets is. Als de omstandigheden zich zo ontwikkelen, heb je een correspondent voor de krant nodig en na de eenwording behoren we ook tot dezelfde partij. Hoe heet de krant overigens nu?
 
-Oscar Mohr.
+Tot kijk! Er zijn hier in het sanatorium verschillende kameraden uit Natzweiler die je begroeten!
 
-Mijn telefoon is 110229
-
-Met de meeste hoogachting
+Beste groet van je vriend
 
 [handtekening]
 
-<br/>
-
 ---
 
-<img width="430" height="auto" src="Images/Mohr-1.jpg">
-<img width="430" height="auto" src="Images/Mohr-2.jpg">
+<img width="480" height="auto" src="Images/Willoch-1.jpg">
+<img width="480" height="auto" src="Images/Willoch-2.jpg">
 
-</details>
+<br/>
+
+<details>
 
 #### Letter 05
 
@@ -448,15 +446,137 @@ Met vriendelijke groet
 
 </details>
 
+#### Letter 06
 
+| Tag                  | Data                   |
+|----------------------|------------------------|
+| Date                 | November 12, 1945      |
+| Writer               | Oscar Mohr             |
+| Location             | The Hague, NL          |
 
+<details>
 
+<br/>
 
+Den Haag, 12 Nov 1945
 
+Laan van Meerdervoort 12
 
+Zeer geachte mevrouw Wiardi Beckman,
 
+Ik weet niet wat het was, dat steeds als ik mij voornam U op te zoeken of U te schrijven, obstakels opwierp die ik de kracht niet had te overwinnen. Ik wil U verzoeken mij thans geen uitleg te vragen voor mijn voortdurende zwijgen. Het is veroorzaakt door dingen, die mij zelf meer voor een deel bewust zijn. Ik zou kunnen aan ..., dat ik vrijwel al deze tijd in het buitenland of op dienstreizen in Brabant en Zeeland ben geweest, ... ik in ... in dienst trad van het .... voor de ... ... dat ik mijn eigen gezin ... nu en dan kon komen opzoeken, dat ik onvindbaar ben voor de meesten van mijn vroegere vrienden.
 
+Dit alle is niet ... om te verklaren waarom ik nog steeds niet datgene heb gedaan wat me na 15 Maart nog restte te doen voor Stuuf: U over hem te te spreken als ik thuis zou komen.
 
+We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen, dat de ander het niet anders zou dan de een. We waren tot een ... van oprechtheid tegenover elkaar gekomen die niet meer ..., en daartegen heel onze vriendschap bestond. Ik weet dat ik tot geen grooter vriendschap in staat ben dan die welke ik voor Stuuf gevoelde. Misschien, als ik mijzelf ... onderzoek, kan ik in deze ... ... omprang vinden van den schroom om naar U toe te gaan met vriendelijke, vertroostende woorden. U weet reeds hoe Stuuf's leven in de kampen was en hoe hij is gestorven. Ik kan er geen feiten aan toevoegen. Maar als U mij wilt toestaan bij U te komen niet als boodschapper, als reporter, en niet als trooster, dan zal ik ... in staat zijn zoo tot U over hem te spreken als hij van me heeft ... .
+
+We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
+
+Oscar Mohr.
+
+Mijn telefoon is 110229
+
+Met de meeste hoogachting
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Mohr-1.jpg">
+<img width="430" height="auto" src="Images/Mohr-2.jpg">
+
+</details>
+
+#### 07
+
+| Tag                  | Data                           |
+|----------------------|--------------------------------|
+| Date                 | May 09, 1947                   |
+| Writer               | Wilhelmina der Nederlanden     |
+| Location             | Het Loo, The Hague, NL         |
+
+<details>
+
+<br/>
+
+Het Loo, 9 Mei 1947.
+
+Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
+
+Pernambucolaan 55, Overveen
+
+Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
+
+Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
+
+Moge zijn nagedachtenis U een steun in het verdere leven blijven.
+
+[handtekening]
+
+<br/>
+
+---
+
+<img width="430" height="auto" src="Images/Wilhelmina-1.jpg">
+<img width="430" height="auto" src="Images/Wilhelmina-2.jpg">
+
+</details>
+
+#### 08
+
+| Tag                  | Data                               |
+|----------------------|------------------------------------|
+| Date                 | October 22, 1947                   |
+| Writer               | Dirk (Bekkie) Albert Elisa de Loos |
+| Location             | Leiden, NL                         |
+
+<details>
+
+Leiden, 22/10. '47
+
+Zeer Geachte Mevrouw —
+
+Waarschijnlijk zult U verbaasd zijn zo ineens een brief van mij te krijgen. Maar mijn schrijven heeft de volgende reden. In de nummers van 3 en 17 October 1947 van het Leidsch Universteitsblad is een artikel verschenen van de hand van een mijnheer ... . Hij geeft een beschrijving van een studentencongres in Juli in Bonn (Dld.) gehouden. Mijn inziens zegt deze jongeman veel te vriendelijke dingen van zijn Duitsche collega's. Hij eindigt tenslotte met iedereen op te wekken de helpende hand toe te reiken, om deze arme menschen uit de ellende ... te helpen. Want — na 3 dagen verblijf aldaar — heeft hij kunnen constateren, dat de wil goed is. Eerlijk gezegd werd mij dit te gortig. Ik had er een artikel tegenin geschreven. Hierin waarschuwde ik ten sterkste, dat 2½ jaar na de capitulatie het nog te kort dag is om het Duitsche volk de oorlog te vergeven. Tenslotte heb ik een uitspraak van Uw man aangehaald, een uitspraak, die hij in Natzweiler tegen mij deed. Nl. deze opvatting. De jaren nu in gevangenschap doorgebracht waren zoo uiterst belangrijk voor de vredestijd, wanneer men ziek een oordeel moest vormen over het Duitsche volk. Tot de conclusie, dat alle Duitschers gelijk waren, of ze nu S.S. of ... waren, kwam Uw man, nadat we hun daden met elkaar vergeleken hadden. Aan het einde van mijn artikeltje wilde ik besluiten met de publicatie van het gedicht, dat Stuuf in Amersfoort heeft gemaakt, nl. "'t delgen van een schuld." Maar hiervoor vraag ik U nu toestemming, en dit zal ik ook onder het betreffende sterk vermelden. Gaarne zou ik dus van U vernemen, of U de publicatie van dit gedicht goed vindt. ... mag ik ook zoo onbescheiden zijn om U te vragen, dit zoo spoedig mogelijk te doen, want over twee weken moet het volgende nummer van het Universiteitsblad uitkomen.
+
+Maken U en Uw dochter het goed? Ik hoop dit van harte. Mochten mijn vrouw en ik eens in Haarlem komen en wij de gelegenheid hebben, zullen wij zeer zeker niet aarzelen U een bezoek te brengen. Maar voorloopig zal hier weinig van komen, omdat wij het nu erg druk hebben.
+
+Ik eindig nu mijn schrijven met U bij voorbaat hartelijk te bedanken voor Uw eventueele toestemming.
+
+Met de meeste hoogachting heb ik de eer te zijn,
+
+Uw. dw. dr.
+
+[handtekening]
+
+<br/>
+
+</details>
+
+#### 09
+
+| Tag                  | Data                               |
+|----------------------|------------------------------------|
+| Date                 | November 7, 1947                   |
+| Writer               | Dirk (Bekkie) Albert Elisa de Loos |
+| Location             | Leiden, NL                         |
+
+<details>
+    
+<br/>
+
+L.B. 7 November 1947.
+
+Zeer geachte Mevrouw Wiardi Beckman.
+
+Uw brief van 24 October kan ik helaas nu pas beantwoorden. Dit tot mijn groote spijt en ik bied U er dan ook mijn welgemeende excuses voor aan. De reden kan ik alleen aangeven, dat ik nu druk bezig ben met de laatste voorbereidingen voor het grootste tentamen, dat ik aan het einde van deze maand hoop te doen. Wanneer het avond is geworden, heb ik — heel eerlijk gezegd — niet zoo heel veel zin meer om nog iets anders te doen, dan even rustig te bekomen.
+
+Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemming te krijgen Stuuf's gedicht te mogen publiceeren. Het gedicht heeft mij — evenals het andere, dat hij voor zijn dochter gemaakt heeft ook — ook zoo intens getroffen.  Hij gaf daarin zoo meesterlijk weer, de gevoelens, die wij hadden. Het helpt misschien een klein beetje de Leidsche Universiteits wereld te overtuigen, dat het nu werkelijk nog geen tijd is om vriendelijk te zijn tegenover de Duitschers. Er is te veel gebeurd, en het is nog te kort geleden. Maar helaas lijdt het overgroote deel van de meerderheid aan een heel slechte eigenschap, nl: men vergeet te veel! Het streven, dat in het artikel van den Heer ... geuit wordt, is helaas een verschijnsel, dat ook in andere deelen van onze maatschappij merkbaar wordt. Zijn vrouw kreeg slechts enkele dagen geleden het .. van de Vereeniniging van Vrouwen met Academische Opleiding in handen. Hierin werd voorgesteld of de Vereeniging zich als Vereeniging in contact moest stellen met de Duitsche intellectueelen, ja dan ... . Over deze vraag werd een enquête gehouden. Er stonden verder twee artikels afgedrukt: pro en contra. Het laatste artikel had ... ... ... ... . Uitstekend en goed gemotiveerd. Maar toch, het verschijnsel is er!  En dat is hoopt
+
+<br/>
+
+</details>
 
 ---
 
@@ -501,47 +621,6 @@ Met vriendelijke groet
 - [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
 - [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
 
-
-
-
-
-#### Letter by queen Wilhelmina
-<details>
-
-<br/>
-
-| Tag                  | Data                           |
-|----------------------|--------------------------------|
-| Date                 | May 09, 1947                   |
-| Writer               | Wilhelmina der Nederlanden     |
-| Location             | Het Loo, The Hague, NL         |
-
----
-
-<br/>
-
-Het Loo, 9 Mei 1947.
-
-Mevrouw de Wed. M.P.M. Wiardi Beckman-Wackie Eijsten
-
-Pernambucolaan 55, Overveen
-
-Na reeds herhaalde malen een poging in het werk gesteld te hebben om naar Engeland te ontkomen, werd Uw echtgenoot, lid van de Eerste Kamer der Staten-Generaal en Hoofdredacteur van de Arbeiderspers, op het strand te Scheveningen door de Duitschers gearresteerd.
-
-Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, alwaar hij op 15 Maart 1945 het hoge offer van zijn leven bracht. Ik kom U en de overige familieleden alsnog Mijn oprechte deelneming betuigen bij zijn verscheiden.
-
-Moge zijn nagedachtenis U een steun in het verdere leven blijven.
-
-[handtekening]
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Wilhelmina-1.jpg">
-<img width="430" height="auto" src="Images/Wilhelmina-2.jpg">
-
-</details>
 
 
 
@@ -702,6 +781,5 @@ Fantasmagoria (solution for combining transcoding 2 & 3)
 
 - Link the Narrative Death mask <---> Concentration camp
 - Things dont have to be obivious (Concentration camp can also be a box --> find it the dialog)
-- 
 
 </details>
