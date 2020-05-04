@@ -52,7 +52,7 @@ The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was
 # Research
 
 <a name="2.1"></a>
-## 2. Death masks
+## Death masks
 
 **My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main question was: why did people make such masks of the deceased?**
 
@@ -75,6 +75,22 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 [SOURCE: The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
+<a name="2.1.3"></a>
+### Death mask of the famous
+
+<details>
+
+<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+
+<img width="360" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
+
+<img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
+
+[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
+</details>
+
+As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get.
+
 <a name="2.1.2"></a>
 ### L'Inconnue de la Seine
 
@@ -90,19 +106,6 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 [...] Laerdal kept the name of his Anne doll, but gave the new mannequin L'Inconnue's face, along with a body of full sized adult dimensions – *including a collapsible chest for practising compressions, and open lips to simulate mouth-to-mouth resuscitation.*
 
 [SOURCE: How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
-
-<a name="2.1.3"></a>
-### Death mask of the famous
-<details>
-
-<img width="360" height="auto" src="Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
-
-<img width="360" height="auto" src="Images/Franklin.jpg"> <br/> *Benjamin Franklin*
-
-<img width="360" height="auto" src="Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
-
-[SOURCE: 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
-</details>
 
 ---
 
