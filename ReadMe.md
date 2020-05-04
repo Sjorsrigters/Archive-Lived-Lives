@@ -21,7 +21,6 @@
       - [ Death and mourning in the Digital Era ](#2.4.1)
       - [ New types of cemeteries ](#2.4.2)
       - [ Virtual archive for lived lives ](#2.4.3)
-    
 3. [ Transcodings ](#3)
     - [ 01 - Virtual Tomb ](#3.1)
     - [ 02 - Visual Narrative ](#3.2)
