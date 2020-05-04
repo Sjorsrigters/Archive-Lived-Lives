@@ -13,8 +13,8 @@
       - [  L'Inconnue de la Seine ](#2.1.2)
       - [  Death masks of the famous ](#2.1.3)
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
-      - [  Who was Stuuf? ](#2.2.4)
-      - [  Origins of Stuuf's death mask ](#2.2.5)
+      - [  Who was Beckman? ](#2.2.4)
+      - [  Origins of Beckman's death mask ](#2.2.5)
       - [  Letters to Mrs. Beckman ](#2.2.6)
     - [ What should we archive? ](#2.3)
       - [ What is important to tell future generations ](#2.3.1)
@@ -137,7 +137,7 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 ---
 
 <a name="2.2.2"></a>
-### Origins of his death mask
+### Origins of Beckman's death mask
 
 <img width="720" height="auto" src="Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
@@ -184,7 +184,7 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 <a name="2.2.3"></a>
 ### Letters to Mrs. Beckman
 
-#### Letter by Con Broers
+#### June 15, 1945 - letter by Con Broers
 
 <details>
 
@@ -310,108 +310,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 <a name="3.3"></a>
 ### Letters to family Beckman
 
-#### Letter by Con Broers
 
-<details>
 
-<br/>
-
-|                      |                                |
-|----------------------|--------------------------------|
-| Date                 | June 15, 1945                  |
-| Writer               | Con Broers                     |
-| Location             | Utrecht, NL                    |
-
----
-
-<br/>
-
-Utrecht 15 Juni 1945
-
-Hooggeachte mevrouw Wiardi Beckman,
-
-Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Poellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken. 
-
-Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de personificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
-
-Maar reeds spoedig kregen we in Dachau leidende porties. Ik kwam in het hospitaal in het klinisch laboratorium waar ik als bioloog werken kon en hij werd Stube-älteste, had het bewind over een kwart blok en ... 400 menschen.
-
-Ik zag hem toen weinig omdat we het allebei druk hadden. Toen kreeg hij vlektyphus, werd in het revier (hospitaal) opgenomen. Uren hebben zijn vrienden aan zijn bed gezeten. Er is gedaan wat mogelijk was om hem te redden. Het heeft niet ... ... zijn.
-
-Het was iets onbegrijpelijks dat hij er niet meer was. Een doodenmasker wilde ik van hem bewaren, meenemen naar Holland waar ik wist dat zoovelen zijn, die zijn terugkomst verbeidden.
-
-Nu ben ik terug in Holland en het doodenmasker ligt voor mij op tafel. Het is vreemd en onwezenlijk. Ik voel het als een desertie dat ik hier zit en hij er niet meer is.
-
-Veel, heel veel heeft hij mij verteld. Hij heeft mij verteld over U en over zijn gezin, zijn dochters, over dingen die hij verkeerd gedaan had en die hij beter wilde doen wanneer hij terug was. Al die dingen die wij stuk voor stuk zelf voelden dat wij ook verkeerd gedaan hadden en die wij ook hoopten later beter te doen...
-
-Zodra het mij  mogelijk is kom ik u opzoeken. Het is heerlijk over hem te praten met andere menschen die ook van hem gehouden hebben. Ik zal het doodenmasker meebrengen en het u toonen. U bent de enigste die er recht op heeft.
-
-Mijn plan is hier in Holland door een beeldhouwer meerdere afgietsels er van te laten maken. Mijn bedoeling is ook om Heer ..., als een ... beste vrienden en medevechters dit doodenmasker aan te bieden. Want ik weet dat de S.D.A.P. het ook op hooge waarde zal schatten een reliquie van hem te bezitten.
-
-Het is allemaal erg moeilijk. Het moet om een troost zijn dat al hebben ze zijn lichaam gekregen, zijn geest nooit gecapituleerd heeft. Als een volkomen ongebroken man is hij gestorven. Ik ben er trotsch op mij zijn vriend te hebben mogen noemen.
-
-Een ding wilde ik u vragen ... U mij het adres van zijn zuster, ... Ds. Wiardi Beckman willen geven. Ik zou het ook op hoogen prijs stellen om haar te schrijven en op te zoeken.
-
-Ik heb de eer te zijn, met gevoelens van de meeste hoogachting.
-
-Uw dienstwillige
-
-[handtekening]
-
-Mocht ik op welke wijze dan ook u van dienst kunnen zijn, zoo kunt u op mij rekenenen. Dit heb ik Stuuf beloofd.
-
-C.J. Broers,
-
-... Reigerstraat 66bis
-
-Utrecht.
-
-tel. 18328 (momenteel nog niet weer aangesloten!)
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Broers-1.jpg">
-<img width="430" height="auto" src="Images/Broers-2.jpg">
-
-</details>
-
-#### Letter by Ed Hoornik
-<details>
-
-<br/>
-
-|                      |                                |
-|----------------------|--------------------------------|
-| Date                 | July 07, 1945                  |
-| Writer               | Ed Hoornik                     |
-| Location             | Amsterdam, NL                  |
-
----
-
-<br/>
-
-7 Juli '45
-
-Geachte Mevrouw Wiardi Beckman,
-
-Eerst heden, teruggekeerd uit Belgie en Frankrijk, ben ik in staat Uw brief en briefkaart te beantwoorden. Beter dan ik wat betreft zijn Natzweiler-periode heeft Oscar Mohr Uw man gekend; dr. Drost uit Rotterdam zou U meer dan ik kunnen vertellen over het verblijf van Uw echtgenoot in Dachau. Heden heb ik mij telefonisch met de beide heren in verbinding gesteld, met de vraag U zoo spoedig mogelijk te bezoeken. Zoals U weet bezit dr. Drost in handschrift het gedicht "Voor Suze", dat hij U persoonlijk wil overhandigen.
-
-In verband met de vele moeilijkheden, die de teruggekeerde politieke gevangenen ondervinden, ben ik helaas voorlopig niet in staat U zelf op te zoeken. Bovengenoemde vrienden zullen, zodra zich daar een gelegenheid toe voordoet, zeker naar Overveen komen. Het spijt mij, dat de woorden, die ik in Het Vrij Volk aan de nagedachtenis van Stuf wijdde ontoereikend waren. Zijn vriendschap, zijn kennis en cultuur zullen voor mij onvergetelijk blijven.
-
-Met de meeste hoogachting
-
-[handtekening]
-
-<br/>
-
----
-
-<img width="430" height="auto" src="Images/Hoornik-1.jpg">
-<img width="430" height="auto" src="Images/Hoornik-2.jpg">
-
-</details>
 
 
 #### Letter by Oscar Mohr
