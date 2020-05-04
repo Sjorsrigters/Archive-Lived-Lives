@@ -16,17 +16,20 @@
       - [  Who was Beckman? ](#2.2.1)
       - [  Origins of Beckman's death mask ](#2.2.2)
       - [  Letters to Mrs. Beckman ](#2.2.3)
-    - [ What should we archive? ](#2.3)
-      - [ What is important to tell future generations ](#2.3.1)
-      - [ Why is it important to tell? ](#2.3.2)
-      - [ What are the meta topics ](#2.3.3)
-      - [ How to explain meta topics to future generations ](#2.3.4)
-5. [ Transcodings ](#5)
-    - [ 01 - Virtual Tomb ](#5.1)
-    - [ 02 - Visual Narrative ](#5.2)
-    - [ 03 - Interactive Dialogue ](#5.3)
-    - [ 04 - Archiving Physical Objects ](#5.4)
-6. [ Reflection ](#6)
+    - [ What should be archived? ](#2.3)
+    - [ The modern cemetery](#2.4)
+      - [ Death and mourning in the Digital Era ](#2.4.1)
+      - [ New types of cemeteries ](#2.4.2)
+      - [ Virtual archive for lived lives ](#2.4.3)
+    
+3. [ Transcodings ](#3)
+    - [ 01 - Virtual Tomb ](#3.1)
+    - [ 02 - Visual Narrative ](#3.2)
+    - [ 03 - Interactive Dialogue ](#3.3)
+    - [ 04 - Archiving Physical Objects ](#3.4)
+4. [ Reflection ](#4)
+5. [ Outcome ](#5)
+6. [ Outcome ](#6)
 7. [ Bibliography ](#7)
 
 <br/>
@@ -59,7 +62,7 @@
 <a name="2.1"></a>
 ## Death masks
 
-**My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main question was: why did people make such masks of the deceased?**
+**After spending some time on the online archive of the International Institute of Social History, I discovered that I was particularly intrigued by the category 'object'. Then I started to view the 97 pages globally. The death masks were one of the few who caught my attention at once. My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main first question was: why did people make such masks of the deceased?**
 
 ---
 
@@ -242,8 +245,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
-<img width="430" height="auto" src="Images/Broers-1.jpg">
-<img width="430" height="auto" src="Images/Broers-2.jpg">
+<img width="480" height="auto" src="Images/Broers-1.jpg">
+<img width="480" height="auto" src="Images/Broers-2.jpg">
 
 </details>
 
@@ -275,8 +278,8 @@ Met de meeste hoogachting
 
 ---
 
-<img width="430" height="auto" src="Images/Hoornik-1.jpg">
-<img width="430" height="auto" src="Images/Hoornik-2.jpg">
+<img width="480" height="auto" src="Images/Hoornik-1.jpg">
+<img width="480" height="auto" src="Images/Hoornik-2.jpg">
 
 </details>
 
@@ -336,7 +339,7 @@ Steeds gaarne uw
 
 [handtekening]
 
-CC. Steensma
+C.C. Steensma
 
 54 Oude Utrechtsscheweg
 
@@ -348,12 +351,12 @@ Soest
 
 ---
 
-<img width="430" height="auto" src="Images/Steensma-1.jpg">
-<img width="430" height="auto" src="Images/Steensma-2.jpg">
-<img width="430" height="auto" src="Images/Steensma-3.jpg">
-<img width="430" height="auto" src="Images/Steensma-4.jpg">
-<img width="430" height="auto" src="Images/Steensma-5.jpg">
-<img width="430" height="auto" src="Images/Steensma-6.jpg">
+<img width="480" height="auto" src="Images/Steensma-1.jpg">
+<img width="480" height="auto" src="Images/Steensma-2.jpg">
+<img width="480" height="auto" src="Images/Steensma-3.jpg">
+<img width="480" height="auto" src="Images/Steensma-4.jpg">
+<img width="480" height="auto" src="Images/Steensma-5.jpg">
+<img width="480" height="auto" src="Images/Steensma-6.jpg">
 
 </details>
 
@@ -484,8 +487,8 @@ Met de meeste hoogachting
 
 ---
 
-<img width="430" height="auto" src="Images/Mohr-1.jpg">
-<img width="430" height="auto" src="Images/Mohr-2.jpg">
+<img width="480" height="auto" src="Images/Mohr-1.jpg">
+<img width="480" height="auto" src="Images/Mohr-2.jpg">
 
 </details>
 
@@ -519,8 +522,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 ---
 
-<img width="430" height="auto" src="Images/Wilhelmina-1.jpg">
-<img width="430" height="auto" src="Images/Wilhelmina-2.jpg">
+<img width="480" height="auto" src="Images/Wilhelmina-1.jpg">
+<img width="480" height="auto" src="Images/Wilhelmina-2.jpg">
 
 </details>
 
@@ -552,6 +555,11 @@ Uw. dw. dr.
 
 <br/>
 
+---
+
+<img width="480" height="auto" src="Images/DeLoos-1.jpg">
+<img width="480" height="auto" src="Images/DeLoos-2.jpg">
+
 </details>
 
 #### Letter 09
@@ -576,29 +584,31 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 
 <br/>
 
+---
+
+<img width="480" height="auto" src="Images/DeLoos-3.jpg">
+<img width="480" height="auto" src="Images/DeLoos-4.jpg">
+
 </details>
 
 <a name="2.3"></a>
-## 4. What should we archive?
+## What should we archive?
 
 **Fill in text.**
 
 ---
 
-<a name="2.3.1"></a>
-### What is important to tell future generations?
+#### What is important to tell future generations?
 - What are the meta topics?
 - To what extent should the background information be provided?
 - What is the hierarchy, if there is any, between the material or the information of the object?
 - How important is the relation between the material and information of the object and how do you explain this?
 
-<a name="2.3.2"></a>
-### Why is it important to tell?
+#### Why is it important to tell?
 - Which criteria must be considered to determine what is important?
 - Who decides what's important? Me, family, historians, scientist or politicians?
 
-<a name="2.3.3"></a>
-### What are the meta topics?
+#### What are the meta topics?
 - Death
 - Identity (face)
 - Fame (Stuuf was a known politician)
@@ -607,23 +617,98 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 - Imprisonment (concentration camp)
 - Respect (how the mask originated)
 
-<a name="2.3.4"></a>
-### How to explain meta topics to future generations?
+#### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
 [![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)
-*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?*
+*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 ---
 
+<a name="2.4"></a>
+## The modern cemetery?
+
+**Fill in text.**
+
+As the structure of families and local networks changes, the structure of death and mourning will necessarily shift too.
+We could even say that Instagram users create and carry their own virtual tombs.
+Is changing a profile image after death a form of digital homicide?
+
+---
+
+<a name="2.4.1"></a>
+###  Death and mourning in the Digital Era
+
+####I am become digital death, the destroyer of worlds
+
+As the structure of families and local networks changes, the structure of death and mourning will necessarily shift too. The cemetery model of memorialisation has always provided a uniform and systematic means of public acknowledgement of the life and death of an individual, where a psychical location for the dead within a town or village meant a stable place of mourning and recognition for mostly stable communities. Today, changes in networks and families mean that the traditional physical cemetery model is beginning to outgrow its use. With families and social contacts often now geographically disparate, a single physical resting place for the remainder of eternity is an untenable prospect for future visitors to deceased.
+
+[...]
+
+While still alive a wide range of people compulsively take images of themselves in the form of selfies, and upload these to online image platforms such as Instagram. After death such collected histories of data, image, sound and video files can be read as a self designed site for memorialization. We could even say that Instagram users create and carry their own virtual tombs. But are we aware anticipating their impending death carry the shadow of this in life and in death, an anticipation and a pre-designing of the digital after life.
+
+Post-mortem photographs may also take the form of blingee gif files on blogging sites such as tumblr, where memorial images are heavily decorated with moving flowers, angel wings and animated glitter effects. These distinctly personalized images act as a form of currency on memorial groups and websites, being posted by others on sites for similarly-deceased decedents or for charity causes. The image of the deceased becomes a representation of a cause, customized beyond their control and living a new life after death.
+
+The intersection of social media and image can be fraught after death. Somewhere, saved on a server is the last conscious image representation chosen by an individual in life, but what constitutes a true digital memento mori image? Is changing a profile image after death a form of digital homicide? Is the act of digging through old photographs for a new representation the same as digital gravedigging?<sup>[[11]](#footnote-11)</sup>
+
+<img width="480" height="auto" src="Images/Digital-death.jpg">
+
+> The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
+
 <br/>
 
-<a name="5"></a>
+<a name="3"></a>
 ## Transcodings
 
-<a name="5.1"></a>
-## 01 - Virtual Tomb
-|                       |                                                                                                  |
+<a name="3.1"></a>
+## 01 - Archiving Physical Objects
+| Tag                   | Data                                                                                             |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Image                                                                                            |
+| Why this transcoding? | Searching for new possibilities to archive information about physical objects                    |
+| What to achieve?      | Making multiple experiments by transcoding the death mask from object to 'flat' information      |
+
+<details>
+   
+<img width="480" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/>
+<img width="480" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/>
+<img width="480" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/>
+
+</details>
+
+<a name="3.2"></a>
+## 02 - Visual Narrative
+| Tag                   | Data                                                                                             |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Cinema 4D                                                                                        |
+| Why this transcoding? | To research how to explain the context of the death mask                                         |
+| What to achieve?      | Making a visual narrative by using the mask as a 3D "screen" for content related to the context  |
+
+<details>
+   
+[![Visual Narrative #01](Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)
+*VIDEO: Visual Narrative #01*
+
+</details>
+
+<a name="3.3"></a>
+## 03 - Interactive Dialogue
+| Tag                   | Data                                                                                             |
+|-----------------------|--------------------------------------------------------------------------------------------------|
+| Medium                | Unity                                                                                            |
+| Why this transcoding? | To explore the possibilities of communicating written information                                |
+| What to achieve?      | Making an interactive dialogue in which the user can learn more about Beckman by speaking to the writers of the letters  |
+
+<details>
+   
+[![Visual Narrative #01](Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
+*VIDEO: Interactive Dialogue #01*
+
+</details>
+
+<a name="3.4"></a>
+## 04 - Virtual Tomb
+| Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
 | Why this transcoding? | To research the new possibilities for mourning and archiving lived lifes in the digital age      |
@@ -639,53 +724,6 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 [![Unity Process #01](Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)
 *VIDEO: Unity Process #02*
-
-</details>
-
-<a name="5.2"></a>
-## 02 - Visual Narrative
-|                       |                                                                                                  |
-|-----------------------|--------------------------------------------------------------------------------------------------|
-| Medium                | Cinema 4D                                                                                        |
-| Why this transcoding? | To research how to explain the context of the death mask                                         |
-| What to achieve?      | Making a visual narrative by using the mask as a 3D "screen" for content related to the context  |
-
-<details>
-   
-[![Visual Narrative #01](Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)
-*VIDEO: Visual Narrative #01*
-
-</details>
-
-<a name="5.3"></a>
-## 03 - Interactive Dialogue
-|                       |                                                                                                  |
-|-----------------------|--------------------------------------------------------------------------------------------------|
-| Medium                | Unity                                                                                            |
-| Why this transcoding? | To explore the possibilities of communicating written information                                |
-| What to achieve?      | Making an interactive dialogue in which the user can learn more about Beckman by speaking to the writers of the letters  |
-
-<details>
-   
-[![Visual Narrative #01](Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
-*VIDEO: Interactive Dialogue #01*
-
-</details>
-
-
-<a name="5.4"></a>
-## 04 - Archiving Physical Objects
-|                       |                                                                                                  |
-|-----------------------|--------------------------------------------------------------------------------------------------|
-| Medium                | Image                                                                                            |
-| Why this transcoding? | Searching for new possibilities to archive information about physical objects                    |
-| What to achieve?      | Making multiple experiments by transcoding the death mask from object to 'flat' information      |
-
-<details>
-   
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-1.jpg"> <br/>
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-2.jpg"> <br/>
-<img width="420" height="auto" src="Images/Archiving-Physical-Objects-3.jpg"> <br/>
 
 </details>
 
@@ -726,9 +764,11 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 
 <a name="footnote-9">[9]</a>: [ DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette. ](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
 
+<a name="footnote-10">[10]</a>: [ Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them? ](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title) 
 
+<a name="footnote-11">[11]</a>: [ I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer ]
 
-
+<a name="footnote-12">[12]</a>: [ Op Instagram krijgt rouwen een nieuwe dimensie — Daisy Jones (vice.nl) ](https://www.vice.com/nl/article/d3a57m/op-instagram-krijgt-rouwen-een-nieuwe-dimensie)
 
 
 
