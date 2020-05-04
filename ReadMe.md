@@ -122,6 +122,8 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.2"></a>
 ## 3. Herman (Stuuf) Bernard Wiardi Beckman
 
+Fill in text.
+
 ---
 
 <a name="2.2.1"></a>
@@ -142,10 +144,10 @@ On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beck
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
-> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ”[[6]](#footnote-6)</sup>
+> “I had to think about it, but I did it. I had a great respect for Wiardi Beckman. He had everything to possibly become Prime  Minister. ” <sub>[[6]](#footnote-6)</sup>
 
 
-### Prisons and camps where Beckman was detained<sub>[[7]](#footnote-7)</sup>
+### Prisons and camps where Beckman was detained <sub>[[7]](#footnote-7)</sup>
 - Strafgevangenis ‘Oranjehotel’ Scheveningen (18 januari 1942),
 - Polizeiliches Durchgangslager Amersfoort (6 november 1942),
 - Concentratiekamp Vught (januari 1943),
