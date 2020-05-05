@@ -1,4 +1,4 @@
-<img width="1920" height="auto" src="/Images/Cover-1.jpg">
+<img width="1920" height="auto" src="/Images/Cover-2.jpg">
 
 # Archiving Lived Lives
 
