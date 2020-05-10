@@ -247,6 +247,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
+<br/>
+
 ##### Letter 02
 
 | Tag                  | Data                           |
@@ -279,6 +281,8 @@ Met de meeste hoogachting
 <img width="480" height="auto" src="/Images/Hoornik-2.jpg">
 
 </details>
+
+<br/>
 
 ##### Letter 03
 
@@ -357,6 +361,8 @@ Soest
 
 </details>
 
+<br/>
+
 ##### Letter 04
 
 | Tag                  | Data                           |
@@ -397,6 +403,8 @@ Beste groet van je vriend
 <br/>
 
 </details>
+
+<br/>
 
 ##### Letter 05
 
@@ -446,6 +454,8 @@ Met vriendelijke groet
 
 </details>
 
+<br/>
+
 ##### Letter 06
 
 | Tag                  | Data                   |
@@ -489,6 +499,8 @@ Met de meeste hoogachting
 
 </details>
 
+<br/>
+
 ##### Letter 07
 
 | Tag                  | Data                           |
@@ -523,6 +535,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 <img width="480" height="auto" src="/Images/Wilhelmina-2.jpg">
 
 </details>
+
+<br/>
 
 ##### Letter 08
 
@@ -559,6 +573,8 @@ Uw. dw. dr.
 
 </details>
 
+<br/>
+
 ##### Letter 09
 
 | Tag                  | Data                               |
@@ -587,6 +603,9 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 <img width="480" height="auto" src="/Images/DeLoos-4.jpg">
 
 </details>
+
+<br/>
+<br/>
 
 <a name="2.3"></a>
 ### What should we archive?
@@ -647,11 +666,11 @@ Post-mortem photographs may also take the form of blingee gif files on blogging 
 
 The intersection of social media and image can be fraught after death. Somewhere, saved on a server is the last conscious image representation chosen by an individual in life, but what constitutes a true digital memento mori image? Is changing a profile image after death a form of digital homicide? Is the act of digging through old photographs for a new representation the same as digital gravedigging?<sup>[[11]](#footnote-11)</sup>
 
-<img width="480" height="auto" src="/Images/Digital-death.jpg">
-*I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer*
+<img width="480" height="auto" src="/Images/Digital-death.jpg"><br/>*I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer*
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
+<br/>
 <br/>
 
 <a name="3"></a>
@@ -673,6 +692,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 </details>
 
+<br/>
+
 <a name="3.2"></a>
 ### 02 - Visual Narrative
 | Tag                   | Data                                                                                             |
@@ -687,6 +708,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 </details>
 
+<br/>
+
 <a name="3.3"></a>
 ### 03 - Interactive Dialogue
 | Tag                   | Data                                                                                             |
@@ -700,6 +723,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 [![Visual Narrative #01](/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
 
 </details>
+
+<br/>
 
 <a name="3.4"></a>
 ### 04 - Virtual Tomb
