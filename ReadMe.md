@@ -125,7 +125,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.2."></a>
 ### Herman (Stuuf) Bernard Wiardi Beckman
 
-**Fill in text.**
+**After my research on death masks in general, I became curious about the person behind the death mask. I quickly discovered that the mask had a special story and that Mr. Beckman meant a lot to a lot of people in the concentration camp where he was a prisoner. This was especially evident from the letters to his wife after his death that I encountered during one of my visits to the IISH. Out of respect for Mr. Beckman, his death mask was secretly worked on after his death.**
 
 ---
 
