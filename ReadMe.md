@@ -34,12 +34,12 @@
 <br/>
 
 <a name="1"></a>
-# Artefact
+## Artefact
 
 **The artefact is a death mask of Herman (Stuuf) Bernard Wiardi Beckman. Stuuf was a known Dutch politician and member of the resistance during WWII. In order of his Dutch fellow prisoners the mould of the mask was made after Stuuf's death in a concentration camp in which Stuuf was imprisoned. One of the masks made from this mold is housed in the International Institute of Social History. The artifact has a great story and indirectly contains much more information than just the documentation of a face.**
 
 <a name="1.1"></a>
-## Metadata
+### Metadata
 
 | Tag                  | Data                               |
 |----------------------|------------------------------------|
@@ -56,17 +56,17 @@
 <br/>
 
 <a name="2"></a>
-# Research
+## Research
 
 <a name="2.1"></a>
-## Death masks
+### Death masks
 
 **After spending some time on the online archive of the International Institute of Social History, I discovered that I was particularly intrigued by the category 'object'. Then I started to view the 97 pages globally. The death masks were one of the few who caught my attention at once. My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main first question was: why did people make such masks of the deceased?**
 
 ---
 
 <a name="2.1.1"></a>
-### What is a death mask?
+#### What is a death mask?
 *A death mask is a cast of a dead person*, usually made of wax or plaster. Death masks are true portraits, although changes are occasionally made in the eyes of the mask to make it appear as though the subject were alive. *From the time of ancient Egypt they have served as aids to portrait sculptors*, and for the last few centuries they have been kept as mementos of the dead.
 
 In the late Middle Ages, ambitious princes and ecclesiastical leaders had their portraits spread throughout their empire. It was advertising for themselves, and it legitimized their rule. *A cast of their lifeless face showed that their power, the power of the dynasty, was unbroken even after death*.
@@ -75,7 +75,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 *In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-<img width="480" height="auto" src="/Images/Tutankhamon.jpg"> <br/> *Mask of Tutankhamun*
+<img width="480" height="auto" src="/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
 
 
 [...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens. <sup>[[2]](#footnote-2)</sup>
@@ -83,34 +83,34 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 ---
 
 <a name="2.1.2"></a>
-### Death mask of the famous
+#### Death mask of the famous
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<img width="480" height="auto" src="/Images/Henry-VII.jpg"> <br/> *Henry VII*
+<img width="480" height="auto" src="/Images/Henry-VII.jpg"><br/>*Henry VII*
 
-<img width="480" height="auto" src="/Images/Luther.jpg"> <br/> *Martin Luther*
+<img width="480" height="auto" src="/Images/Luther.jpg"><br/>*Martin Luther*
 
-<img width="480" height="auto" src="/Images/Napoleon.jpg"> <br/> *Napoleon Bonaparte*
+<img width="480" height="auto" src="/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*
 
-<img width="480" height="auto" src="/Images/Franklin.jpg"> <br/> *Benjamin Franklin*
+<img width="480" height="auto" src="/Images/Franklin.jpg"><br/>*Benjamin Franklin*
 
-<img width="480" height="auto" src="/Images/Beethoven.jpg"> <br/> *Ludwig van Beethoven*
+<img width="480" height="auto" src="/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*
 
-<img width="480" height="auto" src="/Images/Himmler.jpg"> <br/> *Heinrich Himmler*
+<img width="480" height="auto" src="/Images/Himmler.jpg"><br/>*Heinrich Himmler*
 
-<img width="480" height="auto" src="/Images/Lenin.jpg"> <br/> *Vladimir Lenin*
+<img width="480" height="auto" src="/Images/Lenin.jpg"><br/>*Vladimir Lenin*
 
-<img width="480" height="auto" src="/Images/Newton.jpg"> <br/> *Isaac Newton*
+<img width="480" height="auto" src="/Images/Newton.jpg"><br/>*Isaac Newton*
 
-<img width="480" height="auto" src="/Images/Roosevelt.jpg"> <br/> *Theodore Roosevelt*
+<img width="480" height="auto" src="/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*
 
 ---
 
 <a name="2.1.3"></a>
-### L'Inconnue de la Seine
+#### L'Inconnue de la Seine
 
-<img width="480" height="auto" src="/Images/Seine.jpg"> <br/> *Mask of 'L'Inconnue de la Seine'*
+<img width="480" height="auto" src="/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
 
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
@@ -123,29 +123,29 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <br/>
 
 <a name="2.2."></a>
-## 3. Herman (Stuuf) Bernard Wiardi Beckman
+### 3. Herman (Stuuf) Bernard Wiardi Beckman
 
 **Fill in text.**
 
 ---
 
 <a name="2.2.1"></a>
-### Who was Beckman?
+#### Who was Beckman?
 
-<img width="480" height="auto" src="/Images/Stuuf.jpg"> <br/> *Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="480" height="auto" src="/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
 ---
 
 <a name="2.2.2"></a>
-### Origins of Beckman's death mask
+#### Origins of Beckman's death mask
 
-<img width="720" height="auto" src="/Images/Wilhemina.jpg"> <br/> *Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
+<img width="720" height="auto" src="/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
-<img width="720" height="auto" src="/Images/Natzweiler.jpg"> <br/> *The entrance to Natzweiler camp*
+<img width="720" height="auto" src="/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
@@ -165,7 +165,7 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 
 <br/>
 
-<img width="720" height="auto" src="/Images/Dachau.jpg"> <br/> *Barracks in Dachau, 1945*
+<img width="720" height="auto" src="/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
 
 July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
@@ -184,9 +184,9 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 ---
 
 <a name="2.2.3"></a>
-### Letters to Mrs. Beckman
+#### Letters to Mrs. Beckman
 
-#### Letter 01
+##### Letter 01
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -204,7 +204,7 @@ Hooggeachte mevrouw Wiardi Beckman,
 
 Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Pooellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken.
 
-Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de perso @nificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
+Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de personificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
 
 Maar reeds spoedig kregen we in Dachau leidende porties. Ik kwam in het hospitaal in het klinisch laboratorium waar ik als bioloog werken kon en hij werd Stube-älteste, had het bewind over een kwart blok en ... 400 menschen.
 
@@ -249,7 +249,7 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 </details>
 
-#### Letter 02
+##### Letter 02
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -282,7 +282,7 @@ Met de meeste hoogachting
 
 </details>
 
-#### Letter 03
+##### Letter 03
 
 | Tag                  | Data                      |
 |----------------------|---------------------------|
@@ -359,7 +359,7 @@ Soest
 
 </details>
 
-#### Letter 04
+##### Letter 04
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -400,7 +400,7 @@ Beste groet van je vriend
 
 </details>
 
-#### Letter 05
+##### Letter 05
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -448,7 +448,7 @@ Met vriendelijke groet
 
 </details>
 
-#### Letter 06
+##### Letter 06
 
 | Tag                  | Data                   |
 |----------------------|------------------------|
@@ -491,7 +491,7 @@ Met de meeste hoogachting
 
 </details>
 
-#### Letter 07
+##### Letter 07
 
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
@@ -526,7 +526,7 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 </details>
 
-#### Letter 08
+##### Letter 08
 
 | Tag                  | Data                               |
 |----------------------|------------------------------------|
@@ -561,7 +561,7 @@ Uw. dw. dr.
 
 </details>
 
-#### Letter 09
+##### Letter 09
 
 | Tag                  | Data                               |
 |----------------------|------------------------------------|
@@ -591,23 +591,23 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 </details>
 
 <a name="2.3"></a>
-## What should we archive?
+### What should we archive?
 
 **Fill in text.**
 
 ---
 
-#### What is important to tell future generations?
+##### What is important to tell future generations?
 - What are the meta topics?
 - To what extent should the background information be provided?
 - What is the hierarchy, if there is any, between the material or the information of the object?
 - How important is the relation between the material and information of the object and how do you explain this?
 
-#### Why is it important to tell?
+##### Why is it important to tell?
 - Which criteria must be considered to determine what is important?
 - Who decides what's important? Me, family, historians, scientist or politicians?
 
-#### What are the meta topics?
+##### What are the meta topics?
 - Death
 - Identity (face)
 - Fame (Stuuf was a known politician)
@@ -616,7 +616,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 - Imprisonment (concentration camp)
 - Respect (how the mask originated)
 
-#### How to explain meta topics to future generations?
+##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
 [![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)
@@ -625,7 +625,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 ---
 
 <a name="2.4"></a>
-## The modern cemetery?
+### The modern cemetery?
 
 **Fill in text.**
 
@@ -636,9 +636,9 @@ Is changing a profile image after death a form of digital homicide?
 ---
 
 <a name="2.4.1"></a>
-###  Death and mourning in the Digital Era
+####  Death and mourning in the Digital Era
 
-#### I am become digital death, the destroyer of worlds
+##### I am become digital death, the destroyer of worlds
 
 As the structure of families and local networks changes, the structure of death and mourning will necessarily shift too. The cemetery model of memorialisation has always provided a uniform and systematic means of public acknowledgement of the life and death of an individual, where a psychical location for the dead within a town or village meant a stable place of mourning and recognition for mostly stable communities. Today, changes in networks and families mean that the traditional physical cemetery model is beginning to outgrow its use. With families and social contacts often now geographically disparate, a single physical resting place for the remainder of eternity is an untenable prospect for future visitors to deceased.
 
@@ -658,10 +658,10 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 
 <a name="3"></a>
-## Transcodings
+### Transcodings
 
 <a name="3.1"></a>
-## 01 - Archiving Physical Objects
+### 01 - Archiving Physical Objects
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Image                                                                                            |
@@ -677,7 +677,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 </details>
 
 <a name="3.2"></a>
-## 02 - Visual Narrative
+### 02 - Visual Narrative
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Cinema 4D                                                                                        |
@@ -692,7 +692,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 </details>
 
 <a name="3.3"></a>
-## 03 - Interactive Dialogue
+### 03 - Interactive Dialogue
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
@@ -707,7 +707,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 </details>
 
 <a name="3.4"></a>
-## 04 - Virtual Tomb
+### 04 - Virtual Tomb
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
@@ -744,7 +744,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 
 <a name="7"></a>
-# Bibliography
+## Bibliography
 
 <a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
 
