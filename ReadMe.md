@@ -644,7 +644,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <a name="2.4"></a>
 ### The modern cemetery
 
-**Fill in text.**
+**The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. From this idea I started my transcoding experiments.**
 
 As the structure of families and local networks changes, the structure of death and mourning will necessarily shift too.
 We could even say that Instagram users create and carry their own virtual tombs.
