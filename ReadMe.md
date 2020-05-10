@@ -53,8 +53,7 @@
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
 | <img width="420" height="auto" src="/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
 
----
-
+<br/>
 <br/>
 
 <a name="2"></a>
