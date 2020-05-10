@@ -642,7 +642,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <br/>
 
 <a name="2.4"></a>
-### The modern cemetery?
+### The modern cemetery
 
 **Fill in text.**
 
@@ -667,7 +667,7 @@ Post-mortem photographs may also take the form of blingee gif files on blogging 
 
 The intersection of social media and image can be fraught after death. Somewhere, saved on a server is the last conscious image representation chosen by an individual in life, but what constitutes a true digital memento mori image? Is changing a profile image after death a form of digital homicide? Is the act of digging through old photographs for a new representation the same as digital gravedigging?<sup>[[11]](#footnote-11)</sup>
 
-<img width="480" height="auto" src="/Images/Digital-death.jpg"><br/>*I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer*
+<br/>
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
@@ -775,11 +775,10 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="footnote-12">[12]</a>: [ Op Instagram krijgt rouwen een nieuwe dimensie — Daisy Jones (vice.nl) ](https://www.vice.com/nl/article/d3a57m/op-instagram-krijgt-rouwen-een-nieuwe-dimensie)
 
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 ---
@@ -788,10 +787,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 ## Visits at the IISG
 - [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
 - [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
-
-
-
-
 
 ---
 
