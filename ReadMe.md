@@ -22,10 +22,10 @@
       - [ New types of cemeteries ](#2.4.2)
       - [ Virtual archive for lived lives ](#2.4.3)
 3. [ Transcodings ](#3)
-    - [ 01 - Virtual Tomb ](#3.1)
-    - [ 02 - Visual Narrative ](#3.2)
-    - [ 03 - Interactive Dialogue ](#3.3)
-    - [ 04 - Archiving Physical Objects ](#3.4)
+    - [ Archiving Physical Objects ](#3.1)
+    - [ Visual Narrative ](#3.2)
+    - [ Interactive Dialogue ](#3.3)
+    - [ Virtual Tomb ](#3.4)
 4. [ Reflection ](#4)
 5. [ Outcome ](#5)
 6. [ Outcome ](#6)
@@ -644,11 +644,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <a name="2.4"></a>
 ### The modern cemetery
 
-**The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. From this idea I started my transcoding experiments.**
-
-As the structure of families and local networks changes, the structure of death and mourning will necessarily shift too.
-We could even say that Instagram users create and carry their own virtual tombs.
-Is changing a profile image after death a form of digital homicide?
+**The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. I particularly liked the idea of ​​using virtual spaces as a new place of mourning From this idea I started my transcoding experiments.**
 
 ---
 
@@ -678,7 +674,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 ## Transcodings
 
 <a name="3.1"></a>
-### 01 - Archiving Physical Objects
+### Archiving Physical Objects
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Image                                                                                            |
@@ -696,7 +692,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 
 <a name="3.2"></a>
-### 02 - Visual Narrative
+### Visual Narrative
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Cinema 4D                                                                                        |
@@ -712,7 +708,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 
 <a name="3.3"></a>
-### 03 - Interactive Dialogue
+### Interactive Dialogue
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
@@ -728,7 +724,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 
 <a name="3.4"></a>
-### 04 - Virtual Tomb
+### Virtual Tomb
 | Tag                   | Data                                                                                             |
 |-----------------------|--------------------------------------------------------------------------------------------------|
 | Medium                | Unity                                                                                            |
