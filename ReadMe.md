@@ -608,9 +608,9 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 <br/>
 
 <a name="2.3"></a>
-### What should we archive?
+### What should be archived?
 
-**Fill in text.**
+**The more research I did, the more I became aware of the content I was working with. But what information should be kept and on what criteria is it determined? I thought such questions were important to include in my process. Not to answer them necessarily, but more to make more conscious choices during the making process..**
 
 ---
 
