@@ -28,7 +28,7 @@
     - [ Virtual Tomb ](#3.4)
 4. [ Reflection ](#4)
 5. [ Outcome ](#5)
-6. [ Outcome ](#6)
+6. [ Conclusion ](#6)
 7. [ Bibliography ](#7)
 
 <br/>
