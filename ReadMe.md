@@ -173,11 +173,9 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-[![Geen-nummers-maar-Namen](/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)
-*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
+[![Geen-nummers-maar-Namen](/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
-[![DE-ANDEREN](/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)
-*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
+[![DE-ANDEREN](/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
@@ -619,8 +617,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)
-*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 ---
 
@@ -686,8 +683,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)
-*VIDEO: Visual Narrative #01*
+[![Visual Narrative #01](/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
 
 </details>
 
@@ -701,8 +697,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)
-*VIDEO: Interactive Dialogue #01*
+[![Visual Narrative #01](/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
 
 </details>
 
@@ -716,14 +711,11 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Unity Process #01](/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)
-*VIDEO: Unity Process #01*
+[![Unity Process #01](/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
 
-[![Unity Process #01](/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)
-*VIDEO: Unity Process #02*
+[![Unity Process #01](/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
 
-[![Unity Process #01](/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)
-*VIDEO: Unity Process #02*
+[![Unity Process #01](/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
 
 </details>
 
@@ -766,7 +758,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="footnote-10">[10]</a>: [ Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them? ](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)
 
-<a name="footnote-11">[11]</a>: [ I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer ]
+<a name="footnote-11">[11]</a>: [ I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer ](http://stefanschafer.net/?p=1178)
 
 <a name="footnote-12">[12]</a>: [ Op Instagram krijgt rouwen een nieuwe dimensie — Daisy Jones (vice.nl) ](https://www.vice.com/nl/article/d3a57m/op-instagram-krijgt-rouwen-een-nieuwe-dimensie)
 
