@@ -1,4 +1,4 @@
-<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Cover-2.jpg">
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Cover-2.jpg">
 
 # Archiving Lived Lives
 
@@ -51,7 +51,7 @@
 | Genres               | Object                             |
 | Note                 | Death-Mask                         |
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
-| <img width="420" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
+| <img width="420" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
 
 <br/>
 <br/>
@@ -76,7 +76,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 *In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
 
 
 [...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens. <sup>[[2]](#footnote-2)</sup>
@@ -88,30 +88,30 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Henry-VII.jpg"><br/>*Henry VII*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Henry-VII.jpg"><br/>*Henry VII*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Luther.jpg"><br/>*Martin Luther*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Luther.jpg"><br/>*Martin Luther*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Franklin.jpg"><br/>*Benjamin Franklin*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Franklin.jpg"><br/>*Benjamin Franklin*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Himmler.jpg"><br/>*Heinrich Himmler*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Himmler.jpg"><br/>*Heinrich Himmler*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Lenin.jpg"><br/>*Vladimir Lenin*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Lenin.jpg"><br/>*Vladimir Lenin*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Newton.jpg"><br/>*Isaac Newton*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Newton.jpg"><br/>*Isaac Newton*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*
 
 ---
 
 <a name="2.1.3"></a>
 #### L'Inconnue de la Seine
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
 
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
@@ -132,7 +132,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.2.1"></a>
 #### Who was Beckman?
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
@@ -141,11 +141,11 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 <a name="2.2.2"></a>
 #### Origins of Beckman's death mask
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
@@ -165,7 +165,7 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 
 <br/>
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
 
 July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
@@ -173,9 +173,9 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-[![Geen-nummers-maar-Namen](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
+[![Geen-nummers-maar-Namen](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
-[![DE-ANDEREN](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
+[![DE-ANDEREN](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
@@ -242,8 +242,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Broers-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Broers-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Broers-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Broers-2.jpg">
 
 </details>
 
@@ -277,8 +277,8 @@ Met de meeste hoogachting
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Hoornik-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Hoornik-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Hoornik-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Hoornik-2.jpg">
 
 </details>
 
@@ -352,12 +352,12 @@ Soest
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma-2.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma-3.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma-4.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma-5.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Steensma-6.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma-3.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma-4.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma-5.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Steensma-6.jpg">
 
 </details>
 
@@ -397,8 +397,8 @@ Beste groet van je vriend
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Willoch-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Willoch-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Willoch-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Willoch-2.jpg">
 
 <br/>
 
@@ -448,9 +448,9 @@ Met vriendelijke groet
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Willoch-3.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Willoch-4.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Willoch-5.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Willoch-3.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Willoch-4.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Willoch-5.jpg">
 
 </details>
 
@@ -494,8 +494,8 @@ Met de meeste hoogachting
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Mohr-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Mohr-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Mohr-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Mohr-2.jpg">
 
 </details>
 
@@ -531,8 +531,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Wilhelmina-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Wilhelmina-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Wilhelmina-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Wilhelmina-2.jpg">
 
 </details>
 
@@ -568,8 +568,8 @@ Uw. dw. dr.
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/DeLoos-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/DeLoos-2.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/DeLoos-1.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/DeLoos-2.jpg">
 
 </details>
 
@@ -599,8 +599,8 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/DeLoos-3.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/DeLoos-4.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/DeLoos-3.jpg">
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/DeLoos-4.jpg">
 
 </details>
 
@@ -636,7 +636,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 <br/>
 <br/>
@@ -683,9 +683,9 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Archiving-Physical-Objects-1.jpg"> <br/>
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Archiving-Physical-Objects-2.jpg"> <br/>
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Archiving-Physical-Objects-3.jpg"> <br/>
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Archiving-Physical-Objects-1.jpg"> <br/>
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Archiving-Physical-Objects-2.jpg"> <br/>
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Archiving-Physical-Objects-3.jpg"> <br/>
 
 </details>
 
@@ -701,7 +701,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
+[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
 
 </details>
 
@@ -717,7 +717,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
+[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
 
 </details>
 
@@ -733,11 +733,11 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/tree/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
 
 </details>
 
