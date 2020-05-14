@@ -51,11 +51,7 @@
 | Genres               | Object                             |
 | Note                 | Death-Mask                         |
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
-<<<<<<< HEAD
-| <img width="420" height="auto" src="/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
-=======
 | <img width="420" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 <br/>
 <br/>
@@ -80,11 +76,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 *In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 
 [...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens. <sup>[[2]](#footnote-2)</sup>
@@ -96,25 +88,6 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Henry-VII.jpg"><br/>*Henry VII*
-
-<img width="480" height="auto" src="/Images/Luther.jpg"><br/>*Martin Luther*
-
-<img width="480" height="auto" src="/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*
-
-<img width="480" height="auto" src="/Images/Franklin.jpg"><br/>*Benjamin Franklin*
-
-<img width="480" height="auto" src="/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*
-
-<img width="480" height="auto" src="/Images/Himmler.jpg"><br/>*Heinrich Himmler*
-
-<img width="480" height="auto" src="/Images/Lenin.jpg"><br/>*Vladimir Lenin*
-
-<img width="480" height="auto" src="/Images/Newton.jpg"><br/>*Isaac Newton*
-
-<img width="480" height="auto" src="/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Henry-VII.jpg"><br/>*Henry VII*
 
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Luther.jpg"><br/>*Martin Luther*
@@ -132,18 +105,13 @@ As already mentioned, death masks were made for a range of famous and notable pe
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Newton.jpg"><br/>*Isaac Newton*
 
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 ---
 
 <a name="2.1.3"></a>
 #### L'Inconnue de la Seine
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
@@ -164,11 +132,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.2.1"></a>
 #### Who was Beckman?
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
@@ -177,19 +141,11 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 <a name="2.2.2"></a>
 #### Origins of Beckman's death mask
 
-<<<<<<< HEAD
-<img width="720" height="auto" src="/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
-
-On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
-
-<img width="720" height="auto" src="/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
-=======
 <img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
 <img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
@@ -209,11 +165,7 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 
 <br/>
 
-<<<<<<< HEAD
-<img width="720" height="auto" src="/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
-=======
 <img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
@@ -221,15 +173,9 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-<<<<<<< HEAD
-[![Geen-nummers-maar-Namen](/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
-
-[![DE-ANDEREN](/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
-=======
 [![Geen-nummers-maar-Namen](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
 [![DE-ANDEREN](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
@@ -296,13 +242,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Broers-1.jpg">
-<img width="480" height="auto" src="/Images/Broers-2.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -336,13 +277,8 @@ Met de meeste hoogachting
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Hoornik-1.jpg">
-<img width="480" height="auto" src="/Images/Hoornik-2.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -416,21 +352,12 @@ Soest
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Steensma-1.jpg">
-<img width="480" height="auto" src="/Images/Steensma-2.jpg">
-<img width="480" height="auto" src="/Images/Steensma-3.jpg">
-<img width="480" height="auto" src="/Images/Steensma-4.jpg">
-<img width="480" height="auto" src="/Images/Steensma-5.jpg">
-<img width="480" height="auto" src="/Images/Steensma-6.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-2.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-3.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-4.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-5.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-6.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -470,13 +397,8 @@ Beste groet van je vriend
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Willoch-1.jpg">
-<img width="480" height="auto" src="/Images/Willoch-2.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 <br/>
 
@@ -526,15 +448,9 @@ Met vriendelijke groet
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Willoch-3.jpg">
-<img width="480" height="auto" src="/Images/Willoch-4.jpg">
-<img width="480" height="auto" src="/Images/Willoch-5.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-3.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-4.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-5.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -578,13 +494,8 @@ Met de meeste hoogachting
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Mohr-1.jpg">
-<img width="480" height="auto" src="/Images/Mohr-2.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -620,13 +531,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Wilhelmina-1.jpg">
-<img width="480" height="auto" src="/Images/Wilhelmina-2.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -662,13 +568,8 @@ Uw. dw. dr.
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/DeLoos-1.jpg">
-<img width="480" height="auto" src="/Images/DeLoos-2.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-1.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -698,13 +599,8 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 
 ---
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/DeLoos-3.jpg">
-<img width="480" height="auto" src="/Images/DeLoos-4.jpg">
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg">
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -740,11 +636,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-<<<<<<< HEAD
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
-=======
 [![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 <br/>
 <br/>
@@ -752,11 +644,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <a name="2.4"></a>
 ### The modern cemetery
 
-<<<<<<< HEAD
-**The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. I particularly liked the idea of ​​using virtual spaces as a new place of mourning. From this idea I started my transcoding experiments.**
-=======
 **The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. I particularly liked the idea of ​​using virtual spaces as a new place of mourning From this idea I started my transcoding experiments.**
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 ---
 
@@ -795,15 +683,9 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<<<<<<< HEAD
-<img width="480" height="auto" src="/Images/Archiving-Physical-Objects-1.jpg"> <br/>
-<img width="480" height="auto" src="/Images/Archiving-Physical-Objects-2.jpg"> <br/>
-<img width="480" height="auto" src="/Images/Archiving-Physical-Objects-3.jpg"> <br/>
-=======
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-1.jpg"> <br/>
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-2.jpg"> <br/>
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-3.jpg"> <br/>
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -819,11 +701,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<<<<<<< HEAD
-[![Visual Narrative #01](/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
-=======
 [![Visual Narrative #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -839,11 +717,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<<<<<<< HEAD
-[![Visual Narrative #01](/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
-=======
 [![Visual Narrative #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
@@ -859,19 +733,11 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<<<<<<< HEAD
-[![Unity Process #01](/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
-
-[![Unity Process #01](/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
-
-[![Unity Process #01](/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
-=======
 [![Unity Process #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
 
 [![Unity Process #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
 
 [![Unity Process #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 </details>
 
