@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<img width="1920" height="auto" src="/Images/Cover-2.jpg">
-=======
 <img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Cover-2.jpg">
->>>>>>> cfb224b4d3906cc159c9eeb2be2f13747f069ba8
 
 # Archiving Lived Lives
 
