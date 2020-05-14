@@ -1,4 +1,6 @@
-<img width="1920" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Cover-2.jpg">
 
@@ -53,7 +55,9 @@ Cover-2.jpg">
 | Genres               | Object                             |
 | Note                 | Death-Mask                         |
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
-| <img width="420" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+| <img width="420" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
 
@@ -80,7 +84,9 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 *In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
 
@@ -94,39 +100,57 @@ Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Henry-VII.jpg"><br/>*Henry VII*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Luther.jpg"><br/>*Martin Luther*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Napoleon.jpg"><br/>*Napoleon Bonaparte*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Franklin.jpg"><br/>*Benjamin Franklin*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Beethoven.jpg"><br/>*Ludwig van Beethoven*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Himmler.jpg"><br/>*Heinrich Himmler*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Lenin.jpg"><br/>*Vladimir Lenin*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Newton.jpg"><br/>*Isaac Newton*
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Roosevelt.jpg"><br/>*Theodore Roosevelt*
 
@@ -135,7 +159,9 @@ Roosevelt.jpg"><br/>*Theodore Roosevelt*
 <a name="2.1.3"></a>
 #### L'Inconnue de la Seine
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
 
@@ -158,7 +184,9 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <a name="2.2.1"></a>
 #### Who was Beckman?
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
 
@@ -169,13 +197,17 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 <a name="2.2.2"></a>
 #### Origins of Beckman's death mask
 
-<img width="720" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
-<img width="720" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
 
@@ -197,7 +229,9 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 
 <br/>
 
-<img width="720" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Dachau.jpg"><br/>*Barracks in Dachau, 1945*
 
@@ -280,10 +314,14 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Broers-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Broers-2.jpg">
 
@@ -319,10 +357,14 @@ Met de meeste hoogachting
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Hoornik-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Hoornik-2.jpg">
 
@@ -398,22 +440,34 @@ Soest
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Steensma-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Steensma-2.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Steensma-3.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Steensma-4.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Steensma-5.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Steensma-6.jpg">
 
@@ -455,10 +509,14 @@ Beste groet van je vriend
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Willoch-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Willoch-2.jpg">
 
@@ -510,13 +568,19 @@ Met vriendelijke groet
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Willoch-3.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Willoch-4.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Willoch-5.jpg">
 
@@ -562,10 +626,14 @@ Met de meeste hoogachting
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Mohr-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Mohr-2.jpg">
 
@@ -603,10 +671,14 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Wilhelmina-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Wilhelmina-2.jpg">
 
@@ -644,10 +716,14 @@ Uw. dw. dr.
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 DeLoos-1.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 DeLoos-2.jpg">
 
@@ -679,10 +755,14 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 
 ---
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 DeLoos-3.jpg">
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 DeLoos-4.jpg">
 
@@ -769,13 +849,19 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Archiving-Physical-Objects-1.jpg"> <br/>
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Archiving-Physical-Objects-2.jpg"> <br/>
-<img width="480" height="auto" src="/https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/
+
+
 
 Archiving-Physical-Objects-3.jpg"> <br/>
 
