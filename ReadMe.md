@@ -835,3 +835,4 @@ Fantasmagoria (solution for combining transcoding 2 & 3)
 - Things dont have to be obivious (Concentration camp can also be a box --> find it the dialog)
 
 </details>
+ 
