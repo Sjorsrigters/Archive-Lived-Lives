@@ -733,11 +733,11 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Unity Process #01](src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
 
-[![Unity Process #01](src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
 
-[![Unity Process #01](src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
 
 </details>
 
