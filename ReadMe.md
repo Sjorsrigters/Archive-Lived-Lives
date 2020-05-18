@@ -759,11 +759,11 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="5"></a>
 ## Outcome
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_4.jpg"> <br/>
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_4.jpg"><br/>*Room 1*
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_3.jpg"> <br/>
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_3.jpg"><br/>*Room 2*
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"> <br/>
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"><br/>*Room 3*
 
 [![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.jpg)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Outcome*
 
