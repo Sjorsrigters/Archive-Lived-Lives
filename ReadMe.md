@@ -765,7 +765,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"> <br/>
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.png)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Unity Process #03*
+[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.jpg)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Outcome*
 
 <br>
 
@@ -812,11 +812,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="footnote-11">[11]</a>: [ I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer ](http://stefanschafer.net/?p=1178)
 
 <a name="footnote-12">[12]</a>: [ Op Instagram krijgt rouwen een nieuwe dimensie — Daisy Jones (vice.nl) ](https://www.vice.com/nl/article/d3a57m/op-instagram-krijgt-rouwen-een-nieuwe-dimensie)
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
