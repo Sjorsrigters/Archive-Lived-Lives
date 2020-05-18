@@ -739,6 +739,9 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 [![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
 
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
+
+
 </details>
 
 <br/>
@@ -750,6 +753,14 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="4"></a>
 ## Outcome
+
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_4.jpg"> <br/>
+
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_3.jpg"> <br/>
+
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"> <br/>
+
+<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.jpg"> <br/>
 
 <a name="4"></a>
 ## Conclusion
@@ -786,6 +797,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 <br/>
 <br/>
+
 
 ---
 ---
