@@ -798,9 +798,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 <br/>
 
-
----
----
 ---
 
 ## Visits at the IISG
@@ -810,9 +807,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 ---
 
 <br/>
-
----
-
 <br/>
 
 <a name="6"></a>
