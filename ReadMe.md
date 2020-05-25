@@ -1,6 +1,6 @@
 <img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Cover-2.jpg">
-# Archiving Lived Lives
 
+# Archiving Lived Lives
 
 ### Table of Content
 
