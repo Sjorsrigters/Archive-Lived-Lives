@@ -239,8 +239,8 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-2.jpg">
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-2.jpg"> |
 
 </details>
 
@@ -276,8 +276,8 @@ Ed Hoornik
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-2.jpg">
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-2.jpg"> |
 
 </details>
 
@@ -351,12 +351,10 @@ Soest
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-2.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-3.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-4.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-5.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-6.jpg">
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-2.jpg"> |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-4.jpg"> |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-5.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-6.jpg"> |
 
 </details>
 
@@ -398,8 +396,8 @@ Kurt Willoch
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-2.jpg">
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+|<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-2.jpg"> |
 
 <br/>
 
@@ -449,9 +447,8 @@ Kurt Willoch
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-3.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-4.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-5.jpg">
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-4.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-5.jpg"> |
 
 </details>
 
@@ -493,8 +490,8 @@ Mijn telefoon is 110229
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-2.jpg">
+|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-2.jpg"> |
 
 </details>
 
@@ -532,8 +529,9 @@ Wilhelmina
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-2.jpg">
+
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-2.jpg"> |
 
 </details>
 
@@ -571,8 +569,8 @@ D.A.E. de Loos
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-1.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-2.jpg">
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-2.jpg"> |
 
 </details>
 
@@ -614,8 +612,9 @@ D.A.E. de Loos
 
 ---
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg">
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg">
+
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg"> |
 
 </details>
 
@@ -772,6 +771,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="4"></a>
 ## Reflection
 
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif"> <br/>
+
 By experimenting from different ways of approaching the artifact, I found out what the artifact meant to me and what I found interesting about it. What intrigued me the most was the fact that the death mask was not only a documentation of a face, but indirectly also of a person's life. This idea and my research made me delve into the possibilities of archiving lived lives in the digital age. Using the game engine Unity, I explored how I could archive the life of Wiardi Beckman in new ways. The result is the virtual tomb of Wiardi Beckman's death mask where my research and experiments come together. The visitor can learn through this virtual space about the creation of this special artifact.
 
 <br/>
@@ -779,8 +780,6 @@ By experimenting from different ways of approaching the artifact, I found out wh
 
 <a name="5"></a>
 ## Outcome
-
-<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif"> <br/>
 
 [![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
 
