@@ -15,7 +15,7 @@
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.3)
       - [  ➔ Who was Beckman? ](#2.3.1)
       - [  ➔ Origins of Beckman's death mask ](#2.3.2)
-      - [  ➔ Letters to Mrs. Beckman ](#2.3.3)s
+      - [  ➔ Letters to Mrs. Beckman ](#2.3.3)
     - [ What should be archived? ](#2.4)
     - [ The modern cemetery](#2.5)
       - [ ➔ Death and mourning in the Digital Era ](#2.5.1)
