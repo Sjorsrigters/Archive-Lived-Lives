@@ -632,7 +632,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.jpg)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 <br/>
 <br/>
@@ -640,7 +640,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <a name="2.5"></a>
 ### The modern cemetery
 
-**The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. I particularly liked the idea of ​​using virtual spaces as a new place of mourning From this idea I started my transcoding experiments.**
+**The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. I particularly liked the idea of ​​using virtual spaces as a new place of mourning. From this idea I started my transcoding experiments.**
 
 ---
 
@@ -697,7 +697,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
+[![Visual Narrative #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.jpg)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
 
 </details>
 
