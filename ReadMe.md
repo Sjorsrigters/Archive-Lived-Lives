@@ -622,8 +622,8 @@ D.A.E. de Loos
 
 |                                                                                                             |                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg"> |                                                                                                             |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-5.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg"> |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg"> |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-5.jpg"> |                                                                                                             |
 
 </details>
 
@@ -699,18 +699,19 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="2.5.2"></a>
 ####  New types of cemeteries
 
-|                                                                                                                |                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding10.jpg"> |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding4.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding4.jpg"> |
+|                                                                                                                                                                                                                                                                         |                                                                                                                       |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding1.jpg)](https://www.vice.com/en_us/article/9a3a5a/death-is-a-high-tech-trip-in-japans-futuristic-cemeteries)*Japan's Futuristic Cemeteries* | [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding10.jpg)](https://www.vice.com/en_us/article/9a3a5a/death-is-a-high-tech-trip-in-japans-futuristic-cemeteries)*Japan's Futuristic Cemeteries* |
+| [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding8.jpg)](https://www.vice.com/en_us/article/9a3a5a/death-is-a-high-tech-trip-in-japans-futuristic-cemeteries)*Japan's Futuristic Cemeteries* | [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding14.jpg)](https://www.vice.com/en_us/article/9a3a5a/death-is-a-high-tech-trip-in-japans-futuristic-cemeteries)*Japan's Futuristic Cemeteries* |
 
 ---
 
 <a name="2.5.3"></a>
 ####  Virtual space for lived lives
-|                                                                                                                 |                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding8.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding6.jpg">  |
+|                                                                                                                 |                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding11.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding6.jpg"> |
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding7.jpg">  |
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding5.jpg">  |
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding2.jpg">  |
