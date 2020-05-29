@@ -812,6 +812,7 @@ By experimenting from different ways of approaching the artifact, I found out wh
 <a name="6"></a>
 ## Conclusion
 
+This project showed me that artifacts of persons are embodiments of identity and that the possibilities in the digital age to archive lived lives are endless. However, these possibilities also make representation and archiving more complex than ever and therefore I have realized that as a designer you have to deal responsibly and consciously with these possibilities. Because the influence of the designer is great in relation to the representation and archiving of lived lives
 
 <br/>
 <br/>
