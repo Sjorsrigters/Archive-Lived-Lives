@@ -575,7 +575,7 @@ D.A.E. de Loos
 
 ---
 
-|                                                                                                             |                                                                                                             |
+|                                                                                                             |                                                                                                             |                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-2.jpg"> |
 
@@ -619,9 +619,9 @@ D.A.E. de Loos
 
 ---
 
-|                                                                                                             |                                                                                                             |
-|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg"> |
+|                                                                                                             |                                                                                                             |                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-5.jpg"> |
 
 </details>
 
@@ -778,8 +778,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="4"></a>
 ## Reflection
 
-<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif"> <br/>
-
 By experimenting from different ways of approaching the artifact, I found out what the artifact meant to me and what I found interesting about it. What intrigued me the most was the fact that the death mask was not only a documentation of a face, but indirectly also of a person's life. This idea and my research made me delve into the possibilities of archiving lived lives in the digital age. Using the game engine Unity, I explored how I could archive the life of Wiardi Beckman in new ways. The result is the virtual tomb of Wiardi Beckman's death mask where my research and experiments come together. The visitor can learn through this virtual space about the creation of this special artifact.
 
 <br/>
@@ -787,6 +785,8 @@ By experimenting from different ways of approaching the artifact, I found out wh
 
 <a name="5"></a>
 ## Outcome
+
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif"> <br/>
 
 [![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
 
