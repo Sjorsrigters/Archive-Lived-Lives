@@ -1,6 +1,5 @@
-<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Cover-2.jpg">
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Cover.jpg">
 # Archiving Lived Lives
-
 
 
 ### Table of Content
@@ -88,23 +87,12 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Henry-VII.jpg"><br/>*Henry VII*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Luther.jpg"><br/>*Martin Luther*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Franklin.jpg"><br/>*Benjamin Franklin*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Himmler.jpg"><br/>*Heinrich Himmler*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Lenin.jpg"><br/>*Vladimir Lenin*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Newton.jpg"><br/>*Isaac Newton*
-
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*
+|                                                                                                                                          |                                                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Henry-VII.jpg"><br/>*Henry VII*             | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Luther.jpg"><br/>*Martin Luther*            |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*     | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Himmler.jpg"><br/>*Heinrich Himmler*        | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Lenin.jpg"><br/>*Vladimir Lenin*            |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Newton.jpg"><br/>*Isaac Newton*             | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*    |
 
 ---
 
@@ -173,9 +161,9 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-[![Geen-nummers-maar-Namen](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
+[![Geen-nummers-maar-Namen](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.png)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
-[![DE-ANDEREN](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
+[![DE-ANDEREN](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
@@ -636,7 +624,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.png)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 <br/>
 <br/>
@@ -701,7 +689,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
+[![Visual Narrative #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
 
 </details>
 
@@ -717,7 +705,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
+[![Visual Narrative #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
 
 </details>
 
@@ -733,58 +721,16 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
+[![Unity Process #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
+[![Unity Process #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
-
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.png)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Unity Process #03*
-
+[![Unity Process #01](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
 
 </details>
 
 <br/>
 <br/>
-
-<a name="4"></a>
-## Reflection
-
-[fill in text]
-
-<br>
-
----
-
-<a name="5"></a>
-## Outcome
-
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_4.jpg"><br/>*Room 1*
-
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_3.jpg"><br/>*Room 2*
-
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"><br/>*Room 3*
-
-[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.jpg)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Outcome*
-
-<br>
-
----
-
-<br>
-<br>
-
-<a name="6"></a>
-## Conclusion
-
-[fill in text]
-
-<br>
-
----
-
-<br>
-<br>
 
 <a name="7"></a>
 ## Bibliography
@@ -813,6 +759,13 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="footnote-12">[12]</a>: [ Op Instagram krijgt rouwen een nieuwe dimensie — Daisy Jones (vice.nl) ](https://www.vice.com/nl/article/d3a57m/op-instagram-krijgt-rouwen-een-nieuwe-dimensie)
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+---
 ---
 
 ## Visits at the IISG
@@ -822,6 +775,9 @@ The intersection of social media and image can be fraught after death. Somewhere
 ---
 
 <br/>
+
+---
+
 <br/>
 
 <a name="6"></a>
