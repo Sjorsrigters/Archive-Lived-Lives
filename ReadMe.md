@@ -674,7 +674,7 @@ As the structure of families and local networks changes, the structure of death 
 
 [...]
 
-While still alive a wide range of people compulsively take images of themselves in the form of selfies, and upload these to online image platforms such as Instagram. After death such collected histories of data, image, sound and (CLICK TO SEE) VIDEO files can be read as a self designed site for memorialization. We could even say that Instagram users create and carry their own virtual tombs. But are we aware anticipating their impending death carry the shadow of this in life and in death, an anticipation and a pre-designing of the digital after life.
+While still alive a wide range of people compulsively take images of themselves in the form of selfies, and upload these to online image platforms such as Instagram. After death such collected histories of data, image, sound and video files can be read as a self designed site for memorialization. We could even say that Instagram users create and carry their own virtual tombs. But are we aware anticipating their impending death carry the shadow of this in life and in death, an anticipation and a pre-designing of the digital after life.
 
 Post-mortem photographs may also take the form of blingee gif files on blogging sites such as tumblr, where memorial images are heavily decorated with moving flowers, angel wings and animated glitter effects. These distinctly personalized images act as a form of currency on memorial groups and websites, being posted by others on sites for similarly-deceased decedents or for charity causes. The image of the deceased becomes a representation of a cause, customized beyond their control and living a new life after death.
 
