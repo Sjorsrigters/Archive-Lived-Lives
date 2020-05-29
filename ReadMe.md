@@ -239,6 +239,7 @@ tel. 18328 (momenteel nog niet weer aangesloten!)
 
 ---
 
+|                                                                                                             |                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Broers-2.jpg"> |
 
@@ -276,7 +277,8 @@ Ed Hoornik
 
 ---
 
-|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|                                                                                                              |                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Hoornik-2.jpg"> |
 
 </details>
@@ -351,6 +353,7 @@ Soest
 
 ---
 
+|                                                                                                               |                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-2.jpg"> |
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma-4.jpg"> |
@@ -396,6 +399,7 @@ Kurt Willoch
 
 ---
 
+|                                                                                                             |                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 |<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-2.jpg"> |
 
@@ -447,6 +451,7 @@ Kurt Willoch
 
 ---
 
+|                                                                                                              |                                                                                                              |                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-4.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-5.jpg"> |
 
@@ -490,6 +495,7 @@ Mijn telefoon is 110229
 
 ---
 
+|                                                                                                           |                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Mohr-2.jpg"> |
 
@@ -529,7 +535,7 @@ Wilhelmina
 
 ---
 
-
+|                                                                                                                 |                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhelmina-2.jpg"> |
 
@@ -569,6 +575,7 @@ D.A.E. de Loos
 
 ---
 
+|                                                                                                             |                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-2.jpg"> |
 
@@ -612,7 +619,7 @@ D.A.E. de Loos
 
 ---
 
-
+|                                                                                                             |                                                                                                             |
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg"> |
 
