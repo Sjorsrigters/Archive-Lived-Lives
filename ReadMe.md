@@ -789,7 +789,7 @@ By experimenting from different ways of approaching the artifact, I found out wh
 
 <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif"> <br/>
 
-[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
+[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg | width=100)](https://http://sjorsrigters.com/archiving-lived-lives)
 
 <br/>
 <br/>
