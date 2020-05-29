@@ -708,13 +708,13 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="2.5.3"></a>
 ####  Virtual space for lived lives
-|                                                                                                                 |                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding11.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding6.jpg"> |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding7.jpg">  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding5.jpg">  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding2.jpg">  |
 
+|                                                                                                                       |                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding11.jpg)](https://www.vice.com/en_us/article/9a3a5a/death-is-a-high-tech-trip-in-japans-futuristic-cemeteries)*Second Life* | [![DigitalTombstone](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding6.jpg)](https://www.youtube.com/watch?v=-hdA1xGrgOk)*Digital Tombstone* |
+| [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding14.jpg)](https://www.oculus.com/blog/introducing-facebook-horizon-a-new-social-vr-world-coming-to-oculus-quest-and-the-rift-platform-in-2020/)*The Virtual Tomb of Tutankhamun* | [![DataMortis](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding7.jpg)](https://www.frasermcphee.com/data-mortis)*Data Mortis* |
+| [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg)](https://www.oculus.com/blog/introducing-facebook-horizon-a-new-social-vr-world-coming-to-oculus-quest-and-the-rift-platform-in-2020/)*The Virtual Tomb of Tutankhamun* | [![DataMortis](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding5.jpg)](https://www.frasermcphee.com/data-mortis)*Data Mortis* |
+| [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg)](https://www.oculus.com/blog/introducing-facebook-horizon-a-new-social-vr-world-coming-to-oculus-quest-and-the-rift-platform-in-2020/)*The Virtual Tomb of Tutankhamun* | [![DataMortis](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding2.jpg)](https://www.frasermcphee.com/data-mortis)*Data Mortis* |
 
 <br/>
 <br/>
