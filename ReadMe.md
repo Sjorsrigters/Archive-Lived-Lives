@@ -772,6 +772,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="4"></a>
 ## Reflection
 
+By experimenting from different ways of approaching the artifact, I found out what the artifact meant to me and what I found interesting about it. What intrigued me the most was the fact that the death mask was not only a documentation of a face, but indirectly also of a person's life. This idea and my research made me delve into the possibilities of archiving lived lives in the digital age. Using the game engine Unity, I explored how I could archive the life of Wiardi Beckman in new ways. The result is the virtual tomb of Wiardi Beckman's death mask where my research and experiments come together. The visitor can learn through this virtual space about the creation of this special artifact.
+
 <br/>
 <br/>
 
@@ -785,6 +787,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="6"></a>
 ## Conclusion
+
 
 <br/>
 <br/>
