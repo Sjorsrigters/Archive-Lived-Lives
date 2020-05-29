@@ -180,7 +180,6 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 <a name="2.3.3"></a>
 #### Letters to Mrs. Beckman
 
----
 
 ##### Letter 01
 
@@ -617,6 +616,8 @@ D.A.E. de Loos
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg">
 
 </details>
+
+<br/>
 
 ---
 
