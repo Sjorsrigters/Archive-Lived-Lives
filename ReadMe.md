@@ -709,6 +709,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <br/>
 
+---
+
 <a name="3.2"></a>
 ### Visual Narrative
 | Tag                   | Data                                                                                             |
@@ -725,6 +727,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <br/>
 
+---
+
 <a name="3.3"></a>
 ### Interactive Dialogue
 | Tag                   | Data                                                                                             |
@@ -740,6 +744,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 </details>
 
 <br/>
+
+---
 
 <a name="3.4"></a>
 ### Virtual Tomb
