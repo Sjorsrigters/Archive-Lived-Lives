@@ -705,12 +705,12 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="2.5.3"></a>
 ####  Virtual space for lived lives
-|                                                                                                                |                                                                                                                |
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding8.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding6.jpg">  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding7.jpg"> |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding5.jpg"> |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding2.jpg">  |
+|                                                                                                                 |                                                                                                                |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding8.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding6.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding7.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding5.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding2.jpg">  |
 
 
 <br/>
