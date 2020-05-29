@@ -66,8 +66,6 @@
 
 ---
 
-### Death masks
-
 <a name="2.2"></a>
 ### Death masks
 
