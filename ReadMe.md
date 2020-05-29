@@ -453,8 +453,8 @@ Kurt Willoch
 
 |                                                                                                              |                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-3.jpg"> |                                                                                                               |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-5.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-4.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-3.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-4.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Willoch-5.jpg"> |                                                                                                               |
 
 </details>
 
