@@ -8,18 +8,18 @@
     - [ Metadata ](#1.1)
 2. [ Research ](#2)
     - [ Death masks ](#2.1)
-      - [  What is a death mask? ](#2.1.1)
-      - [  Death masks of the famous ](#2.1.3)
-      - [  L'Inconnue de la Seine ](#2.1.3)
+      - [  ➔ What is a death mask? ](#2.1.1)
+      - [  ➔ Death masks of the famous ](#2.1.3)
+      - [  ➔ L'Inconnue de la Seine ](#2.1.3)
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
-      - [  Who was Beckman? ](#2.2.1)
-      - [  Origins of Beckman's death mask ](#2.2.2)
-      - [  Letters to Mrs. Beckman ](#2.2.3)
+      - [  ➔ Who was Beckman? ](#2.2.1)
+      - [  ➔ Origins of Beckman's death mask ](#2.2.2)
+      - [  ➔ Letters to Mrs. Beckman ](#2.2.3)
     - [ What should be archived? ](#2.3)
     - [ The modern cemetery](#2.4)
-      - [ Death and mourning in the Digital Era ](#2.4.1)
-      - [ New types of cemeteries ](#2.4.2)
-      - [ Virtual archive for lived lives ](#2.4.3)
+      - [ ➔ Death and mourning in the Digital Era ](#2.4.1)
+      - [ ➔ New types of cemeteries ](#2.4.2)
+      - [ ➔ Virtual archive for lived lives ](#2.4.3)
 3. [ Transcodings ](#3)
     - [ Archiving Physical Objects ](#3.1)
     - [ Visual Narrative ](#3.2)
@@ -66,7 +66,7 @@
 ---
 
 <a name="2.1.1"></a>
-#### - What is a death mask?
+#### What is a death mask?
 *A death mask is a cast of a dead person*, usually made of wax or plaster. Death masks are true portraits, although changes are occasionally made in the eyes of the mask to make it appear as though the subject were alive. *From the time of ancient Egypt they have served as aids to portrait sculptors*, and for the last few centuries they have been kept as mementos of the dead.
 
 In the late Middle Ages, ambitious princes and ecclesiastical leaders had their portraits spread throughout their empire. It was advertising for themselves, and it legitimized their rule. *A cast of their lifeless face showed that their power, the power of the dynasty, was unbroken even after death*.
@@ -83,7 +83,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 ---
 
 <a name="2.1.2"></a>
-#### - Death mask of the famous
+#### Death mask of the famous
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
 
@@ -97,7 +97,7 @@ As already mentioned, death masks were made for a range of famous and notable pe
 ---
 
 <a name="2.1.3"></a>
-#### - L'Inconnue de la Seine
+#### L'Inconnue de la Seine
 
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
 
@@ -118,7 +118,7 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 ---
 
 <a name="2.2.1"></a>
-#### - Who was Beckman?
+#### Who was Beckman?
 
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
 
@@ -127,7 +127,7 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 ---
 
 <a name="2.2.2"></a>
-#### - Origins of Beckman's death mask
+#### Origins of Beckman's death mask
 
 <img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
@@ -170,7 +170,7 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 ---
 
 <a name="2.2.3"></a>
-#### - Letters to Mrs. Beckman
+#### Letters to Mrs. Beckman
 
 ##### Letter 01
 
@@ -637,7 +637,7 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 ---
 
 <a name="2.4.1"></a>
-####  - Death and mourning in the Digital Era
+####  Death and mourning in the Digital Era
 
 ##### I am become digital death, the destroyer of worlds
 
