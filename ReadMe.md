@@ -141,7 +141,7 @@ Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Demo
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Natzweiler.jpg"><br/>*The entrance to Natzweiler camp*
 
 Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and Vught in concentration camp Natzweiler, where like many other prisoners he had to do heavy work in a quarry. A fellow prisoner, Arie van Soest, who did not work in the quarry and feared that "Stuuf" would succumb to the heavy work, decided to exchange his relatively simple camp job with him. Van Soest later said about this:
 
