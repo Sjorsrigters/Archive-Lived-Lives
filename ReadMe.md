@@ -804,7 +804,8 @@ By experimenting from different ways of approaching the artifact, I found out wh
 
 <br/>
 
-[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
+*Outcome link:*
+[ The Virtual Tomb of Wiardi Beckman's Death Mask (walk-through) ](https://http://sjorsrigters.com/archiving-lived-lives)
 
 <br/>
 <br/>
@@ -823,7 +824,7 @@ This project showed me that artifacts of persons are embodiments of identity and
 <br/>
 <br/>
 
-<a name="footnote-1">[1]</a>: [ Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
+<a name="footnote-1">[1]</a>: [ Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)
 
 <a name="footnote-2">[2]</a>: [ he curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
