@@ -694,23 +694,26 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
+---
+
 <a name="2.5.2"></a>
 ####  New types of cemeteries
 
 |                                                                                                                |                                                                                                                |
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding10.jpg"> |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding1.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding10.jpg"> |
 | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding4.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding4.jpg"> |
 
+---
 
 <a name="2.5.3"></a>
 ####  Virtual space for lived lives
 |                                                                                                                 |                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding8.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding6.jpg">  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding7.jpg">  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding5.jpg">  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeeding2.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding8.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding6.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding7.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding12.jpg"> | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding5.jpg">  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding3.jpg">  | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding2.jpg">  |
 
 
 <br/>
