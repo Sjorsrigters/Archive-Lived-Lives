@@ -89,10 +89,10 @@ As already mentioned, death masks were made for a range of famous and notable pe
 
 |                                                                                                                                          |                                                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Henry-VII.jpg"><br/>*Henry VII*             | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Luther.jpg"><br/>*Martin Luther*            |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Napoleon.jpg"><br/>*Napoleon Bonaparte*     | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Beethoven.jpg"><br/>*Ludwig van Beethoven*  |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Himmler.jpg"><br/>*Heinrich Himmler*        | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Lenin.jpg"><br/>*Vladimir Lenin*            |
-| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Newton.jpg"><br/>*Isaac Newton*             | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Roosevelt.jpg"><br/>*Theodore Roosevelt*    |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_8.jpg"><br/>*Henry VII*             | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_5.jpg"><br/>*Martin Luther*            |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_4"><br/>*Napoleon Bonaparte*     | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_3"><br/>*Ludwig van Beethoven*  |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_7.jpg"><br/>*Heinrich Himmler*        | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_6.jpg"><br/>*Vladimir Lenin*            |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_9"><br/>*Isaac Newton*             | <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/FamousDeathMaks_1.jpg"><br/>*Theodore Roosevelt*    |
 
 ---
 
