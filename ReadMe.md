@@ -169,7 +169,7 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.jpg" (https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)>*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.jpg"> (https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title) *VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
 [![DE-ANDEREN](/src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
