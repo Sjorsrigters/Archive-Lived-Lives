@@ -780,6 +780,8 @@ By experimenting from different ways of approaching the artifact, I found out wh
 <a name="5"></a>
 ## Outcome
 
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif"> <br/>
+
 [![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
 
 <br/>
