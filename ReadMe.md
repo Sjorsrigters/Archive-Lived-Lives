@@ -804,7 +804,10 @@ By experimenting from different ways of approaching the artifact, I found out wh
 
 <br/>
 
-*Outcome link:*
+#### Outcome link:
+
+<br/>
+
 [ The Virtual Tomb of Wiardi Beckman's Death Mask (walk-through) ](https://http://sjorsrigters.com/archiving-lived-lives)
 
 <br/>
