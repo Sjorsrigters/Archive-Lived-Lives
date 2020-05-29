@@ -60,11 +60,13 @@
 ## Research
 
 <a name="2.1"></a>
-### Death masks
-## Visits at the IISG
+### Visits at the IISG
 - [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
 - [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
 
+---
+
+### Death masks
 
 <a name="2.2"></a>
 ### Death masks
@@ -686,7 +688,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
-
 <br/>
 <br/>
 
@@ -770,8 +771,31 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 <br/>
 
+<a name="4"></a>
+## Reflection
+
+<br/>
+<br/>
+
+<a name="5"></a>
+## Outcome
+
+[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
+
+<br/>
+<br/>
+
+<a name="6"></a>
+## Conclusion
+
+<br/>
+<br/>
+
 <a name="7"></a>
 ## Bibliography
+
+<br/>
+<br/>
 
 <a name="footnote-1">[1]</a>: [ Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
 
