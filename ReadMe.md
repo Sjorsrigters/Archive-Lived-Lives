@@ -198,13 +198,13 @@ Utrecht 15 Juni 1945
 
 Hooggeachte mevrouw Wiardi Beckman,
 
-Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in was u op te komen zoeken. De Heer Pooellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken.
+Uw schrijven a.d. 6 Juni kwam gisteren in mijn bezit. Het speet mij zeer dat ik niet eerder in staat was u op te komen zoeken. De Heer Poellaard, die gelukkig over betere communicatie middelen beschikt dan ik, vertelde mij dat hij u opgezocht had en u ook reeds meegedeeld had dat ik van uw man in Dachau een doodenmasker had laten maken.
 
-Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de personificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen ... op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
+Ik heb met Stuuf door twee concentratiekampen gezworven. Hij is een van mijn beste vrienden geworden. Het was ontzettend voor mij en voor zoovele andere die hem in dien tijd hadden leeren kennen en waarderen, hem zoo kort voor het einde van den oorlog te moeten verliezen. Stuuf die voor ons allen de personificatie van den Hollander was, die met zijn élan ons allen meesleepte, steeds zich zelve bleef en gebleven is tot het laatste toe. Een vriend als geen ander. Het is ook voor mij een ontzaglijk groot gemis. Maandenlang hebben wij in Natzweiler te zamen gewoond op het zelfde blok. Avonden en halve nachten hebben wij gesproken over onze idealen. Mijn God, wat een vitaliteit, hoe vol zat hij niet met plannen. Hij is voor mij ook een groote steun geweest in het moeilijke lagerleven. Later in Dachau hebben wij eerst tezamen in de quarantaine gezeten in volgepropte barakken in luizen en smerigheid. Maar we hadden een sterke vriendenkring, en ondanks alle Godverlaten ellende om ons heen, hebben we ons nooit teneergeslagen gevoeld. Steeds waren er nieuwe onderwerpen die bij den ..., die we te zamen en met anderen uitploozen en waar ... we ons konden abstraheeren van de werkelijkheid.
 
 Maar reeds spoedig kregen we in Dachau leidende porties. Ik kwam in het hospitaal in het klinisch laboratorium waar ik als bioloog werken kon en hij werd Stube-älteste, had het bewind over een kwart blok en ... 400 menschen.
 
-Ik zag hem toen weinig omdat we het allebei druk hadden. Toen kreeg hij vlektyphus, werd in het revier (hospitaal) opgenomen. Uren hebben zijn vrienden aan zijn bed gezeten. Er is gedaan wat mogelijk was om hem te redden. Het heeft niet ... ... zijn.
+Ik zag hem toen weinig omdat we het allebei druk hadden. Toen kreeg hij vlektyphus, werd in het revier (hospitaal) opgenomen. Uren hebben zijn vrienden aan zijn bed gezeten. Er is gedaan wat mogelijk was om hem te redden. Het heeft niet zoo mogen zijn.
 
 Het was iets onbegrijpelijks dat hij er niet meer was. Een doodenmasker wilde ik van hem bewaren, meenemen naar Holland waar ik wist dat zoovelen zijn, die zijn terugkomst verbeidden.
 
@@ -224,7 +224,7 @@ Ik heb de eer te zijn, met gevoelens van de meeste hoogachting.
 
 Uw dienstwillige
 
-[handtekening]
+C.J. Broers
 
 Mocht ik op welke wijze dan ook u van dienst kunnen zijn, zoo kunt u op mij rekenenen. Dit heb ik Stuuf beloofd.
 
@@ -269,7 +269,7 @@ In verband met de vele moeilijkheden, die de teruggekeerde politieke gevangenen 
 
 Met de meeste hoogachting
 
-[handtekening]
+Ed Hoornik
 
 <br/>
 
@@ -300,9 +300,9 @@ Soest 25/7 '45.
 
 Zeer geachte domineé Wiardi Beckman.
 
-Alhoewel mijn vrouw (Fineke de Veen) voor U geen onbekende is, ben ik dit tot nu toe wel geweest. Ik hoop dat er binnen niet al te lagen tijd gelegenheid zal zijn deze onbekendheid op te heffen en met U kennis te maken gezien de groote vriendschap die ik ... voor ... ... Stuuf.  Alhoewel hij ons ontvallen is, is de herinnering aan hem voor mij zoo'n groot bezit en zoo levende , dat ik ... kan schrijven koesterde.
+Alhoewel mijn vrouw (Fineke de Veen) voor U geen onbekende is, ben ik dit tot nu toe wel geweest. Ik hoop dat er binnen niet al te langen tijd gelegenheid zal zijn deze onbekendheid op te heffen en met U kennis te maken gezien de groote vriendschap die ik koester voor ... ... Stuuf.  Alhoewel hij ons ontvallen is, is de herinnering aan hem voor mij zoo'n groot bezit en zoo levende , dat ik ... kan schrijven koesterde.
 
-Ik zal U niet onnodig lastig vallen met de bijzonderheden die een leiding waren dat ik in het ... kamp Natzweiler belandde. Hoofdzaak is ik was er,, en daar maakte ik kennis Stuuf. (ik weet niet hoe zijn officiële naam luide. Wij hebben hem slechts als Stuuf gekend.)
+Ik zal U niet onnodig lastig vallen met de bijzonderheden die aanleiding waren dat ik in het ... kamp Natzweiler belandde. Hoofdzaak is ik was er,, en daar maakte ik kennis Stuuf. (ik weet niet hoe zijn officiële naam luide. Wij hebben hem slechts als Stuuf gekend.)
 
 't Was op een zondagmiddag in April van 't vorige jaar dat Stuuf naast me kwam zitten op een bankje, in in het zonnetje. Echt een bescheiden Stuuf, "of 't niet te lastig was" en "hij bleef maar een oogenblikje". Ik herinner 't me zoo goed, want tijdens 't gesprek heb ik voortdurend in ... gezeten dat hij op zou staan en verdwijnen en elke minuut dat we langer praatten hoopte ik dat hij zou blijven. We hebben toen gepraat over de ... van verzet in 't algemeen, en zijn tenslotte in zulke diepe wateren verzeild geraakt, dat Stuuf drie uur later opstond dan oorspronkelijk in de bedoeling lag.
 
@@ -322,9 +322,9 @@ Echt Stuuf! Hier was een gelegenheid goed werk te doen, menschen te helpen, te p
 
 In Dachau zag ik Stuuf maar enkele malen. Hij werd dan door Nico Rost in 't ... gesmokkeld, kon een baat nemen. Kreeg dubbele porties eten. Zat de ... ... op 't puntje van m'n bed (soms al om 05.45 's morgens) en we konden echt weer een uitpraten. Vooral de gesprekken van Stuuf met Nico Rost die communist is zullen onvergetelijk blijven. Dit verfijnde ... , die klaarheid, die rechte lijn, 't was een voorrecht daarbij te hebben mogen luisteren.
 
-In Natzweiler zowel als in Dachau is Stuuf steeds zeer geliefd geweest. Hij behoorde echt tot één van de lichtpunten. Niet allen bij Hollanders. Ook bij Franschen stond Stuuf in hoog aanzien.
+In Natzweiler zowel als in Dachau is Stuuf steeds zeer geliefd geweest. Hij behoorde echt tot één van de lichtpunten. Niet alleen bij Hollanders. Ook bij Franschen stond Stuuf in hoog aanzien.
 
-Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen Franschen kennissen hebben ... mij hun  grote bewondering geuit over Stuuf.
+Een vriend van mij, Dr ..., een chirurg uit Parijs en vele anderen Franschen kennissen hebben ... mij hun grote bewondering geuit over Stuuf.
 
 .. of er ook met hem wou spreken. Waarover 't ook was - Stuuf was bereid - en 't was altijd de moeite waard en meestal iets bijzonders.
 
@@ -345,8 +345,6 @@ C.C. Steensma
 54 Oude Utrechtsscheweg
 
 Soest
-
-[handtekening]
 
 <br/>
 
@@ -370,7 +368,7 @@ Soest
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
 | Date                 | 29 July, 1945.                 |
-| Writer               | Kurt Willich                   |
+| Writer               | Kurt Willoch                   |
 | Location             | Vardåsen, NO                   |
 
 <details>
@@ -395,7 +393,7 @@ Tot kijk! Er zijn hier in het sanatorium verschillende kameraden uit Natzweiler 
 
 Beste groet van je vriend
 
-[handtekening]
+Kurt Willoch
 
 ---
 
@@ -415,14 +413,12 @@ Beste groet van je vriend
 | Tag                  | Data                           |
 |----------------------|--------------------------------|
 | Date                 | October 12, 1945               |
-| Writer               | Kurt Willich                   |
+| Writer               | Kurt Willoch                   |
 | Location             | Vardåsen, NO                   |
 
 <details>
 
 <br/>
-
-Vardåsen, 12/10-45.
 
 Beste mevrouw Beckman!
 
@@ -446,7 +442,7 @@ Heel erg bedankt voor uw goede wensen voor mijn gezondheid en ik hoop dat u en u
 
 Met vriendelijke groet
 
-[handtekening]
+Kurt Willoch
 
 <br/>
 
@@ -488,13 +484,9 @@ We hadden elkaar uitdrukkelijk dit ... gegeven. We hadden beiden het vertrouwen,
 
 We wonen tijdelijk op de Laan van Meerdervoort 12. Ik zal ... naar Overveen te komen op een tijd, dien ik U verzoek te bepalen.
 
-Oscar Mohr.
+Oscar Mohr
 
 Mijn telefoon is 110229
-
-Met de meeste hoogachting
-
-[handtekening]
 
 <br/>
 
@@ -533,7 +525,7 @@ Via verschillende concentratiekampen kwam hij uiteindelijk te Dachau terecht, al
 
 Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 
-[handtekening]
+Wilhelmina
 
 <br/>
 
@@ -572,7 +564,7 @@ Met de meeste hoogachting heb ik de eer te zijn,
 
 Uw. dw. dr.
 
-[handtekening]
+D.A.E. de Loos
 
 <br/>
 
@@ -605,7 +597,17 @@ Zeer geachte Mevrouw Wiardi Beckman.
 
 Uw brief van 24 October kan ik helaas nu pas beantwoorden. Dit tot mijn groote spijt en ik bied U er dan ook mijn welgemeende excuses voor aan. De reden kan ik alleen aangeven, dat ik nu druk bezig ben met de laatste voorbereidingen voor het grootste tentamen, dat ik aan het einde van deze maand hoop te doen. Wanneer het avond is geworden, heb ik — heel eerlijk gezegd — niet zoo heel veel zin meer om nog iets anders te doen, dan even rustig te bekomen.
 
-Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemming te krijgen Stuuf's gedicht te mogen publiceeren. Het gedicht heeft mij — evenals het andere, dat hij voor zijn dochter gemaakt heeft ook — ook zoo intens getroffen.  Hij gaf daarin zoo meesterlijk weer, de gevoelens, die wij hadden. Het helpt misschien een klein beetje de Leidsche Universiteits wereld te overtuigen, dat het nu werkelijk nog geen tijd is om vriendelijk te zijn tegenover de Duitschers. Er is te veel gebeurd, en het is nog te kort geleden. Maar helaas lijdt het overgroote deel van de meerderheid aan een heel slechte eigenschap, nl: men vergeet te veel! Het streven, dat in het artikel van den Heer ... geuit wordt, is helaas een verschijnsel, dat ook in andere deelen van onze maatschappij merkbaar wordt. Zijn vrouw kreeg slechts enkele dagen geleden het .. van de Vereeniniging van Vrouwen met Academische Opleiding in handen. Hierin werd voorgesteld of de Vereeniging zich als Vereeniging in contact moest stellen met de Duitsche intellectueelen, ja dan ... . Over deze vraag werd een enquête gehouden. Er stonden verder twee artikels afgedrukt: pro en contra. Het laatste artikel had ... ... ... ... . Uitstekend en goed gemotiveerd. Maar toch, het verschijnsel is er!  En dat is hoopt
+Om op Uw brief terug te komen. Het deed mij zoo heel veel genoegen van U toestemming te krijgen Stuuf's gedicht te mogen publiceeren. Het gedicht heeft mij — evenals het andere, dat hij voor zijn dochter gemaakt heeft ook — ook zoo intens getroffen.  Hij gaf daarin zoo meesterlijk weer, de gevoelens, die wij hadden. Het helpt misschien een klein beetje de Leidsche Universiteits wereld te overtuigen, dat het nu werkelijk nog geen tijd is om vriendelijk te zijn tegenover de Duitschers. Er is te veel gebeurd, en het is nog te kort geleden. Maar helaas lijdt het overgroote deel van de meerderheid aan een heel slechte eigenschap, nl: men vergeet te veel! Het streven, dat in het artikel van den Heer ... geuit wordt, is helaas een verschijnsel, dat ook in andere deelen van onze maatschappij merkbaar wordt. Zijn vrouw kreeg slechts enkele dagen geleden het .. van de Vereeniniging van Vrouwen met Academische Opleiding in handen. Hierin werd voorgesteld of de Vereeniging zich als Vereeniging in contact moest stellen met de Duitsche intellectueelen, ja dan ... . Over deze vraag werd een enquête gehouden. Er stonden verder twee artikels afgedrukt: pro en contra. Het laatste artikel had ... ... ... ... . Uitstekend en goed gemotiveerd. Maar toch, het verschijnsel is er!  En dat is hoopt ... . Het zijn werkelijk ... ... haat gevoelens, die mij er toe brachten mijzelf aan de contra-zijde te stellen. Ik heb tijden gekend, dat ik verre van wraakzuchtig was jegens het "Herrenvolk". Ik ... mijn levens ... over de vraag hoe het toch mogelijk was, dat een mensch zoo verschrikkelijk kon zijn jegens zijn mede-menschen. ... ... hier ook nooit antwoord op. ... ... , pas 2 jaar na Deutschlandse capitulatie, zouden wij toch ... wel ... een ... op daden van het Deutsche volk zelf. Dit vooral heb ik den ... ... duidelijk willen maken. Lukt het, dan ben ik blij. Maar verwachten doe ik het niet. Want van de ... van het Leidsch Universiteitsblad hoorde ik, dat ik pas de eerste was, die tegen ... ... ... ideeën ... . Ik merk dus wel, dat de Leidsche ... weer terug in ... in de voor-oorlogsche apathie.
+
+Tegelijk met het posten van deze brief doe ik de twee ... ... van ... genoemd ... jaar in de bus. In deze brief zal ik ... ... ... van mijn eigen bijdrage. Dit zou ik daarmee terug willen hebben. Wanneer er een nummer van het L.K.B. uitkomt met mijn artikel erin, zal ik het ... ook toesturen. Maar dit zal pas ... einde van deze maand zijn, dus ... . Vandaar dat ik de copie U nu ... toesturen.
+
+Ik vond het prettig te horen, dat het met U en Uw kinderen goed gaat. Maakt Uw schoonzuster het ook goed? Wilt u bij gelegenheid wel mijn hartelijke groeten overbrengen aan haar? Stuuf zei altijd ... ... : "Mijn zuster is veel knapper dan ik". En dat meende hij ook. Ja, op 3 Februari 1945  bracht Stuuf mij naar het ... . Op zijn arm leunend , ben ik er naar toe gewandeld. Dat was ons afscheid.
+
+Mevrouw, ik eindig mijn brief. Wanneer wij tijd hebben, komen wij U opzoeken. Allen kan ik nog geen afspraak maken vanwege het werk. Nogmaals dank ik U voor Uw toestemming. Met vriendelijke groeten, ook van mijn vrouw.  
+
+Uw. dw.
+
+D.A.E. de Loos
 
 <br/>
 
