@@ -7,19 +7,20 @@
 1. [ Artefact ](#1)
     - [ Metadata ](#1.1)
 2. [ Research ](#2)
-    - [ Death masks ](#2.1)
-      - [  ➔ What is a death mask? ](#2.1.1)
-      - [  ➔ Death masks of the famous ](#2.1.3)
-      - [  ➔ L'Inconnue de la Seine ](#2.1.3)
-    - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.2)
-      - [  ➔ Who was Beckman? ](#2.2.1)
-      - [  ➔ Origins of Beckman's death mask ](#2.2.2)
-      - [  ➔ Letters to Mrs. Beckman ](#2.2.3)
-    - [ What should be archived? ](#2.3)
-    - [ The modern cemetery](#2.4)
-      - [ ➔ Death and mourning in the Digital Era ](#2.4.1)
-      - [ ➔ New types of cemeteries ](#2.4.2)
-      - [ ➔ Virtual archive for lived lives ](#2.4.3)
+    - [ Visits at the IISG ](#2.1)
+    - [ Death masks ](#2.3)
+      - [  ➔ What is a death mask? ](#2.3.1)
+      - [  ➔ Death masks of the famous ](#2.3.3)
+      - [  ➔ L'Inconnue de la Seine ](#2.3.3)
+    - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.3)
+      - [  ➔ Who was Beckman? ](#2.3.1)
+      - [  ➔ Origins of Beckman's death mask ](#2.3.2)
+      - [  ➔ Letters to Mrs. Beckman ](#2.3.3)
+    - [ What should be archived? ](#2.4)
+    - [ The modern cemetery](#2.5)
+      - [ ➔ Death and mourning in the Digital Era ](#2.5.1)
+      - [ ➔ New types of cemeteries ](#2.5.2)
+      - [ ➔ Virtual archive for lived lives ](#2.5.3)
 3. [ Transcodings ](#3)
     - [ Archiving Physical Objects ](#3.1)
     - [ Visual Narrative ](#3.2)
@@ -60,12 +61,19 @@
 
 <a name="2.1"></a>
 ### Death masks
+## Visits at the IISG
+- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
+- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
+
+
+<a name="2.2"></a>
+### Death masks
 
 **After spending some time on the online archive of the International Institute of Social History, I discovered that I was particularly intrigued by the category 'object'. Then I started to view the 97 pages globally. The death masks were one of the few who caught my attention at once. My research started with the phenomenon itself: a death mask. I found it interesting that in itself a death mask is already a transcoding, because it contains the information of a person's face. In addition, it is an object where mortality and the urge for immortality of man come together. But my main first question was: why did people make such masks of the deceased?**
 
 ---
 
-<a name="2.1.1"></a>
+<a name="2.2.1"></a>
 #### What is a death mask?
 *A death mask is a cast of a dead person*, usually made of wax or plaster. Death masks are true portraits, although changes are occasionally made in the eyes of the mask to make it appear as though the subject were alive. *From the time of ancient Egypt they have served as aids to portrait sculptors*, and for the last few centuries they have been kept as mementos of the dead.
 
@@ -82,7 +90,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 ---
 
-<a name="2.1.2"></a>
+<a name="2.2.2"></a>
 #### Death mask of the famous
 
 As already mentioned, death masks were made for a range of famous and notable people and were put on display for many to see. And in a time before photography, this could be as close to the real thing as you might get. <sup>[[3]](#footnote-3)</sup>
@@ -96,10 +104,10 @@ As already mentioned, death masks were made for a range of famous and notable pe
 
 ---
 
-<a name="2.1.3"></a>
+<a name="2.2.3"></a>
 #### L'Inconnue de la Seine
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Seine.jpg"><br/>*Mask of 'L'Inconnue de la Seine'*
 
 She's known simply as "L'Inconnue de la Seine" (The unknown woman of the Seine). So the story goes, her body was retrieved from the river in Paris in the 1870s or 1880s -- no one has an exact date. She'd apparently drowned herself. *An attendant at the morgue was so moved by her beauty and youth (she may well have been a teenager) that he ordered a plaster mold of her face.*
 
@@ -110,26 +118,26 @@ In the following decades, *her death mask was much reproduced, in effect becomin
 <br/>
 <br/>
 
-<a name="2.2."></a>
+<a name="2.3."></a>
 ### Herman (Stuuf) Bernard Wiardi Beckman
 
 **After my research on death masks in general, I became curious about the person behind the death mask. I quickly discovered that the mask had a special story and that Mr. Beckman meant a lot to a lot of people in the concentration camp where he was a prisoner. This was especially evident from the letters to his wife after his death that I encountered during one of my visits to the IISH. Out of respect for Mr. Beckman, his death mask was secretly worked on after his death.**
 
 ---
 
-<a name="2.2.1"></a>
+<a name="2.3.1"></a>
 #### Who was Beckman?
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Stuuf.jpg"><br/>*Herman (Stuuf) Bernard Wiardi Beckman*
 
 Herman Wiardi Beckman, known as Stuuf, was a prominent member of the Social Democratic Workers' Party (SDAP) and editor-in-chief of De Arbeiderspers newspapers. In World War II he was active in the resistance. Wiardi Beckman did not survive the war. He died on March 15, 1945 in Dachau concentration camp.
 
 ---
 
-<a name="2.2.2"></a>
+<a name="2.3.2"></a>
 #### Origins of Beckman's death mask
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Wilhemina.jpg"><br/>*Queen Wilhelmina (1880-1962) and Prime Minister Pieter Sjoerds Gerbrandy (1885-1961)*
 
 On a request from *Queen Wilhelmina* and *Prime Minister Gerbrandy*, Wiardi Beckman attempted to escape to England by boat on 18 January 1942. He should have joined the government in exile there, but was arrested on the beach of Scheveningen. <sup>[[6]](#footnote-6)</sup>
 
@@ -153,7 +161,7 @@ Wiardi Beckman then, as a "Nacht und Nebel" prisoner, ended up in Amersfoort and
 
 <br/>
 
-<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Dachau.jpg"><br/>*Barracks in Dachau, 1945*
 
 July 1944, the politician was transferred to Dachau, where he died on March 15, 1945 from typhoid fever. One of his fellow prisoners, the poet *Ed. Hoornik* (1910-1970), later wrote in an in memoriam:
 
@@ -169,7 +177,7 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 
 ---
 
-<a name="2.2.3"></a>
+<a name="2.3.3"></a>
 #### Letters to Mrs. Beckman
 
 ##### Letter 01
@@ -595,7 +603,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 <br/>
 <br/>
 
-<a name="2.3"></a>
+<a name="2.4"></a>
 ### What should be archived?
 
 **The more research I did, the more I became aware of the content I was working with. But what information should be kept and on what criteria is it determined? I thought such questions were important to include in my process. Not to answer them necessarily, but more to make more conscious choices during the making process..**
@@ -629,14 +637,14 @@ Unlike nuclear waste, archive material is not dangerous and therefore does not h
 <br/>
 <br/>
 
-<a name="2.4"></a>
+<a name="2.5"></a>
 ### The modern cemetery
 
 **The above questions made me think about archiving lived lives. Especially about new ways of archiving the deceased. Today's digital age offers us far more possibilities than before and in addition, modern life through globalization and this technology forces us to think about how we deal with death. I particularly liked the idea of ​​using virtual spaces as a new place of mourning From this idea I started my transcoding experiments.**
 
 ---
 
-<a name="2.4.1"></a>
+<a name="2.5.1"></a>
 ####  Death and mourning in the Digital Era
 
 ##### I am become digital death, the destroyer of worlds
@@ -671,9 +679,9 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-1.jpg"> <br/>
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-2.jpg"> <br/>
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-3.jpg"> <br/>
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-1.jpg"> <br/>
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-2.jpg"> <br/>
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Archiving-Physical-Objects-3.jpg"> <br/>
 
 </details>
 
@@ -763,22 +771,8 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 <br/>
 <br/>
-
----
----
----
-
-## Visits at the IISG
-- [Archive visit #1](https://drive.google.com/drive/folders/1xEyiUqV9R-NkfZ8kPi8OIN-Qvtdjhcg7)
-- [Archive visit #2](https://drive.google.com/drive/folders/1DO__XSRJpY4XvSEWM5V8nNJd9kC02zep)
-
----
-
 <br/>
-
 ---
-
-<br/>
 
 <a name="6"></a>
 ## Notes
