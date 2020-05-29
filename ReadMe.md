@@ -632,7 +632,7 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](3https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.jpg)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.jpg)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 <br/>
 <br/>
