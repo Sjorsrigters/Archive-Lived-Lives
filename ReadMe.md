@@ -169,9 +169,9 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-[![Geen-nummers-maar-Namen](src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.jpg)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
+[![Geen-nummers-maar-Namen](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.jpg)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
-[![DE-ANDEREN](src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
+[![DE-ANDEREN](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.png)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
