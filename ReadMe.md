@@ -169,9 +169,9 @@ July 1944, the politician was transferred to Dachau, where he died on March 15, 
 
 <br/>
 
-[![Geen-nummers-maar-Namen](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.jpg)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
+[![Geen-nummers-maar-Namen](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Geen-Nummers-Maar-Namen.jpg)](https://www.youtube.com/watch?v=wolGlNraSh0&feature=emb_title)*(CLICK TO SEE) VIDEO: Geen nummers maar Namen - Gijs thema dodenmasker Wiardi Beckman* <sup>[[8]](#footnote-8)</sup>
 
-[![DE-ANDEREN](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.jpg)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
+[![DE-ANDEREN](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Steensma.jpg)](https://www.youtube.com/watch?time_continue=1&v=Ti6fn5F3SLU&feature=emb_logo)*(CLICK TO SEE) VIDEO: DE ANDEREN - Carel Steensma verteld in een interview met Piet Bleeker over hoe hij in Dachau Wiari Beckman ontmoette.* <sup>[[9]](#footnote-9)</sup>
 
 After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław Bieńka* made, in order of Stuuf's Dutch fellow prisoners, a death mask in the deepest secret of his face. Bieńka was able to arrange the plaster by exchanging cigarettes that he received from Dutch prisoners. The mold was hidden by the Dutch and after the liberation was taken by former prisoner *Con Broers* and handed over to Stuuf's widow. This casting was made with the mold. <sup>[[7]](#footnote-7)</sup>
 
@@ -653,7 +653,7 @@ D.A.E. de Loos
 ##### How to explain meta topics to future generations?
 Unlike nuclear waste, archive material is not dangerous and therefore does not have to radiate danger. That is why we can think of leaving a mark for future generations. an example of a mark in the documentary 'Into Eternity':
 
-[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.jpg)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
+[![Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Future-Generations.jpg)](https://www.youtube.com/watch?v=PUXwrWMS-x8&feature=emb_title)*(CLICK TO SEE) VIDEO: Future Generations Need to Know Our Nuclear Waste Is Deadly. How Can We Tell Them?* <sup>[[10]](#footnote-10)</sup>
 
 <br/>
 <br/>
@@ -674,7 +674,7 @@ As the structure of families and local networks changes, the structure of death 
 
 [...]
 
-While still alive a wide range of people compulsively take images of themselves in the form of selfies, and upload these to online image platforms such as Instagram. After death such collected histories of data, image, sound and video files can be read as a self designed site for memorialization. We could even say that Instagram users create and carry their own virtual tombs. But are we aware anticipating their impending death carry the shadow of this in life and in death, an anticipation and a pre-designing of the digital after life.
+While still alive a wide range of people compulsively take images of themselves in the form of selfies, and upload these to online image platforms such as Instagram. After death such collected histories of data, image, sound and (CLICK TO SEE) VIDEO files can be read as a self designed site for memorialization. We could even say that Instagram users create and carry their own virtual tombs. But are we aware anticipating their impending death carry the shadow of this in life and in death, an anticipation and a pre-designing of the digital after life.
 
 Post-mortem photographs may also take the form of blingee gif files on blogging sites such as tumblr, where memorial images are heavily decorated with moving flowers, angel wings and animated glitter effects. These distinctly personalized images act as a form of currency on memorial groups and websites, being posted by others on sites for similarly-deceased decedents or for charity causes. The image of the deceased becomes a representation of a cause, customized beyond their control and living a new life after death.
 
@@ -719,7 +719,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
+[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*(CLICK TO SEE) VIDEO: Visual Narrative #01*
 
 </details>
 
@@ -735,7 +735,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*VIDEO: Interactive Dialogue #01*
+[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Interactive-Dialogue-1.png)](https://drive.google.com/drive/folders/1FKeT7qcrntvy4ifP2s1oWEwjCU7hn_8O)*(CLICK TO SEE) VIDEO: Interactive Dialogue #01*
 
 </details>
 
@@ -751,11 +751,11 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*VIDEO: Unity Process #01*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-1.png)](https://drive.google.com/drive/folders/1yr9ZXNbYXL4Pv92ndPhQYc7lSE8z4-gl)*(CLICK TO SEE) VIDEO: Unity Process #01*
 
-[![Unity Process #02](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*VIDEO: Unity Process #02*
+[![Unity Process #02](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-2.png)](https://drive.google.com/open?id=1OfeAOxKJ_cv63DAjrVnGyMQBuUObyBVc)*(CLICK TO SEE) VIDEO: Unity Process #02*
 
-[![Unity Process #03](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #03*
+[![Unity Process #03](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*(CLICK TO SEE) VIDEO: Unity Process #03*
 
 </details>
 
