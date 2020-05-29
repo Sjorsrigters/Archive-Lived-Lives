@@ -1,6 +1,6 @@
 <img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Cover-2.jpg">
-
 # Archiving Lived Lives
+
 
 
 ### Table of Content
@@ -739,7 +739,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 [![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
 
-[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Virtual-Tomb-3.png)](https://drive.google.com/open?id=10zhYWlYGqKgRPmJ21dy-BvADHYR_vGMn)*VIDEO: Unity Process #02*
+[![Unity Process #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.png)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Unity Process #03*
 
 
 </details>
@@ -747,24 +747,44 @@ The intersection of social media and image can be fraught after death. Somewhere
 <br/>
 <br/>
 
-
 <a name="4"></a>
 ## Reflection
 
-<a name="4"></a>
+[fill in text]
+
+<br>
+
+---
+
+<a name="5"></a>
 ## Outcome
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_4.jpg"> <br/>
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_4.jpg"><br/>*Room 1*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_3.jpg"> <br/>
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_3.jpg"><br/>*Room 2*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"> <br/>
+<img width="720" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_1.jpg"><br/>*Room 3*
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.jpg"> <br/>
+[![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/TheVirtualTomb_Thumbnail.jpg)](https://youtu.be/tY_1RCV6J_A)*VIDEO: Outcome*
 
-<a name="4"></a>
+<br>
+
+---
+
+<br>
+<br>
+
+<a name="6"></a>
 ## Conclusion
 
+[fill in text]
+
+<br>
+
+---
+
+<br>
+<br>
 
 <a name="7"></a>
 ## Bibliography
@@ -792,11 +812,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="footnote-11">[11]</a>: [ I am become digital death, the destroyer of worlds — Dr. Emily West & Stefan Schäfer ](http://stefanschafer.net/?p=1178)
 
 <a name="footnote-12">[12]</a>: [ Op Instagram krijgt rouwen een nieuwe dimensie — Daisy Jones (vice.nl) ](https://www.vice.com/nl/article/d3a57m/op-instagram-krijgt-rouwen-een-nieuwe-dimensie)
-
-<br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
