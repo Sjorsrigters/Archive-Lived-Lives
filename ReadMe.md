@@ -180,6 +180,8 @@ After Stuuf's death in Dachau on March 15, 1945, the Polish prisoner *Stanisław
 <a name="2.3.3"></a>
 #### Letters to Mrs. Beckman
 
+---
+
 ##### Letter 01
 
 | Tag                  | Data                           |
@@ -280,6 +282,8 @@ Met de meeste hoogachting
 
 <br/>
 
+---
+
 ##### Letter 03
 
 | Tag                  | Data                      |
@@ -359,6 +363,8 @@ Soest
 
 <br/>
 
+---
+
 ##### Letter 04
 
 | Tag                  | Data                           |
@@ -401,6 +407,8 @@ Beste groet van je vriend
 </details>
 
 <br/>
+
+---
 
 ##### Letter 05
 
@@ -452,6 +460,8 @@ Met vriendelijke groet
 
 <br/>
 
+---
+
 ##### Letter 06
 
 | Tag                  | Data                   |
@@ -497,6 +507,8 @@ Met de meeste hoogachting
 
 <br/>
 
+---
+
 ##### Letter 07
 
 | Tag                  | Data                           |
@@ -533,6 +545,8 @@ Moge zijn nagedachtenis U een steun in het verdere leven blijven.
 </details>
 
 <br/>
+
+---
 
 ##### Letter 08
 
@@ -571,6 +585,8 @@ Uw. dw. dr.
 
 <br/>
 
+---
+
 ##### Letter 09
 
 | Tag                  | Data                               |
@@ -599,6 +615,8 @@ Om op Uw brief terg te komen. Het deed mij zoo heel veel genoegen van U toestemm
 <img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/DeLoos-4.jpg">
 
 </details>
+
+---
 
 <br/>
 <br/>
@@ -663,6 +681,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
+
 <br/>
 <br/>
 
@@ -697,7 +716,7 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <details>
 
-[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.jpg)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
+[![Visual Narrative #01](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Visual-Narrative-1.png)](https://drive.google.com/open?id=1EJTmQutfIW05TFg_2rLylKY_5BGd7ZMd)*VIDEO: Visual Narrative #01*
 
 </details>
 
@@ -743,17 +762,17 @@ The intersection of social media and image can be fraught after death. Somewhere
 <a name="7"></a>
 ## Bibliography
 
-<a name="footnote-1">[1]</a>: [Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
+<a name="footnote-1">[1]</a>: [ Dodenmaskers: herinnering en propaganda ⁠(totzover.nl)](https://www.totzover.nl/ontdek-de-dood/top-13-collectie/dodenmaskers/)</sup>
 
-<a name="footnote-2">[2]</a>: [The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
+<a name="footnote-2">[2]</a>: [ he curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
 <a name="footnote-3">[3]</a>: [ 25 Death Masks of the famous and infamous — Lee Rimmer (abroadintheyard.com)](https://www.abroadintheyard.com/25-death-masks-of-the-famous-and-infamous/)
 
 <a name="footnote-4">[4]</a>: [ The curious and gruesome art of human death masks (cnn.com)](https://edition.cnn.com/style/article/death-masks/index.html)
 
-<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask))
+<a name="footnote-5">[5]</a>: [ How a Dead Girl in Paris Ended Up With The Most-Kissed Lips in History — Peter Dockrill (sciencealert.com)](https://www.sciencealert.com/how-dead-girl-paris-ended-up-most-kissed-lips-in-history-l-inconnue-de-la-seine-resusci-anne-cpr-annie-death-mask)
 
-<a name="footnote-6">[6]</a>: [Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
+<a name="footnote-6">[6]</a>: [ Herman ‘Stuuf’ Wiardi Beckman (1904-1945) [...] – Redactie (historiek.net)](https://historiek.net/herman-stuuf-wiardi-beckman-1904-1945/78712/)
 
 <a name="footnote-7">[7]</a>: [ Herman (Stuuf) Wiardi Beckman – Redactie (verzetsmuseum.org)](https://www.verzetsmuseum.org/museum/nl/tweede-wereldoorlog/themas/geen-nummers-maar-namen/herman-stuuf-wiardi-beckman)
 
