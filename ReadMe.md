@@ -15,7 +15,7 @@
     - [ Herman (Stuuf) Bernard Wiardi Beckman ](#2.3)
       - [  ➔ Who was Beckman? ](#2.3.1)
       - [  ➔ Origins of Beckman's death mask ](#2.3.2)
-      - [  ➔ Letters to Mrs. Beckman ](#2.3.3)
+      - [  ➔ Letters to Mrs. Beckman ](#2.3.3)s
     - [ What should be archived? ](#2.4)
     - [ The modern cemetery](#2.5)
       - [ ➔ Death and mourning in the Digital Era ](#2.5.1)
@@ -51,7 +51,7 @@
 | Genres               | Object                             |
 | Note                 | Death-Mask                         |
 | Subject Person       | Wiardi Beckman, Herman Bernard     |
-| <img width="420" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
+| <img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Artefact.jpg"> | Front view of the death mask of Herman (Stuuf) Bernard Wiardi Beckman. The mask is made out of plaster and displayed on a white background. The face has closed eyes and a slightly opened mouth. The ears are missing but a small part of the neck can be seen. |
 
 <br/>
 <br/>
@@ -83,7 +83,7 @@ From the seventeenth century, when the bourgeoisie became more powerful and self
 
 *In the eighteenth century, there was much interest in death masks and they were collected*. Enthusiasts tried to gather as large a collection of "celebrities" as possible and, especially in countries such as England and France, special galleries with masks of famous dead and executed criminals were created. <sup>[[1]](#footnote-1)</sup>
 
-<img width="480" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
+<img src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Tutankhamon.jpg"><br/>*Mask of Tutankhamun*
 
 
 [...] As Nick Reynolds will tell you, death masks began in antiquity — the most famous being the funerary mask of [Tutankhamun ](https://en.wikipedia.org/wiki/Mask_of_Tutankhamun). Wealthy Romans ritually kept death masks of their ancestors for display and worship. *The Victorians too were briefly obsessed* — according to the Victorian science of phrenology, you could determine a person's character and personality from the shape of his head. From the 1820s to the 1840s, a leading British phrenologist and mask-maker, James de Ville, accumulated some 2,000 specimens. <sup>[[2]](#footnote-2)</sup>
