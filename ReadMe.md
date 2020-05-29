@@ -787,7 +787,21 @@ By experimenting from different ways of approaching the artifact, I found out wh
 <a name="5"></a>
 ## Outcome
 
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif" > <br/>
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif" >
+
+<br/>
+
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-2.gif" >
+
+<br/>
+
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-3.gif" >
+
+<br/>
+
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-4.gif" >
+
+<br/>
 
 [![Outcome](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome.jpg)](https://http://sjorsrigters.com/archiving-lived-lives)
 
