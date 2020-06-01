@@ -2,7 +2,7 @@
 # Archiving Lived Lives
 
 
-### Table of Content
+### Table of Contents
 
 1. [ Artefact ](#1)
     - [ Metadata ](#1.1)
