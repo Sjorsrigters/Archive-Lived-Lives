@@ -694,11 +694,12 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 > The way we deal with death is not that different at all since there are social media. A difference is that our memories are now also digitized, and are themselves curated by the person who left us [...] <sup>[[12]](#footnote-12)</sup>
 
+<br/>
+
 ---
 
 <a name="2.5.2"></a>
 ####  New types of cemeteries
-
 |                                                                                                                       |                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [![JapansFuturisticCemeteries](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding1.jpg)](https://www.vice.com/en_us/article/9a3a5a/death-is-a-high-tech-trip-in-japans-futuristic-cemeteries)*Japan's Futuristic Cemeteries* | [![DigitalTombstone](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding10.jpg)](https://www.youtube.com/watch?v=-hdA1xGrgOk)*Digital Tombstone* |
@@ -708,7 +709,6 @@ The intersection of social media and image can be fraught after death. Somewhere
 
 <a name="2.5.3"></a>
 ####  Virtual space for lived lives
-
 |                                                                                                                       |                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [![SecondLife](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding11.jpg)](https://www.youtube.com/watch?v=jDbsi_0-iaA)*Second Life* | [![Myst](https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Afbeelding6.jpg)](https://www.youtube.com/watch?v=E9ZtXtFXE84&t=83s)*Myst* |
