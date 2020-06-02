@@ -810,25 +810,33 @@ By experimenting from different ways of approaching the artifact, I found out wh
 <a name="5"></a>
 ## Outcome
 
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif" >
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-1.gif" >
+
+**The first space makes a transition from the general history of death masks to the artifact itself.**
 
 <br/>
 
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-2.gif" >
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-2.gif" >
+
+**In the second room, Carel Steensma, friend and fellow prisoner of Beckman, tells the visitor about Beckman's death and the realization of his death mask.**
 
 <br/>
 
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-3.gif" >
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-3.gif" >
+
+**More context is given in the third space. The visitor learns more about the people involved, period and circumstances in which the mask was created.**
 
 <br/>
 
-<img width="100%" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-4.gif" >
+<img width="1920" height="auto" src="https://raw.githubusercontent.com/Sjorsrigters/Archiving-Lived-Lives/master/Images/Outcome-4.gif" >
+
+**In the last room, the visitor encounters a 3D model of the artifact. Here, all the earlier spaces come together and are consciously shown last so that the visitor is aware of the meaning of the death mask when viewing it.**
 
 <br/>
 
 ### Outcome link:
 
-[ The Virtual Tomb of Wiardi Beckman's Death Mask (walk-through) ](https://http://sjorsrigters.com/archiving-lived-lives)
+[ The Virtual Tomb of Wiardi Beckman's Death Mask (documentation) ](https://http://sjorsrigters.com/archiving-lived-lives)
 
 <br/>
 <br/>
