@@ -836,7 +836,7 @@ By experimenting from different ways of approaching the artifact, I found out wh
 
 ### Outcome link:
 
-[ The Virtual Tomb of Wiardi Beckman's Death Mask (documentation) ](https://http://sjorsrigters.com/archiving-lived-lives)
+[ The Virtual Tomb of Wiardi Beckman's Death Mask (documentation) ](https://http://sjorsrigters.com/archiving-lived-lives.html)
 
 <br/>
 <br/>
